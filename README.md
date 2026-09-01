@@ -6,11 +6,11 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 👷 Ce sur quoi je travaille en ce moment
 
-- [sulu/SuluMcpBundle](https://github.com/sulu/SuluMcpBundle) -  (today)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - JSON Schema for PHP (today)
+- [Behat/Behat](https://github.com/Behat/Behat) - BDD in PHP (today)
+- [sulu/SuluMcpBundle](https://github.com/sulu/SuluMcpBundle) (today)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues (1 day ago)
-- [sulu/SuluHeadlessBundle](https://github.com/sulu/SuluHeadlessBundle) - Bundle that provides controllers and services for using Sulu as headless content management system (1 day ago)
-- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - Bring consistency to documentation (1 day ago)
-- [async-aws/aws](https://github.com/async-aws/aws) - AWS SDK with readable code and async responses (2 days ago)
 
 #### 🔀 Mes dernières pull requests
 
