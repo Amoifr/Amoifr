@@ -7,9 +7,9 @@ et un peu partout ailleurs dans l'écosystème.
 #### 👷 Ce sur quoi je travaille en ce moment
 
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - Sends your logs to files, sockets, inboxes, databases and various web services (today)
+- [Behat/Behat](https://github.com/Behat/Behat) - BDD in PHP (today)
 - [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) - The ux.symfony.com website (today)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - JSON Schema for PHP (1 day ago)
 - [sulu/SuluMcpBundle](https://github.com/sulu/SuluMcpBundle) (1 day ago)
 
 #### 🔀 Mes dernières pull requests
