@@ -6,19 +6,19 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 👷 Ce sur quoi je travaille en ce moment
 
-- [Seldaek/monolog](https://github.com/Seldaek/monolog) - Sends your logs to files, sockets, inboxes, databases and various web services (1 day ago)
 - [Behat/Behat](https://github.com/Behat/Behat) - BDD in PHP (1 day ago)
 - [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) - The ux.symfony.com website (1 day ago)
+- [Seldaek/monolog](https://github.com/Seldaek/monolog) - Sends your logs to files, sockets, inboxes, databases and various web services (1 day ago)
+- [minkphp/driver-testsuite](https://github.com/minkphp/driver-testsuite) - Functional testsuite for Mink drivers (2 days ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
-- [sulu/SuluMcpBundle](https://github.com/sulu/SuluMcpBundle) (2 days ago)
 
 #### 🔀 Mes dernières pull requests
 
-- [test(metadata): build the elasticsearch state options in the compatibility expectation](https://github.com/api-platform/core/pull/8496) sur [api-platform/core](https://github.com/api-platform/core) (MERGED, 1 day ago)
-- [Cover checkboxes of an array field mixed with disabled ones](https://github.com/minkphp/driver-testsuite/pull/113) sur [minkphp/driver-testsuite](https://github.com/minkphp/driver-testsuite) (OPEN, 2 days ago)
-- [Keep the query string when comparing the current address](https://github.com/minkphp/Mink/pull/883) sur [minkphp/Mink](https://github.com/minkphp/Mink) (OPEN, 2 days ago)
-- [[FrameworkBundle] Document the webhook no_private_network and http_client options](https://github.com/symfony/symfony-docs/pull/22864) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (MERGED, 2 days ago)
-- [feat: honor factory state when a create helper is called on an instance](https://github.com/zenstruck/foundry/pull/1164) sur [zenstruck/foundry](https://github.com/zenstruck/foundry) (OPEN, 2 days ago)
+- [[Security] Document checking a guest&#39;s permissions with isGrantedForUser()](https://github.com/symfony/symfony-docs/pull/22908) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (OPEN, today)
+- [[Filesystem] Deprecate passing an empty string as the base path to Path::isBasePath()](https://github.com/symfony/symfony/pull/65828) sur [symfony/symfony](https://github.com/symfony/symfony) (OPEN, today)
+- [[Security] Deprecate passing more than one attribute to AccessDecisionManager::decide()](https://github.com/symfony/symfony/pull/65827) sur [symfony/symfony](https://github.com/symfony/symfony) (OPEN, today)
+- [feat: inject the http session into use()](https://github.com/zenstruck/browser/pull/213) sur [zenstruck/browser](https://github.com/zenstruck/browser) (OPEN, today)
+- [Document the six composer.json fields missing from the schema chapter](https://github.com/composer/composer/pull/13058) sur [composer/composer](https://github.com/composer/composer) (OPEN, today)
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
