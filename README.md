@@ -7,18 +7,18 @@ et un peu partout ailleurs dans l'écosystème.
 #### 👷 Ce sur quoi je travaille en ce moment
 
 - [Behat/Behat](https://github.com/Behat/Behat) - BDD in PHP (today)
-- [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (today)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (today)
 - [Behat/docs](https://github.com/Behat/docs) - Behat documentation repository (today)
+- [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (today)
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - Sends your logs to files, sockets, inboxes, databases and various web services (1 day ago)
-- [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) - The ux.symfony.com website (1 day ago)
 
 #### 🔀 Mes dernières pull requests
 
+- [fix: Handle aborted suites when printing unused definitions](https://github.com/Behat/Behat/pull/1882) sur [Behat/Behat](https://github.com/Behat/Behat) (OPEN, today)
 - [docs: Document the DataTable and DocString step argument types](https://github.com/Behat/docs/pull/231) sur [Behat/docs](https://github.com/Behat/docs) (MERGED, today)
 - [feat: Propose DataTable and DocString in generated snippets](https://github.com/Behat/Behat/pull/1878) sur [Behat/Behat](https://github.com/Behat/Behat) (MERGED, today)
 - [[Security] Let an authenticator tell why it did not support the request](https://github.com/symfony/symfony/pull/65830) sur [symfony/symfony](https://github.com/symfony/symfony) (OPEN, today)
-- [fix: Re-run scenarios that failed only in an after-scenario hook](https://github.com/Behat/Behat/pull/1877) sur [Behat/Behat](https://github.com/Behat/Behat) (OPEN, today)
-- [Do not block insecure packages when resolving dependencies](https://github.com/doctrine/rst-parser/pull/294) sur [doctrine/rst-parser](https://github.com/doctrine/rst-parser) (OPEN, today)
+- [fix: Re-run scenarios, features and suites that failed only in an after hook](https://github.com/Behat/Behat/pull/1877) sur [Behat/Behat](https://github.com/Behat/Behat) (OPEN, today)
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
