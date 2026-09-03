@@ -6,19 +6,19 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 👷 Ce sur quoi je travaille en ce moment
 
-- [Behat/Behat](https://github.com/Behat/Behat) - BDD in PHP (1 day ago)
-- [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) - The ux.symfony.com website (1 day ago)
+- [Behat/Behat](https://github.com/Behat/Behat) - BDD in PHP (today)
+- [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (today)
+- [Behat/docs](https://github.com/Behat/docs) - Behat documentation repository (today)
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - Sends your logs to files, sockets, inboxes, databases and various web services (1 day ago)
-- [minkphp/driver-testsuite](https://github.com/minkphp/driver-testsuite) - Functional testsuite for Mink drivers (2 days ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
+- [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com) - The ux.symfony.com website (1 day ago)
 
 #### 🔀 Mes dernières pull requests
 
-- [[Security] Document checking a guest&#39;s permissions with isGrantedForUser()](https://github.com/symfony/symfony-docs/pull/22908) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (OPEN, today)
-- [[Filesystem] Deprecate passing an empty string as the base path to Path::isBasePath()](https://github.com/symfony/symfony/pull/65828) sur [symfony/symfony](https://github.com/symfony/symfony) (OPEN, today)
-- [[Security] Deprecate passing more than one attribute to AccessDecisionManager::decide()](https://github.com/symfony/symfony/pull/65827) sur [symfony/symfony](https://github.com/symfony/symfony) (OPEN, today)
-- [feat: inject the http session into use()](https://github.com/zenstruck/browser/pull/213) sur [zenstruck/browser](https://github.com/zenstruck/browser) (OPEN, today)
-- [Document the six composer.json fields missing from the schema chapter](https://github.com/composer/composer/pull/13058) sur [composer/composer](https://github.com/composer/composer) (OPEN, today)
+- [docs: Document the DataTable and DocString step argument types](https://github.com/Behat/docs/pull/231) sur [Behat/docs](https://github.com/Behat/docs) (MERGED, today)
+- [feat: Propose DataTable and DocString in generated snippets](https://github.com/Behat/Behat/pull/1878) sur [Behat/Behat](https://github.com/Behat/Behat) (MERGED, today)
+- [[Security] Let an authenticator tell why it did not support the request](https://github.com/symfony/symfony/pull/65830) sur [symfony/symfony](https://github.com/symfony/symfony) (OPEN, today)
+- [fix: Re-run scenarios that failed only in an after-scenario hook](https://github.com/Behat/Behat/pull/1877) sur [Behat/Behat](https://github.com/Behat/Behat) (OPEN, today)
+- [Do not block insecure packages when resolving dependencies](https://github.com/doctrine/rst-parser/pull/294) sur [doctrine/rst-parser](https://github.com/doctrine/rst-parser) (OPEN, today)
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
