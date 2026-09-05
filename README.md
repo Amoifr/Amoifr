@@ -6,9 +6,9 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 👷 Ce sur quoi je travaille en ce moment
 
+- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - Bring consistency to documentation (today)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - JSON Schema for PHP (1 day ago)
 - [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (1 day ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 days ago)
 - [Behat/Behat](https://github.com/Behat/Behat) - BDD in PHP (2 days ago)
 - [Behat/docs](https://github.com/Behat/docs) - Behat documentation repository (2 days ago)
 
@@ -17,7 +17,7 @@ et un peu partout ailleurs dans l'écosystème.
 - [Make the CSP services autowirable](https://github.com/nelmio/NelmioSecurityBundle/pull/397) sur [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) (OPEN, today)
 - [Do not send a policy on a response carrying a dump](https://github.com/nelmio/NelmioSecurityBundle/pull/396) sur [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) (OPEN, today)
 - [feat: allow disabling the automatic monitor stamp](https://github.com/zenstruck/messenger-monitor-bundle/pull/183) sur [zenstruck/messenger-monitor-bundle](https://github.com/zenstruck/messenger-monitor-bundle) (OPEN, today)
-- [Do not report the indention of simple table cells](https://github.com/OskarStark/doctor-rst/pull/2387) sur [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (OPEN, today)
+- [Do not report the indention of simple table cells](https://github.com/OskarStark/doctor-rst/pull/2387) sur [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (MERGED, today)
 - [Allow one sort direction per field in the ORM sortable subscriber](https://github.com/KnpLabs/knp-components/pull/354) sur [KnpLabs/knp-components](https://github.com/KnpLabs/knp-components) (OPEN, today)
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
