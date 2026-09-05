@@ -14,11 +14,11 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔀 Mes dernières pull requests
 
-- [Fall back to the default image when an image cannot be generated](https://github.com/liip/LiipImagineBundle/pull/1665) sur [liip/LiipImagineBundle](https://github.com/liip/LiipImagineBundle) (OPEN, today)
-- [Make the XML mapping schema usable](https://github.com/dustin10/VichUploaderBundle/pull/1609) sur [dustin10/VichUploaderBundle](https://github.com/dustin10/VichUploaderBundle) (OPEN, today)
-- [Keep a falsy scalar value when setting data on a media](https://github.com/sulu/sulu/pull/9072) sur [sulu/sulu](https://github.com/sulu/sulu) (OPEN, today)
-- [Keep the fields coming from the request options in the list store](https://github.com/sulu/sulu/pull/9071) sur [sulu/sulu](https://github.com/sulu/sulu) (OPEN, today)
-- [Convert the service configuration from XML to PHP](https://github.com/sulu/SuluArticleViewDocumentBundle/pull/4) sur [sulu/SuluArticleViewDocumentBundle](https://github.com/sulu/SuluArticleViewDocumentBundle) (OPEN, today)
+- [Make the CSP services autowirable](https://github.com/nelmio/NelmioSecurityBundle/pull/397) sur [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) (OPEN, today)
+- [Do not send a policy on a response carrying a dump](https://github.com/nelmio/NelmioSecurityBundle/pull/396) sur [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) (OPEN, today)
+- [feat: allow disabling the automatic monitor stamp](https://github.com/zenstruck/messenger-monitor-bundle/pull/183) sur [zenstruck/messenger-monitor-bundle](https://github.com/zenstruck/messenger-monitor-bundle) (OPEN, today)
+- [Do not report the indention of simple table cells](https://github.com/OskarStark/doctor-rst/pull/2387) sur [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (OPEN, today)
+- [Allow one sort direction per field in the ORM sortable subscriber](https://github.com/KnpLabs/knp-components/pull/354) sur [KnpLabs/knp-components](https://github.com/KnpLabs/knp-components) (OPEN, today)
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
