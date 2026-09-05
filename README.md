@@ -14,11 +14,11 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔀 Mes dernières pull requests
 
-- [Build every configured input CSS, not just the first](https://github.com/SymfonyCasts/tailwind-bundle/pull/137) sur [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) (OPEN, 1 day ago)
-- [Require ext-mbstring, which the parser already needs](https://github.com/Masterminds/html5-php/pull/278) sur [Masterminds/html5-php](https://github.com/Masterminds/html5-php) (OPEN, 1 day ago)
-- [Handle .sass files, not only .scss](https://github.com/SymfonyCasts/sass-bundle/pull/102) sur [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle) (OPEN, 1 day ago)
-- [Drop the deprecated PHP templating integration](https://github.com/KnpLabs/KnpMenuBundle/pull/508) sur [KnpLabs/KnpMenuBundle](https://github.com/KnpLabs/KnpMenuBundle) (OPEN, 1 day ago)
-- [Adds bot detection from the From header](https://github.com/matomo-org/device-detector/pull/8376) sur [matomo-org/device-detector](https://github.com/matomo-org/device-detector) (OPEN, 1 day ago)
+- [Fall back to the default image when an image cannot be generated](https://github.com/liip/LiipImagineBundle/pull/1665) sur [liip/LiipImagineBundle](https://github.com/liip/LiipImagineBundle) (OPEN, today)
+- [Make the XML mapping schema usable](https://github.com/dustin10/VichUploaderBundle/pull/1609) sur [dustin10/VichUploaderBundle](https://github.com/dustin10/VichUploaderBundle) (OPEN, today)
+- [Keep a falsy scalar value when setting data on a media](https://github.com/sulu/sulu/pull/9072) sur [sulu/sulu](https://github.com/sulu/sulu) (OPEN, today)
+- [Keep the fields coming from the request options in the list store](https://github.com/sulu/sulu/pull/9071) sur [sulu/sulu](https://github.com/sulu/sulu) (OPEN, today)
+- [Convert the service configuration from XML to PHP](https://github.com/sulu/SuluArticleViewDocumentBundle/pull/4) sur [sulu/SuluArticleViewDocumentBundle](https://github.com/sulu/SuluArticleViewDocumentBundle) (OPEN, today)
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
