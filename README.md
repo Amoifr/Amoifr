@@ -14,11 +14,11 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔀 Mes dernières pull requests
 
+- [[Security] Document the current_user() expression function](https://github.com/symfony/symfony-docs/pull/22931) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (OPEN, today)
 - [[Security] Document why an authenticator did not support the request](https://github.com/symfony/symfony-docs/pull/22929) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (OPEN, today)
 - [Make the CSP services autowirable](https://github.com/nelmio/NelmioSecurityBundle/pull/397) sur [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) (OPEN, 1 day ago)
 - [Do not send a policy on a response carrying a dump](https://github.com/nelmio/NelmioSecurityBundle/pull/396) sur [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) (OPEN, 1 day ago)
 - [feat: allow disabling the automatic monitor stamp](https://github.com/zenstruck/messenger-monitor-bundle/pull/183) sur [zenstruck/messenger-monitor-bundle](https://github.com/zenstruck/messenger-monitor-bundle) (OPEN, 1 day ago)
-- [Do not report the indention of simple table cells](https://github.com/OskarStark/doctor-rst/pull/2387) sur [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (MERGED, 1 day ago)
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
