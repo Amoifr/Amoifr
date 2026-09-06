@@ -7,18 +7,18 @@ et un peu partout ailleurs dans l'écosystème.
 #### 👷 Ce sur quoi je travaille en ce moment
 
 - [Behat/Behat](https://github.com/Behat/Behat) - BDD in PHP (today)
+- [liip/LiipImagineBundle](https://github.com/liip/LiipImagineBundle) - Symfony Bundle to assist in image manipulation using the imagine library (today)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - Bring consistency to documentation (1 day ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - JSON Schema for PHP (2 days ago)
 - [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (2 days ago)
-- [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (3 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - JSON Schema for PHP (2 days ago)
 
 #### 🔀 Mes dernières pull requests
 
+- [feat: accept many selectors in assertSeeIn() and assertNotSeeIn()](https://github.com/zenstruck/browser/pull/214) sur [zenstruck/browser](https://github.com/zenstruck/browser) (OPEN, today)
+- [[RateLimiter] Document giving a fixed key to a sub-limiter](https://github.com/symfony/symfony-docs/pull/22934) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (OPEN, today)
+- [[String] Document the $regexp argument of the case conversion methods](https://github.com/symfony/symfony-docs/pull/22933) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (OPEN, today)
+- [[DependencyInjection] Document the factory argument of #[Autoconfigure]](https://github.com/symfony/symfony-docs/pull/22932) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (OPEN, today)
 - [[Security] Document the current_user() expression function](https://github.com/symfony/symfony-docs/pull/22931) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (OPEN, today)
-- [[Security] Document why an authenticator did not support the request](https://github.com/symfony/symfony-docs/pull/22929) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (OPEN, today)
-- [Make the CSP services autowirable](https://github.com/nelmio/NelmioSecurityBundle/pull/397) sur [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) (OPEN, 1 day ago)
-- [Do not send a policy on a response carrying a dump](https://github.com/nelmio/NelmioSecurityBundle/pull/396) sur [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) (OPEN, 1 day ago)
-- [feat: allow disabling the automatic monitor stamp](https://github.com/zenstruck/messenger-monitor-bundle/pull/183) sur [zenstruck/messenger-monitor-bundle](https://github.com/zenstruck/messenger-monitor-bundle) (OPEN, 1 day ago)
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
