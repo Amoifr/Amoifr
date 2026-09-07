@@ -6,19 +6,19 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 👷 Ce sur quoi je travaille en ce moment
 
-- [Behat/Behat](https://github.com/Behat/Behat) - BDD in PHP (1 day ago)
+- [Behat/Behat](https://github.com/Behat/Behat) - BDD in PHP (today)
+- [zenstruck/foundry](https://github.com/zenstruck/foundry) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine. (today)
 - [liip/LiipImagineBundle](https://github.com/liip/LiipImagineBundle) - Symfony Bundle to assist in image manipulation using the imagine library (1 day ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - Bring consistency to documentation (2 days ago)
-- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (3 days ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - JSON Schema for PHP (3 days ago)
 
 #### 🔀 Mes dernières pull requests
 
-- [feat: accept many selectors in assertSeeIn() and assertNotSeeIn()](https://github.com/zenstruck/browser/pull/214) sur [zenstruck/browser](https://github.com/zenstruck/browser) (OPEN, 1 day ago)
-- [[RateLimiter] Document giving a fixed key to a sub-limiter](https://github.com/symfony/symfony-docs/pull/22934) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (OPEN, 1 day ago)
-- [[String] Document the $regexp argument of the case conversion methods](https://github.com/symfony/symfony-docs/pull/22933) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (OPEN, 1 day ago)
-- [[DependencyInjection] Document the factory argument of #[Autoconfigure]](https://github.com/symfony/symfony-docs/pull/22932) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (OPEN, 1 day ago)
-- [[Security] Document the current_user() expression function](https://github.com/symfony/symfony-docs/pull/22931) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (OPEN, 1 day ago)
+- [Expose the Shadow setting over MCP](https://github.com/sulu/SuluMcpBundle/pull/44) sur [sulu/SuluMcpBundle](https://github.com/sulu/SuluMcpBundle) (OPEN, today)
+- [Expose the Link page setting over MCP](https://github.com/sulu/SuluMcpBundle/pull/43) sur [sulu/SuluMcpBundle](https://github.com/sulu/SuluMcpBundle) (OPEN, today)
+- [Decode html entities in the sulu-link href before splitting it](https://github.com/sulu/sulu/pull/9077) sur [sulu/sulu](https://github.com/sulu/sulu) (OPEN, today)
+- [Improves detection for LG QNED televisions](https://github.com/matomo-org/device-detector/pull/8378) sur [matomo-org/device-detector](https://github.com/matomo-org/device-detector) (OPEN, today)
+- [Ignore the DOCtor-RST cache file](https://github.com/symfony/symfony-docs/pull/22935) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (OPEN, today)
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
