@@ -8,9 +8,9 @@ et un peu partout ailleurs dans l'écosystème.
 
 - [Behat/Behat](https://github.com/Behat/Behat) - BDD in PHP (today)
 - [zenstruck/foundry](https://github.com/zenstruck/foundry) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine. (today)
+- [symfony/webpack-encore](https://github.com/symfony/webpack-encore) - A simple but powerful API for processing &amp; compiling assets built around Webpack (today)
 - [liip/LiipImagineBundle](https://github.com/liip/LiipImagineBundle) - Symfony Bundle to assist in image manipulation using the imagine library (1 day ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - Bring consistency to documentation (2 days ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - JSON Schema for PHP (3 days ago)
 
 #### 🔀 Mes dernières pull requests
 
@@ -22,8 +22,8 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
+- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) ([1.85.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.85.0), today) - Bring consistency to documentation
+- [Behat/Behat](https://github.com/Behat/Behat) ([v3.33.0](https://github.com/Behat/Behat/releases/tag/v3.33.0), today) - BDD in PHP
 - [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-alpha.3](https://github.com/api-platform/core/releases/tag/v5.0.0-alpha.3), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) ([6.12.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.12.0), 3 days ago) - JSON Schema for PHP
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v2.2.9](https://github.com/Sylius/Sylius/releases/tag/v2.2.9), 5 days ago) - Headless open-source eCommerce platform on top of PHP/Symfony/API Platform
 
 <sub>README généré automatiquement par <a href="https://github.com/muesli/readme-scribe">readme-scribe</a>.</sub>
