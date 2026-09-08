@@ -22,8 +22,8 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.95.25](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.25), today) - A tool to automatically fix PHP Coding Standards issues
 - [sulu/web-twig](https://github.com/sulu/web-twig) ([v2.7.0](https://github.com/sulu/web-twig/releases/tag/v2.7.0), today) - Handling JavaScript components with Twig
 - [sulu/SuluHeadlessBundle](https://github.com/sulu/SuluHeadlessBundle) ([3.0.2](https://github.com/sulu/SuluHeadlessBundle/releases/tag/3.0.2), today) - Bundle that provides controllers and services for using Sulu as headless content management system
-- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) ([1.85.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.85.0), 1 day ago) - Bring consistency to documentation
 
 <sub>README généré automatiquement par <a href="https://github.com/muesli/readme-scribe">readme-scribe</a>.</sub>
