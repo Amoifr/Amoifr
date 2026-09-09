@@ -6,19 +6,19 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 👷 Ce sur quoi je travaille en ce moment
 
+- [sulu/SuluArticleViewDocumentBundle](https://github.com/sulu/SuluArticleViewDocumentBundle) (today)
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - Sends your logs to files, sockets, inboxes, databases and various web services (today)
-- [sulu/SuluHeadlessBundle](https://github.com/sulu/SuluHeadlessBundle) - Bundle that provides controllers and services for using Sulu as headless content management system (1 day ago)
 - [sulu/web-twig](https://github.com/sulu/web-twig) - Handling JavaScript components with Twig (1 day ago)
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (2 days ago)
-- [symfony/webpack-encore](https://github.com/symfony/webpack-encore) - A simple but powerful API for processing &amp; compiling assets built around Webpack (2 days ago)
+- [sulu/SuluHeadlessBundle](https://github.com/sulu/SuluHeadlessBundle) - Bundle that provides controllers and services for using Sulu as headless content management system (1 day ago)
+- [Behat/Behat](https://github.com/Behat/Behat) - BDD in PHP (2 days ago)
 
 #### 🔀 Mes dernières pull requests
 
+- [Index the namer iterators with an attribute instead of a method](https://github.com/dustin10/VichUploaderBundle/pull/1613) sur [dustin10/VichUploaderBundle](https://github.com/dustin10/VichUploaderBundle) (OPEN, today)
+- [test: Cover and document how multiple filters combine](https://github.com/Behat/Gherkin/pull/431) sur [Behat/Gherkin](https://github.com/Behat/Gherkin) (OPEN, today)
+- [Discard parent segments that climb past the root](https://github.com/jsonrainbow/json-schema/pull/952) sur [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (OPEN, today)
+- [Stop inheriting the query and fragment of the base URI](https://github.com/jsonrainbow/json-schema/pull/951) sur [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (OPEN, today)
 - [Adds eight webOS television brands to the mobile parser](https://github.com/matomo-org/device-detector/pull/8380) sur [matomo-org/device-detector](https://github.com/matomo-org/device-detector) (OPEN, today)
-- [Adds brand detection for eight webOS televisions](https://github.com/matomo-org/device-detector/pull/8379) sur [matomo-org/device-detector](https://github.com/matomo-org/device-detector) (OPEN, today)
-- [Enable the cast_spaces rule in the CS config](https://github.com/KnpLabs/knp-components/pull/355) sur [KnpLabs/knp-components](https://github.com/KnpLabs/knp-components) (OPEN, today)
-- [Load the current file version with the medias assigned to a contact or account](https://github.com/sulu/sulu/pull/9079) sur [sulu/sulu](https://github.com/sulu/sulu) (OPEN, 1 day ago)
-- [Expose the Shadow setting over MCP](https://github.com/sulu/SuluMcpBundle/pull/44) sur [sulu/SuluMcpBundle](https://github.com/sulu/SuluMcpBundle) (OPEN, 2 days ago)
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
