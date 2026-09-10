@@ -6,19 +6,19 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 👷 Ce sur quoi je travaille en ce moment
 
+- [matomo-org/device-detector](https://github.com/matomo-org/device-detector) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.  (today)
+- [KnpLabs/knp-components](https://github.com/KnpLabs/knp-components) - Various component pack, includes paginator (1 day ago)
 - [sulu/SuluArticleViewDocumentBundle](https://github.com/sulu/SuluArticleViewDocumentBundle) (1 day ago)
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - Sends your logs to files, sockets, inboxes, databases and various web services (1 day ago)
 - [sulu/web-twig](https://github.com/sulu/web-twig) - Handling JavaScript components with Twig (2 days ago)
-- [sulu/SuluHeadlessBundle](https://github.com/sulu/SuluHeadlessBundle) - Bundle that provides controllers and services for using Sulu as headless content management system (2 days ago)
-- [Behat/Behat](https://github.com/Behat/Behat) - BDD in PHP (3 days ago)
 
 #### 🔀 Mes dernières pull requests
 
+- [Document how asset versioning works with the AssetMapper](https://github.com/liip/LiipImagineBundle/pull/1668) sur [liip/LiipImagineBundle](https://github.com/liip/LiipImagineBundle) (OPEN, today)
+- [Fix the documented range of the background filter transparency](https://github.com/liip/LiipImagineBundle/pull/1667) sur [liip/LiipImagineBundle](https://github.com/liip/LiipImagineBundle) (OPEN, today)
+- [[make:command] Ask for the arguments and the options](https://github.com/symfony/maker-bundle/pull/1825) sur [symfony/maker-bundle](https://github.com/symfony/maker-bundle) (OPEN, today)
 - [Index the namer iterators with an attribute instead of a method](https://github.com/dustin10/VichUploaderBundle/pull/1613) sur [dustin10/VichUploaderBundle](https://github.com/dustin10/VichUploaderBundle) (OPEN, 1 day ago)
 - [test: Cover and document how multiple filters combine](https://github.com/Behat/Gherkin/pull/431) sur [Behat/Gherkin](https://github.com/Behat/Gherkin) (OPEN, 1 day ago)
-- [Discard parent segments that climb past the root](https://github.com/jsonrainbow/json-schema/pull/952) sur [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (OPEN, 1 day ago)
-- [Stop inheriting the query and fragment of the base URI](https://github.com/jsonrainbow/json-schema/pull/951) sur [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (OPEN, 1 day ago)
-- [Adds eight webOS television brands to the mobile parser](https://github.com/matomo-org/device-detector/pull/8380) sur [matomo-org/device-detector](https://github.com/matomo-org/device-detector) (OPEN, 1 day ago)
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
