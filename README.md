@@ -14,11 +14,11 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔀 Mes dernières pull requests
 
+- [Explain the relationship between --format and --out](https://github.com/Behat/Behat/pull/1889) sur [Behat/Behat](https://github.com/Behat/Behat) (OPEN, today)
 - [Document how asset versioning works with the AssetMapper](https://github.com/liip/LiipImagineBundle/pull/1668) sur [liip/LiipImagineBundle](https://github.com/liip/LiipImagineBundle) (OPEN, today)
 - [Fix the documented range of the background filter transparency](https://github.com/liip/LiipImagineBundle/pull/1667) sur [liip/LiipImagineBundle](https://github.com/liip/LiipImagineBundle) (OPEN, today)
 - [[make:command] Ask for the arguments and the options](https://github.com/symfony/maker-bundle/pull/1825) sur [symfony/maker-bundle](https://github.com/symfony/maker-bundle) (OPEN, today)
 - [Index the namer iterators with an attribute instead of a method](https://github.com/dustin10/VichUploaderBundle/pull/1613) sur [dustin10/VichUploaderBundle](https://github.com/dustin10/VichUploaderBundle) (OPEN, 1 day ago)
-- [test: Cover and document how multiple filters combine](https://github.com/Behat/Gherkin/pull/431) sur [Behat/Gherkin](https://github.com/Behat/Gherkin) (OPEN, 1 day ago)
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
