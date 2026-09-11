@@ -6,19 +6,19 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 👷 Ce sur quoi je travaille en ce moment
 
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (today)
+- [dustin10/VichUploaderBundle](https://github.com/dustin10/VichUploaderBundle) - A simple Symfony bundle to ease file uploads with ORM entities and ODM documents. (1 day ago)
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) - Symfony Maker Bundle (1 day ago)
 - [liip/LiipImagineBundle](https://github.com/liip/LiipImagineBundle) - Symfony Bundle to assist in image manipulation using the imagine library (1 day ago)
 - [matomo-org/device-detector](https://github.com/matomo-org/device-detector) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.  (1 day ago)
-- [dustin10/VichUploaderBundle](https://github.com/dustin10/VichUploaderBundle) - A simple Symfony bundle to ease file uploads with ORM entities and ODM documents. (1 day ago)
-- [Seldaek/monolog](https://github.com/Seldaek/monolog) - Sends your logs to files, sockets, inboxes, databases and various web services (2 days ago)
 
 #### 🔀 Mes dernières pull requests
 
-- [[Translation] Make `PoEditorProvider` fetch every domain and locale when passed none, and add missing languages](https://github.com/symfony/symfony/pull/65996) sur [symfony/symfony](https://github.com/symfony/symfony) (OPEN, today)
-- [[String] Keep the case of a leading acronym in ByteString::camel()](https://github.com/symfony/symfony/pull/65995) sur [symfony/symfony](https://github.com/symfony/symfony) (OPEN, today)
-- [[DependencyInjection] Add the &#34;kernel.close&#34; tag to close services on kernel shutdown](https://github.com/symfony/symfony/pull/65989) sur [symfony/symfony](https://github.com/symfony/symfony) (OPEN, today)
-- [Fix the layouts when the translator is disabled](https://github.com/kevinpapst/TablerBundle/pull/265) sur [kevinpapst/TablerBundle](https://github.com/kevinpapst/TablerBundle) (OPEN, today)
-- [Fix the page header text color with an overlapping navbar](https://github.com/kevinpapst/TablerBundle/pull/264) sur [kevinpapst/TablerBundle](https://github.com/kevinpapst/TablerBundle) (OPEN, 1 day ago)
+- [Skip all code blocks in the ensure_attribute_between_backticks_in_content rule](https://github.com/OskarStark/doctor-rst/pull/2390) sur [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (OPEN, today)
+- [[Validator] Document that an uncaught ValidationFailedException renders as a 422 response](https://github.com/symfony/symfony-docs/pull/22984) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (OPEN, today)
+- [[Notifier] Deprecate the LineNotify bridge](https://github.com/symfony/symfony/pull/66018) sur [symfony/symfony](https://github.com/symfony/symfony) (MERGED, today)
+- [[Translation] Make `PhraseProvider::read()` fetch every locale when passed none](https://github.com/symfony/symfony/pull/66007) sur [symfony/symfony](https://github.com/symfony/symfony) (OPEN, today)
+- [[Translation] Pin that `LokaliseProvider::read()` reads everything when passed no domains or locales](https://github.com/symfony/symfony/pull/66006) sur [symfony/symfony](https://github.com/symfony/symfony) (OPEN, today)
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
