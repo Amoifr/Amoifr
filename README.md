@@ -10,7 +10,7 @@ et un peu partout ailleurs dans l'écosystème.
 - [Behat/Gherkin](https://github.com/Behat/Gherkin) - Gherkin parser, written in PHP for Behat project (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 day ago)
 - [matomo-org/device-detector](https://github.com/matomo-org/device-detector) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.  (2 days ago)
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) - Symfony Maker Bundle (2 days ago)
+- [dustin10/VichUploaderBundle](https://github.com/dustin10/VichUploaderBundle) - A simple Symfony bundle to ease file uploads with ORM entities and ODM documents. (2 days ago)
 
 #### 🔀 Mes dernières pull requests
 
