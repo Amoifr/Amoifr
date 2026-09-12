@@ -22,8 +22,8 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-beta.1](https://github.com/api-platform/core/releases/tag/v5.0.0-beta.1), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) ([3.12.0](https://github.com/Seldaek/monolog/releases/tag/3.12.0), 3 days ago) - Sends your logs to files, sockets, inboxes, databases and various web services
 - [dustin10/VichUploaderBundle](https://github.com/dustin10/VichUploaderBundle) ([v2.10.1](https://github.com/dustin10/VichUploaderBundle/releases/tag/v2.10.1), 3 days ago) - A simple Symfony bundle to ease file uploads with ORM entities and ODM documents.
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.95.25](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.25), 4 days ago) - A tool to automatically fix PHP Coding Standards issues
 
 <sub>README généré automatiquement par <a href="https://github.com/muesli/readme-scribe">readme-scribe</a>.</sub>
