@@ -6,19 +6,19 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 👷 Ce sur quoi je travaille en ce moment
 
+- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - Bring consistency to documentation (today)
+- [Behat/Gherkin](https://github.com/Behat/Gherkin) - Gherkin parser, written in PHP for Behat project (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 day ago)
-- [dustin10/VichUploaderBundle](https://github.com/dustin10/VichUploaderBundle) - A simple Symfony bundle to ease file uploads with ORM entities and ODM documents. (2 days ago)
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) - Symfony Maker Bundle (2 days ago)
-- [liip/LiipImagineBundle](https://github.com/liip/LiipImagineBundle) - Symfony Bundle to assist in image manipulation using the imagine library (2 days ago)
 - [matomo-org/device-detector](https://github.com/matomo-org/device-detector) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.  (2 days ago)
+- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) - Symfony Maker Bundle (2 days ago)
 
 #### 🔀 Mes dernières pull requests
 
-- [Stop the enclosing directive lookup at a less indented line](https://github.com/OskarStark/doctor-rst/pull/2392) sur [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (OPEN, 1 day ago)
+- [[Translation] Make `CrowdinProvider::write()` add the locales missing from the project](https://github.com/symfony/symfony/pull/66028) sur [symfony/symfony](https://github.com/symfony/symfony) (OPEN, today)
+- [[AssetMapper][FrameworkBundle] Stop versioning the assets the mapper already resolved](https://github.com/symfony/symfony/pull/66027) sur [symfony/symfony](https://github.com/symfony/symfony) (OPEN, today)
+- [Stop the enclosing directive lookup at a less indented line](https://github.com/OskarStark/doctor-rst/pull/2392) sur [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (MERGED, 1 day ago)
 - [Skip all code blocks in the ensure_attribute_between_backticks_in_content rule](https://github.com/OskarStark/doctor-rst/pull/2390) sur [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (OPEN, 1 day ago)
 - [[Validator] Document that an uncaught ValidationFailedException renders as a 422 response](https://github.com/symfony/symfony-docs/pull/22984) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (OPEN, 1 day ago)
-- [[Notifier] Deprecate the LineNotify bridge](https://github.com/symfony/symfony/pull/66018) sur [symfony/symfony](https://github.com/symfony/symfony) (MERGED, 1 day ago)
-- [[Translation] Make `PhraseProvider::read()` fetch every locale when passed none](https://github.com/symfony/symfony/pull/66007) sur [symfony/symfony](https://github.com/symfony/symfony) (OPEN, 1 day ago)
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
