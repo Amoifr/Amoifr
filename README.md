@@ -14,11 +14,11 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔀 Mes dernières pull requests
 
+- [Document the redirect attribute of a webspace URL](https://github.com/sulu/sulu-docs/pull/938) sur [sulu/sulu-docs](https://github.com/sulu/sulu-docs) (OPEN, today)
+- [Use the link provider for external redirect links](https://github.com/sulu/SuluFormBundle/pull/449) sur [sulu/SuluFormBundle](https://github.com/sulu/SuluFormBundle) (OPEN, today)
+- [Add blocks around the login username and password fields](https://github.com/kevinpapst/TablerBundle/pull/266) sur [kevinpapst/TablerBundle](https://github.com/kevinpapst/TablerBundle) (OPEN, today)
+- [[Translation] Document the new Crowdin and Phrase provider behaviors](https://github.com/symfony/symfony-docs/pull/23002) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (OPEN, today)
 - [Only treat schema bearing positions as identifier locations](https://github.com/jsonrainbow/json-schema/pull/954) sur [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (OPEN, 1 day ago)
-- [[Translation] Make `CrowdinProvider::write()` add the locales missing from the project](https://github.com/symfony/symfony/pull/66028) sur [symfony/symfony](https://github.com/symfony/symfony) (MERGED, 2 days ago)
-- [[AssetMapper][FrameworkBundle] Stop versioning the assets the mapper already resolved](https://github.com/symfony/symfony/pull/66027) sur [symfony/symfony](https://github.com/symfony/symfony) (MERGED, 2 days ago)
-- [Stop the enclosing directive lookup at a less indented line](https://github.com/OskarStark/doctor-rst/pull/2392) sur [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (MERGED, 3 days ago)
-- [Skip all code blocks in the ensure_attribute_between_backticks_in_content rule](https://github.com/OskarStark/doctor-rst/pull/2390) sur [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (OPEN, 3 days ago)
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
