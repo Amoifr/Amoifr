@@ -6,19 +6,19 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 👷 Ce sur quoi je travaille en ce moment
 
+- [sulu/sulu](https://github.com/sulu/sulu) - Core framework that implements the functionality of the Sulu content management system (today)
 - [sulu/sulu-docs](https://github.com/sulu/sulu-docs) - Sulu documentation (today)
 - [sulu/SuluCommentBundle](https://github.com/sulu/SuluCommentBundle) - Sulu comment bundle (today)
 - [sulu/SuluCommunityBundle](https://github.com/sulu/SuluCommunityBundle) - Community features like Login, Registration, Password forget/reset for your sulu application. (today)
 - [kevinpapst/TablerBundle](https://github.com/kevinpapst/TablerBundle) - Tabler.io bundle for Symfony 6 - admin theme for easy integration, coming with Bootstrap 5.3, Webpack-Encore integration and many more features... (1 day ago)
-- [jolicode/castor](https://github.com/jolicode/castor) - 🦫 A lightweight and modern task runner for Automation, CI/CD &amp; DevOps. (2 days ago)
 
 #### 🔀 Mes dernières pull requests
 
+- [Ignore the config reference generated from Symfony 8.1](https://github.com/sulu/SuluCommentBundle/pull/63) sur [sulu/SuluCommentBundle](https://github.com/sulu/SuluCommentBundle) (OPEN, today)
 - [[make:*] Offer to install missing packages with Composer](https://github.com/symfony/maker-bundle/pull/1835) sur [symfony/maker-bundle](https://github.com/symfony/maker-bundle) (OPEN, 1 day ago)
 - [[Form] Document the BoundsType field](https://github.com/symfony/symfony-docs/pull/23030) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (CLOSED, 1 day ago)
 - [[Notifier] Document the deprecation of the LineNotify bridge](https://github.com/symfony/symfony-docs/pull/23027) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (MERGED, 1 day ago)
 - [Serialize entity reference nodes instead of skipping them](https://github.com/Masterminds/html5-php/pull/279) sur [Masterminds/html5-php](https://github.com/Masterminds/html5-php) (OPEN, 2 days ago)
-- [Document the redirect attribute of a webspace URL](https://github.com/sulu/sulu-docs/pull/938) sur [sulu/sulu-docs](https://github.com/sulu/sulu-docs) (OPEN, 2 days ago)
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
