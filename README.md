@@ -8,9 +8,9 @@ et un peu partout ailleurs dans l'écosystème.
 
 - [sulu/sulu](https://github.com/sulu/sulu) - Core framework that implements the functionality of the Sulu content management system (today)
 - [sulu/sulu-docs](https://github.com/sulu/sulu-docs) - Sulu documentation (today)
-- [sulu/SuluCommentBundle](https://github.com/sulu/SuluCommentBundle) - Sulu comment bundle (today)
 - [sulu/SuluCommunityBundle](https://github.com/sulu/SuluCommunityBundle) - Community features like Login, Registration, Password forget/reset for your sulu application. (today)
-- [kevinpapst/TablerBundle](https://github.com/kevinpapst/TablerBundle) - Tabler.io bundle for Symfony 6 - admin theme for easy integration, coming with Bootstrap 5.3, Webpack-Encore integration and many more features... (1 day ago)
+- [sulu/SuluCommentBundle](https://github.com/sulu/SuluCommentBundle) - Sulu comment bundle (today)
+- [zenstruck/foundry](https://github.com/zenstruck/foundry) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine. (today)
 
 #### 🔀 Mes dernières pull requests
 
