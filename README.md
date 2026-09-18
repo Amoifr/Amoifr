@@ -22,8 +22,8 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
+- [jolicode/castor](https://github.com/jolicode/castor) ([v1.8.0](https://github.com/jolicode/castor/releases/tag/v1.8.0), today) - 🦫 A lightweight and modern task runner for Automation, CI/CD &amp; DevOps.
+- [twigphp/Twig](https://github.com/twigphp/Twig) ([v3.29.0](https://github.com/twigphp/Twig/releases/tag/v3.29.0), today) - Twig, the flexible, fast, and secure template language for PHP
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v5.6.0](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v5.6.0), 1 day ago) - EasyAdmin is a fast, beautiful and modern admin generator for Symfony applications.
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.0](https://github.com/api-platform/core/releases/tag/v5.0.0), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [zenstruck/foundry](https://github.com/zenstruck/foundry) ([v2.13.0](https://github.com/zenstruck/foundry/releases/tag/v2.13.0), 1 day ago) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine.
 
 <sub>README généré automatiquement par <a href="https://github.com/muesli/readme-scribe">readme-scribe</a>.</sub>
