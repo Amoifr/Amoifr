@@ -22,8 +22,8 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
+- [symfony/ux](https://github.com/symfony/ux) ([v3.5.1](https://github.com/symfony/ux/releases/tag/v3.5.1), today) - Symfony UX initiative: a JavaScript ecosystem for Symfony
 - [jolicode/castor](https://github.com/jolicode/castor) ([v1.8.0](https://github.com/jolicode/castor/releases/tag/v1.8.0), 1 day ago) - 🦫 A lightweight and modern task runner for Automation, CI/CD &amp; DevOps.
 - [twigphp/Twig](https://github.com/twigphp/Twig) ([v3.29.0](https://github.com/twigphp/Twig/releases/tag/v3.29.0), 1 day ago) - Twig, the flexible, fast, and secure template language for PHP
-- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v5.6.0](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v5.6.0), 2 days ago) - EasyAdmin is a fast, beautiful and modern admin generator for Symfony applications.
 
 <sub>README généré automatiquement par <a href="https://github.com/muesli/readme-scribe">readme-scribe</a>.</sub>
