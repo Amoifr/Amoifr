@@ -14,11 +14,11 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔀 Mes dernières pull requests
 
-- [Ignore the config reference generated from Symfony 8.1](https://github.com/sulu/SuluCommentBundle/pull/63) sur [sulu/SuluCommentBundle](https://github.com/sulu/SuluCommentBundle) (OPEN, 3 days ago)
-- [[make:*] Offer to install missing packages with Composer](https://github.com/symfony/maker-bundle/pull/1835) sur [symfony/maker-bundle](https://github.com/symfony/maker-bundle) (OPEN, 4 days ago)
-- [[Form] Document the BoundsType field](https://github.com/symfony/symfony-docs/pull/23030) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (CLOSED, 4 days ago)
-- [[Notifier] Document the deprecation of the LineNotify bridge](https://github.com/symfony/symfony-docs/pull/23027) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (MERGED, 4 days ago)
-- [Serialize entity reference nodes instead of skipping them](https://github.com/Masterminds/html5-php/pull/279) sur [Masterminds/html5-php](https://github.com/Masterminds/html5-php) (OPEN, 5 days ago)
+- [Register a workflow transition security context provider for products](https://github.com/sulu/SuluProductBundle/pull/433) sur [sulu/SuluProductBundle](https://github.com/sulu/SuluProductBundle) (OPEN, today)
+- [Resolve the snippet security context per group](https://github.com/sulu/SuluMcpBundle/pull/49) sur [sulu/SuluMcpBundle](https://github.com/sulu/SuluMcpBundle) (OPEN, today)
+- [Link the message type in the statistics table and show the worker up time](https://github.com/zenstruck/messenger-monitor-bundle/pull/184) sur [zenstruck/messenger-monitor-bundle](https://github.com/zenstruck/messenger-monitor-bundle) (OPEN, today)
+- [Offer the no choice entry on optional single choice fields](https://github.com/sulu/SuluFormBundle/pull/451) sur [sulu/SuluFormBundle](https://github.com/sulu/SuluFormBundle) (OPEN, today)
+- [[Mailer] Document the Amazon SES tenant option and the X-SES-TENANT header](https://github.com/symfony/symfony-docs/pull/23065) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (OPEN, today)
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
