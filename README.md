@@ -14,11 +14,11 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔀 Mes dernières pull requests
 
+- [fix: Reject percent signs that do not introduce a hex triplet in relative references](https://github.com/jsonrainbow/json-schema/pull/959) sur [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (OPEN, today)
+- [fix: Keep backslash sequences of the install path in package:// translation](https://github.com/jsonrainbow/json-schema/pull/958) sur [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (OPEN, today)
+- [ci: test Symfony 8.1 instead of the end of life 8.0](https://github.com/zenstruck/messenger-monitor-bundle/pull/185) sur [zenstruck/messenger-monitor-bundle](https://github.com/zenstruck/messenger-monitor-bundle) (OPEN, today)
 - [Register a workflow transition security context provider for products](https://github.com/sulu/SuluProductBundle/pull/433) sur [sulu/SuluProductBundle](https://github.com/sulu/SuluProductBundle) (OPEN, 1 day ago)
 - [Resolve the snippet security context per group](https://github.com/sulu/SuluMcpBundle/pull/49) sur [sulu/SuluMcpBundle](https://github.com/sulu/SuluMcpBundle) (OPEN, 1 day ago)
-- [Link the message type in the statistics table and show the worker up time](https://github.com/zenstruck/messenger-monitor-bundle/pull/184) sur [zenstruck/messenger-monitor-bundle](https://github.com/zenstruck/messenger-monitor-bundle) (OPEN, 1 day ago)
-- [Offer the no choice entry on optional single choice fields](https://github.com/sulu/SuluFormBundle/pull/451) sur [sulu/SuluFormBundle](https://github.com/sulu/SuluFormBundle) (OPEN, 1 day ago)
-- [[Mailer] Document the Amazon SES tenant option and the X-SES-TENANT header](https://github.com/symfony/symfony-docs/pull/23065) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (OPEN, 1 day ago)
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
