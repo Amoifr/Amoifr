@@ -6,19 +6,19 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 👷 Ce sur quoi je travaille en ce moment
 
-- [sulu/sulu](https://github.com/sulu/sulu) - Core framework that implements the functionality of the Sulu content management system (today)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (today)
-- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - Bring consistency to documentation (1 day ago)
-- [matomo-org/device-detector](https://github.com/matomo-org/device-detector) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.  (1 day ago)
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle) - Symfony Maker Bundle (1 day ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - JSON Schema for PHP (today)
+- [jolicode/JoliTypo](https://github.com/jolicode/JoliTypo) - 🔤 Microtypography fixer for the web (today)
+- [sulu/sulu](https://github.com/sulu/sulu) - Core framework that implements the functionality of the Sulu content management system (today)
+- [zenstruck/foundry](https://github.com/zenstruck/foundry) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine. (1 day ago)
 
 #### 🔀 Mes dernières pull requests
 
+- [Implement PS256, PS384, and PS512 signers](https://github.com/lcobucci/jwt/pull/1182) sur [lcobucci/jwt](https://github.com/lcobucci/jwt) (OPEN, today)
 - [feat(dash): Bind the spaces of an incise pair and of a range](https://github.com/jolicode/JoliTypo/pull/140) sur [jolicode/JoliTypo](https://github.com/jolicode/JoliTypo) (OPEN, today)
 - [[Twig] Name the routing arguments as the extension does](https://github.com/symfony/symfony-docs/pull/23083) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (MERGED, today)
 - [Render the upload markers and the Sylius widget buttons](https://github.com/jolicode/MediaBundle/pull/175) sur [jolicode/MediaBundle](https://github.com/jolicode/MediaBundle) (OPEN, today)
-- [fix(space): Stop matching a pipe as a space in three fixers](https://github.com/jolicode/JoliTypo/pull/139) sur [jolicode/JoliTypo](https://github.com/jolicode/JoliTypo) (OPEN, today)
-- [Compare the reindex provider results regardless of their order](https://github.com/sulu/sulu/pull/9125) sur [sulu/sulu](https://github.com/sulu/sulu) (OPEN, today)
+- [fix(space): Stop matching a pipe as a space in three fixers](https://github.com/jolicode/JoliTypo/pull/139) sur [jolicode/JoliTypo](https://github.com/jolicode/JoliTypo) (MERGED, today)
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
