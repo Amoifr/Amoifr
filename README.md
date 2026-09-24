@@ -22,8 +22,8 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
+- [jolicode/JoliTypo](https://github.com/jolicode/JoliTypo) ([v2.0.0](https://github.com/jolicode/JoliTypo/releases/tag/v2.0.0), today) - 🔤 Microtypography fixer for the web
 - [kevinpapst/TablerBundle](https://github.com/kevinpapst/TablerBundle) ([2.4.1](https://github.com/kevinpapst/TablerBundle/releases/tag/2.4.1), today) - Tabler.io bundle for Symfony 6 - admin theme for easy integration, coming with Bootstrap 5.3, Webpack-Encore integration and many more features...
-- [jolicode/JoliTypo](https://github.com/jolicode/JoliTypo) ([v1.8.0](https://github.com/jolicode/JoliTypo/releases/tag/v1.8.0), 1 day ago) - 🔤 Microtypography fixer for the web
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) ([6.13.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.13.0), 1 day ago) - JSON Schema for PHP
 
 <sub>README généré automatiquement par <a href="https://github.com/muesli/readme-scribe">readme-scribe</a>.</sub>
