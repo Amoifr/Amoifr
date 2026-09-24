@@ -6,19 +6,19 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 👷 Ce sur quoi je travaille en ce moment
 
+- [jolicode/JoliTypo](https://github.com/jolicode/JoliTypo) - 🔤 Microtypography fixer for the web (1 day ago)
 - [jolicode/MediaBundle](https://github.com/jolicode/MediaBundle) - 🖼️ A media management bundle for Symfony applications, with Easyadmin and SonataAdmin integrations (1 day ago)
 - [Behat/Gherkin](https://github.com/Behat/Gherkin) - Gherkin parser, written in PHP for Behat project (1 day ago)
-- [jolicode/JoliTypo](https://github.com/jolicode/JoliTypo) - 🔤 Microtypography fixer for the web (1 day ago)
 - [sulu/sulu](https://github.com/sulu/sulu) - Core framework that implements the functionality of the Sulu content management system (1 day ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (2 days ago)
 
 #### 🔀 Mes dernières pull requests
 
+- [[Serializer] Document the deprecation of denormalizing from the PHP name](https://github.com/symfony/symfony-docs/pull/23095) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (OPEN, today)
+- [Warn on the weekly hours screen when overlapping entries are disabled](https://github.com/kimai/kimai/pull/6208) sur [kimai/kimai](https://github.com/kimai/kimai) (OPEN, today)
+- [fix(history): return a zero handled rate when nothing was handled yet](https://github.com/zenstruck/messenger-monitor-bundle/pull/186) sur [zenstruck/messenger-monitor-bundle](https://github.com/zenstruck/messenger-monitor-bundle) (OPEN, today)
 - [feat: load the stories of foundry:load-fixtures in a transaction](https://github.com/zenstruck/foundry/pull/1173) sur [zenstruck/foundry](https://github.com/zenstruck/foundry) (OPEN, 1 day ago)
 - [Add symfony/tui dependency](https://github.com/symfony-tools/symfony-application/pull/50) sur [symfony-tools/symfony-application](https://github.com/symfony-tools/symfony-application) (OPEN, 1 day ago)
-- [[Tui] Document attachChild() and detachChild()](https://github.com/symfony/symfony-docs/pull/23090) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (OPEN, 1 day ago)
-- [Implement PS256, PS384, and PS512 signers](https://github.com/lcobucci/jwt/pull/1182) sur [lcobucci/jwt](https://github.com/lcobucci/jwt) (OPEN, 2 days ago)
-- [feat(dash): Bind the spaces of an incise pair and of a range](https://github.com/jolicode/JoliTypo/pull/140) sur [jolicode/JoliTypo](https://github.com/jolicode/JoliTypo) (MERGED, 2 days ago)
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
