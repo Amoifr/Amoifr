@@ -22,8 +22,8 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.1](https://github.com/api-platform/core/releases/tag/v5.0.1), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [twigphp/Twig](https://github.com/twigphp/Twig) ([v3.30.0](https://github.com/twigphp/Twig/releases/tag/v3.30.0), today) - Twig, the flexible, fast, and secure template language for PHP
 - [symfony/ai](https://github.com/symfony/ai) ([v0.14.0](https://github.com/symfony/ai/releases/tag/v0.14.0), today) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [jolicode/JoliTypo](https://github.com/jolicode/JoliTypo) ([v2.0.0](https://github.com/jolicode/JoliTypo/releases/tag/v2.0.0), 1 day ago) - 🔤 Microtypography fixer for the web
 
 <sub>README généré automatiquement par <a href="https://github.com/muesli/readme-scribe">readme-scribe</a>.</sub>
