@@ -22,8 +22,8 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
+- [twigphp/Twig](https://github.com/twigphp/Twig) ([v3.30.0](https://github.com/twigphp/Twig/releases/tag/v3.30.0), today) - Twig, the flexible, fast, and secure template language for PHP
 - [symfony/ai](https://github.com/symfony/ai) ([v0.14.0](https://github.com/symfony/ai/releases/tag/v0.14.0), today) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [jolicode/JoliTypo](https://github.com/jolicode/JoliTypo) ([v2.0.0](https://github.com/jolicode/JoliTypo/releases/tag/v2.0.0), 1 day ago) - 🔤 Microtypography fixer for the web
-- [kevinpapst/TablerBundle](https://github.com/kevinpapst/TablerBundle) ([2.4.1](https://github.com/kevinpapst/TablerBundle/releases/tag/2.4.1), 1 day ago) - Tabler.io bundle for Symfony 6 - admin theme for easy integration, coming with Bootstrap 5.3, Webpack-Encore integration and many more features...
 
 <sub>README généré automatiquement par <a href="https://github.com/muesli/readme-scribe">readme-scribe</a>.</sub>
