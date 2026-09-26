@@ -14,11 +14,11 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔀 Mes dernières pull requests
 
+- [[FrameworkBundle] Disable HTTP/2 push on the default HTTP client](https://github.com/symfony/symfony/pull/66359) sur [symfony/symfony](https://github.com/symfony/symfony) (OPEN, today)
 - [fix(laravel): don&#39;t cache metadata read from a missing table](https://github.com/api-platform/core/pull/8586) sur [api-platform/core](https://github.com/api-platform/core) (OPEN, 1 day ago)
 - [[Serializer] Document the deprecation of denormalizing from the PHP name](https://github.com/symfony/symfony-docs/pull/23095) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (OPEN, 2 days ago)
 - [Warn on the weekly hours screen when overlapping entries are disabled](https://github.com/kimai/kimai/pull/6208) sur [kimai/kimai](https://github.com/kimai/kimai) (OPEN, 2 days ago)
 - [fix(history): return a zero handled rate when nothing was handled yet](https://github.com/zenstruck/messenger-monitor-bundle/pull/186) sur [zenstruck/messenger-monitor-bundle](https://github.com/zenstruck/messenger-monitor-bundle) (OPEN, 2 days ago)
-- [feat: load the stories of foundry:load-fixtures in a transaction](https://github.com/zenstruck/foundry/pull/1173) sur [zenstruck/foundry](https://github.com/zenstruck/foundry) (OPEN, 3 days ago)
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
