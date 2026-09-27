@@ -22,8 +22,8 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
+- [Behat/Behat](https://github.com/Behat/Behat) ([v3.34.0](https://github.com/Behat/Behat/releases/tag/v3.34.0), today) - BDD in PHP
 - [Behat/Gherkin](https://github.com/Behat/Gherkin) ([v4.18.0](https://github.com/Behat/Gherkin/releases/tag/v4.18.0), 2 days ago) - Gherkin parser, written in PHP for Behat project
 - [api-platform/core](https://github.com/api-platform/core) ([v5.0.1](https://github.com/api-platform/core/releases/tag/v5.0.1), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [twigphp/Twig](https://github.com/twigphp/Twig) ([v3.30.0](https://github.com/twigphp/Twig/releases/tag/v3.30.0), 2 days ago) - Twig, the flexible, fast, and secure template language for PHP
 
 <sub>README généré automatiquement par <a href="https://github.com/muesli/readme-scribe">readme-scribe</a>.</sub>
