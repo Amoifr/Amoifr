@@ -14,16 +14,16 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔀 Mes dernières pull requests
 
+- [[Cache] Document how to detect that get() failed to save the computed value](https://github.com/symfony/symfony-docs/pull/23112) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (OPEN, today)
 - [[FrameworkBundle] Disable HTTP/2 push on the default HTTP client](https://github.com/symfony/symfony/pull/66359) sur [symfony/symfony](https://github.com/symfony/symfony) (OPEN, 1 day ago)
 - [fix(laravel): don&#39;t cache metadata read from a missing table](https://github.com/api-platform/core/pull/8586) sur [api-platform/core](https://github.com/api-platform/core) (OPEN, 2 days ago)
 - [[Serializer] Document the deprecation of denormalizing from the PHP name](https://github.com/symfony/symfony-docs/pull/23095) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (OPEN, 3 days ago)
 - [Warn on the weekly hours screen when overlapping entries are disabled](https://github.com/kimai/kimai/pull/6208) sur [kimai/kimai](https://github.com/kimai/kimai) (OPEN, 3 days ago)
-- [fix(history): return a zero handled rate when nothing was handled yet](https://github.com/zenstruck/messenger-monitor-bundle/pull/186) sur [zenstruck/messenger-monitor-bundle](https://github.com/zenstruck/messenger-monitor-bundle) (OPEN, 3 days ago)
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
+- [symfony/ai](https://github.com/symfony/ai) ([v0.14.1](https://github.com/symfony/ai/releases/tag/v0.14.1), today) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [Behat/Behat](https://github.com/Behat/Behat) ([v3.34.0](https://github.com/Behat/Behat/releases/tag/v3.34.0), today) - BDD in PHP
 - [Behat/Gherkin](https://github.com/Behat/Gherkin) ([v4.18.0](https://github.com/Behat/Gherkin/releases/tag/v4.18.0), 2 days ago) - Gherkin parser, written in PHP for Behat project
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.1](https://github.com/api-platform/core/releases/tag/v5.0.1), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 <sub>README généré automatiquement par <a href="https://github.com/muesli/readme-scribe">readme-scribe</a>.</sub>
