@@ -6,11 +6,11 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 👷 Ce sur quoi je travaille en ce moment
 
+- [sulu/SuluMcpBundle](https://github.com/sulu/SuluMcpBundle) (today)
+- [sulu/sulu](https://github.com/sulu/sulu) - Core framework that implements the functionality of the Sulu content management system (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 days ago)
-- [jolicode/MediaBundle](https://github.com/jolicode/MediaBundle) - 🖼️ A media management bundle for Symfony applications, with Easyadmin and SonataAdmin integrations (5 days ago)
-- [sulu/sulu](https://github.com/sulu/sulu) - Core framework that implements the functionality of the Sulu content management system (5 days ago)
-- [jolicode/JoliTypo](https://github.com/jolicode/JoliTypo) - 🔤 Microtypography fixer for the web (5 days ago)
 - [Behat/Gherkin](https://github.com/Behat/Gherkin) - Gherkin parser, written in PHP for Behat project (5 days ago)
+- [jolicode/MediaBundle](https://github.com/jolicode/MediaBundle) - 🖼️ A media management bundle for Symfony applications, with Easyadmin and SonataAdmin integrations (5 days ago)
 
 #### 🔀 Mes dernières pull requests
 
@@ -22,8 +22,8 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
+- [Behat/Behat](https://github.com/Behat/Behat) ([v4.0.0](https://github.com/Behat/Behat/releases/tag/v4.0.0), today) - BDD in PHP
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v2.3.0](https://github.com/Sylius/Sylius/releases/tag/v2.3.0), today) - Headless open-source eCommerce platform on top of PHP/Symfony/API Platform
 - [symfony/ai](https://github.com/symfony/ai) ([v0.14.1](https://github.com/symfony/ai/releases/tag/v0.14.1), 1 day ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [Behat/Behat](https://github.com/Behat/Behat) ([v3.34.0](https://github.com/Behat/Behat/releases/tag/v3.34.0), 1 day ago) - BDD in PHP
 
 <sub>README généré automatiquement par <a href="https://github.com/muesli/readme-scribe">readme-scribe</a>.</sub>
