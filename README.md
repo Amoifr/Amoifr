@@ -6,17 +6,17 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 👷 Ce sur quoi je travaille en ce moment
 
+- [sulu/sulu](https://github.com/sulu/sulu) - Core framework that implements the functionality of the Sulu content management system (today)
 - [sulu/SuluMcpBundle](https://github.com/sulu/SuluMcpBundle) (1 day ago)
-- [sulu/sulu](https://github.com/sulu/sulu) - Core framework that implements the functionality of the Sulu content management system (1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 days ago)
-- [Behat/Gherkin](https://github.com/Behat/Gherkin) - Gherkin parser, written in PHP for Behat project (6 days ago)
+- [jolicode/JoliTypo](https://github.com/jolicode/JoliTypo) - 🔤 Microtypography fixer for the web (6 days ago)
 - [jolicode/MediaBundle](https://github.com/jolicode/MediaBundle) - 🖼️ A media management bundle for Symfony applications, with Easyadmin and SonataAdmin integrations (6 days ago)
 
 #### 🔀 Mes dernières pull requests
 
 - [[Cache] Document how to detect that get() failed to save the computed value](https://github.com/symfony/symfony-docs/pull/23112) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (MERGED, 2 days ago)
 - [[FrameworkBundle] Disable HTTP/2 push on the default HTTP client](https://github.com/symfony/symfony/pull/66359) sur [symfony/symfony](https://github.com/symfony/symfony) (MERGED, 3 days ago)
-- [fix(laravel): don&#39;t cache metadata read from a missing table](https://github.com/api-platform/core/pull/8586) sur [api-platform/core](https://github.com/api-platform/core) (OPEN, 4 days ago)
+- [fix(laravel): don&#39;t cache metadata read from a missing table](https://github.com/api-platform/core/pull/8586) sur [api-platform/core](https://github.com/api-platform/core) (MERGED, 4 days ago)
 - [[Serializer] Document the deprecation of denormalizing from the PHP name](https://github.com/symfony/symfony-docs/pull/23095) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (MERGED, 5 days ago)
 - [Warn on the weekly hours screen when overlapping entries are disabled](https://github.com/kimai/kimai/pull/6208) sur [kimai/kimai](https://github.com/kimai/kimai) (OPEN, 5 days ago)
 
