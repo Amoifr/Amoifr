@@ -15,7 +15,7 @@ et un peu partout ailleurs dans l'écosystème.
 #### 🔀 Mes dernières pull requests
 
 - [test(hydra): expect the resource class lookup in CollectionObjectNormalizerTest](https://github.com/api-platform/core/pull/8611) sur [api-platform/core](https://github.com/api-platform/core) (OPEN, 1 day ago)
-- [docs(serialization): decorate the denormalizer to change how a payload is read](https://github.com/api-platform/docs/pull/2350) sur [api-platform/docs](https://github.com/api-platform/docs) (OPEN, 1 day ago)
+- [docs(serialization): decorate the denormalizer to change how a payload is read](https://github.com/api-platform/docs/pull/2350) sur [api-platform/docs](https://github.com/api-platform/docs) (MERGED, 1 day ago)
 - [Make the Doctrine decorators of a serializer instance wrap that instance&#39;s services](https://github.com/schmittjoh/JMSSerializerBundle/pull/963) sur [schmittjoh/JMSSerializerBundle](https://github.com/schmittjoh/JMSSerializerBundle) (OPEN, 2 days ago)
 - [[Cache] Document how to detect that get() failed to save the computed value](https://github.com/symfony/symfony-docs/pull/23112) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (MERGED, 4 days ago)
 - [[FrameworkBundle] Disable HTTP/2 push on the default HTTP client](https://github.com/symfony/symfony/pull/66359) sur [symfony/symfony](https://github.com/symfony/symfony) (MERGED, 5 days ago)
