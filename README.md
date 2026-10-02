@@ -6,10 +6,10 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 👷 Ce sur quoi je travaille en ce moment
 
+- [liip/LiipImagineBundle](https://github.com/liip/LiipImagineBundle) - Symfony Bundle to assist in image manipulation using the imagine library (today)
+- [Amoifr/sulu-log-stats-bundle](https://github.com/Amoifr/sulu-log-stats-bundle) - Sulu 3 bundle that parses web server access logs into aggregated tables and shows traffic, status code and response time KPIs in the Sulu admin. (today)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
-- [Amoifr/sulu-log-stats-bundle](https://github.com/Amoifr/sulu-log-stats-bundle) - Sulu 3 bundle that parses web server access logs into aggregated tables and shows traffic, status code and response time KPIs in the Sulu admin. (1 day ago)
 - [sulu/sulu](https://github.com/sulu/sulu) - Core framework that implements the functionality of the Sulu content management system (2 days ago)
-- [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (2 days ago)
 - [sulu/SuluCommentBundle](https://github.com/sulu/SuluCommentBundle) - Sulu comment bundle (2 days ago)
 
 #### 🔀 Mes dernières pull requests
@@ -22,8 +22,8 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.2](https://github.com/api-platform/core/releases/tag/v5.0.2), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [liip/LiipImagineBundle](https://github.com/liip/LiipImagineBundle) ([2.18.0](https://github.com/liip/LiipImagineBundle/releases/tag/2.18.0), today) - Symfony Bundle to assist in image manipulation using the imagine library
 - [sulu/SuluPHPCRMigrationBundle](https://github.com/sulu/SuluPHPCRMigrationBundle) ([1.0.2](https://github.com/sulu/SuluPHPCRMigrationBundle/releases/tag/1.0.2), 1 day ago) - Migrate Sulu content from PHPCR to SuluContentBundle
-- [sulu/sulu](https://github.com/sulu/sulu) ([3.0.10](https://github.com/sulu/sulu/releases/tag/3.0.10), 1 day ago) - Core framework that implements the functionality of the Sulu content management system
-- [sulu/SuluCommentBundle](https://github.com/sulu/SuluCommentBundle) ([3.0.1](https://github.com/sulu/SuluCommentBundle/releases/tag/3.0.1), 2 days ago) - Sulu comment bundle
 
 <sub>README généré automatiquement par <a href="https://github.com/muesli/readme-scribe">readme-scribe</a>.</sub>
