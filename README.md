@@ -9,8 +9,8 @@ et un peu partout ailleurs dans l'écosystème.
 - [zenstruck/foundry](https://github.com/zenstruck/foundry) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine. (today)
 - [Amoifr/sulu-log-stats-bundle](https://github.com/Amoifr/sulu-log-stats-bundle) - Sulu 3 bundle that parses web server access logs into aggregated tables and shows traffic, status code and response time KPIs in the Sulu admin. (1 day ago)
 - [webmozarts/assert](https://github.com/webmozarts/assert) - Assertions to validate method input/output with nice error messages. (1 day ago)
-- [KnpLabs/knp-components](https://github.com/KnpLabs/knp-components) - Various component pack, includes paginator (1 day ago)
 - [liip/LiipImagineBundle](https://github.com/liip/LiipImagineBundle) - Symfony Bundle to assist in image manipulation using the imagine library (1 day ago)
+- [KnpLabs/knp-components](https://github.com/KnpLabs/knp-components) - Various component pack, includes paginator (1 day ago)
 
 #### 🔀 Mes dernières pull requests
 
