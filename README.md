@@ -6,19 +6,19 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 👷 Ce sur quoi je travaille en ce moment
 
-- [webmozarts/assert](https://github.com/webmozarts/assert) - Assertions to validate method input/output with nice error messages. (1 day ago)
-- [liip/LiipImagineBundle](https://github.com/liip/LiipImagineBundle) - Symfony Bundle to assist in image manipulation using the imagine library (1 day ago)
+- [zenstruck/foundry](https://github.com/zenstruck/foundry) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine. (today)
 - [Amoifr/sulu-log-stats-bundle](https://github.com/Amoifr/sulu-log-stats-bundle) - Sulu 3 bundle that parses web server access logs into aggregated tables and shows traffic, status code and response time KPIs in the Sulu admin. (1 day ago)
+- [webmozarts/assert](https://github.com/webmozarts/assert) - Assertions to validate method input/output with nice error messages. (1 day ago)
 - [KnpLabs/knp-components](https://github.com/KnpLabs/knp-components) - Various component pack, includes paginator (1 day ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
+- [liip/LiipImagineBundle](https://github.com/liip/LiipImagineBundle) - Symfony Bundle to assist in image manipulation using the imagine library (1 day ago)
 
 #### 🔀 Mes dernières pull requests
 
+- [[Form] Document the sort_choices option of ChoiceType](https://github.com/symfony/symfony-docs/pull/23164) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (OPEN, today)
+- [[HttpClient] Document that http_version 2.0 uses HTTP/2 with prior knowledge](https://github.com/symfony/symfony-docs/pull/23163) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (OPEN, today)
+- [Resolve the group security context of an article for workflow transitions](https://github.com/sulu/sulu/pull/9160) sur [sulu/sulu](https://github.com/sulu/sulu) (OPEN, today)
 - [Restore the @return types of the static analysis tests](https://github.com/webmozarts/assert/pull/368) sur [webmozarts/assert](https://github.com/webmozarts/assert) (MERGED, 1 day ago)
 - [test(hydra): expect the resource class lookup in CollectionObjectNormalizerTest](https://github.com/api-platform/core/pull/8611) sur [api-platform/core](https://github.com/api-platform/core) (MERGED, 3 days ago)
-- [docs(serialization): decorate the denormalizer to change how a payload is read](https://github.com/api-platform/docs/pull/2350) sur [api-platform/docs](https://github.com/api-platform/docs) (MERGED, 3 days ago)
-- [Make the Doctrine decorators of a serializer instance wrap that instance&#39;s services](https://github.com/schmittjoh/JMSSerializerBundle/pull/963) sur [schmittjoh/JMSSerializerBundle](https://github.com/schmittjoh/JMSSerializerBundle) (OPEN, 4 days ago)
-- [[Cache] Document how to detect that get() failed to save the computed value](https://github.com/symfony/symfony-docs/pull/23112) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (MERGED, 6 days ago)
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
