@@ -14,11 +14,11 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔀 Mes dernières pull requests
 
+- [Add the maxTokens parser option](https://github.com/webonyx/graphql-php/pull/1990) sur [webonyx/graphql-php](https://github.com/webonyx/graphql-php) (OPEN, today)
+- [feat: add clipToSelector, titleBookmarks and the ppsx/ppsm extensions (release 8.36)](https://github.com/sensiolabs/GotenbergBundle/pull/298) sur [sensiolabs/GotenbergBundle](https://github.com/sensiolabs/GotenbergBundle) (OPEN, today)
 - [[Messenger] Document the --middleware option of debug:messenger](https://github.com/symfony/symfony-docs/pull/23179) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (OPEN, today)
 - [[Form] Document the sort_choices option of ChoiceType](https://github.com/symfony/symfony-docs/pull/23164) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (OPEN, 1 day ago)
 - [[HttpClient] Document that http_version 2.0 uses HTTP/2 with prior knowledge](https://github.com/symfony/symfony-docs/pull/23163) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (OPEN, 1 day ago)
-- [Resolve the group security context of an article for workflow transitions](https://github.com/sulu/sulu/pull/9160) sur [sulu/sulu](https://github.com/sulu/sulu) (OPEN, 1 day ago)
-- [Restore the @return types of the static analysis tests](https://github.com/webmozarts/assert/pull/368) sur [webmozarts/assert](https://github.com/webmozarts/assert) (MERGED, 2 days ago)
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
