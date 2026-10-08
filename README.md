@@ -14,11 +14,11 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔀 Mes dernières pull requests
 
+- [Add a JSON schema and docs for the malware feed format](https://github.com/composer/packagist/pull/1896) sur [composer/packagist](https://github.com/composer/packagist) (OPEN, today)
+- [[HttpFoundation][HttpKernel] Treat 308 like 301 for caching](https://github.com/symfony/symfony/pull/66705) sur [symfony/symfony](https://github.com/symfony/symfony) (OPEN, today)
 - [Clear the circular redirection history of a redirect chain once it is finished](https://github.com/php-http/client-common/pull/257) sur [php-http/client-common](https://github.com/php-http/client-common) (OPEN, today)
-- [[Security] Document that #[IsGranted] maps the arguments its subject reads](https://github.com/symfony/symfony-docs/pull/23212) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (OPEN, 1 day ago)
-- [[Messenger] Document the bindings option of AMQP queues](https://github.com/symfony/symfony-docs/pull/23211) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (OPEN, 1 day ago)
-- [Require the delete permissions for every locale of the content](https://github.com/sulu/SuluMcpBundle/pull/61) sur [sulu/SuluMcpBundle](https://github.com/sulu/SuluMcpBundle) (OPEN, 2 days ago)
-- [Return a not found response for a non-existing filter outside of the debug mode](https://github.com/liip/LiipImagineBundle/pull/1669) sur [liip/LiipImagineBundle](https://github.com/liip/LiipImagineBundle) (MERGED, 2 days ago)
+- [[Security] Document that #[IsGranted] maps the arguments its subject reads](https://github.com/symfony/symfony-docs/pull/23212) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (MERGED, 1 day ago)
+- [[Messenger] Document the bindings option of AMQP queues](https://github.com/symfony/symfony-docs/pull/23211) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (MERGED, 1 day ago)
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
