@@ -6,16 +6,16 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 👷 Ce sur quoi je travaille en ce moment
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (today)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 day ago)
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (2 days ago)
 - [liip/LiipImagineBundle](https://github.com/liip/LiipImagineBundle) - Symfony Bundle to assist in image manipulation using the imagine library (3 days ago)
-- [sulu/SuluMcpBundle](https://github.com/sulu/SuluMcpBundle) (4 days ago)
-- [async-aws/aws](https://github.com/async-aws/aws) - AWS SDK with readable code and async responses (4 days ago)
 - [zenstruck/foundry](https://github.com/zenstruck/foundry) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine. (4 days ago)
 
 #### 🔀 Mes dernières pull requests
 
 - [Add a JSON schema and docs for the malware feed format](https://github.com/composer/packagist/pull/1896) sur [composer/packagist](https://github.com/composer/packagist) (OPEN, 1 day ago)
-- [[HttpFoundation][HttpKernel] Treat 308 like 301 for caching](https://github.com/symfony/symfony/pull/66705) sur [symfony/symfony](https://github.com/symfony/symfony) (OPEN, 1 day ago)
+- [[HttpFoundation][HttpKernel] Treat 308 like 301 for caching](https://github.com/symfony/symfony/pull/66705) sur [symfony/symfony](https://github.com/symfony/symfony) (MERGED, 1 day ago)
 - [Clear the circular redirection history of a redirect chain once it is finished](https://github.com/php-http/client-common/pull/257) sur [php-http/client-common](https://github.com/php-http/client-common) (OPEN, 1 day ago)
 - [[Security] Document that #[IsGranted] maps the arguments its subject reads](https://github.com/symfony/symfony-docs/pull/23212) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (MERGED, 2 days ago)
 - [[Messenger] Document the bindings option of AMQP queues](https://github.com/symfony/symfony-docs/pull/23211) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (MERGED, 2 days ago)
