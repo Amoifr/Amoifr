@@ -22,8 +22,8 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.9](https://github.com/symfony/symfony/releases/tag/v8.1.9), today) - The Symfony PHP framework
+- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v5.7.0](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v5.7.0), today) - EasyAdmin is a fast, beautiful and modern admin generator for Symfony applications.
 - [symfony/ux](https://github.com/symfony/ux) ([v3.6.0](https://github.com/symfony/ux/releases/tag/v3.6.0), 1 day ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.6.1](https://github.com/symfony/mercure-bundle/releases/tag/v0.6.1), 3 days ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
-- [KnpLabs/KnpMenuBundle](https://github.com/KnpLabs/KnpMenuBundle) ([v3.8.0](https://github.com/KnpLabs/KnpMenuBundle/releases/tag/v3.8.0), 3 days ago) - Object Oriented menus for your Symfony project.
 
 <sub>README généré automatiquement par <a href="https://github.com/muesli/readme-scribe">readme-scribe</a>.</sub>
