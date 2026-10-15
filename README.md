@@ -14,11 +14,11 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔀 Mes dernières pull requests
 
+- [[Translation] Document how to refresh the catalogue cache in production](https://github.com/symfony/symfony-docs/pull/23369) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (OPEN, today)
 - [[HttpKernel] Document the {name} placeholders in the key of the RateLimit attribute](https://github.com/symfony/symfony-docs/pull/23287) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (MERGED, 3 days ago)
 - [[HttpFoundation][HttpKernel] Document that 308 redirects are cached like 301 ones](https://github.com/symfony/symfony-docs/pull/23270) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (MERGED, 4 days ago)
 - [Add a JSON schema and docs for the malware feed format](https://github.com/composer/packagist/pull/1896) sur [composer/packagist](https://github.com/composer/packagist) (OPEN, 1 week ago)
 - [[HttpFoundation][HttpKernel] Treat 308 like 301 for caching](https://github.com/symfony/symfony/pull/66705) sur [symfony/symfony](https://github.com/symfony/symfony) (MERGED, 1 week ago)
-- [Clear the circular redirection history of a redirect chain once it is finished](https://github.com/php-http/client-common/pull/257) sur [php-http/client-common](https://github.com/php-http/client-common) (OPEN, 1 week ago)
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
