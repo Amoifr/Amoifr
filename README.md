@@ -6,11 +6,11 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 👷 Ce sur quoi je travaille en ce moment
 
-- [SymfonyCasts/reset-password-bundle](https://github.com/SymfonyCasts/reset-password-bundle) - Need a killer reset password feature for your Symfony? Us too! (today)
+- [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle) - Delightful Sass Support for Symfony &#43; AssetMapper (today)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - JSON Schema for PHP (today)
+- [SymfonyCasts/reset-password-bundle](https://github.com/SymfonyCasts/reset-password-bundle) - Need a killer reset password feature for your Symfony? Us too! (today)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (3 days ago)
-- [sulu/SuluMcpBundle](https://github.com/sulu/SuluMcpBundle) (4 days ago)
 
 #### 🔀 Mes dernières pull requests
 
