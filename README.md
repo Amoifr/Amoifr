@@ -6,11 +6,11 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 👷 Ce sur quoi je travaille en ce moment
 
+- [SymfonyCasts/reset-password-bundle](https://github.com/SymfonyCasts/reset-password-bundle) - Need a killer reset password feature for your Symfony? Us too! (today)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - JSON Schema for PHP (today)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 day ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - JSON Schema for PHP (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (3 days ago)
 - [sulu/SuluMcpBundle](https://github.com/sulu/SuluMcpBundle) (4 days ago)
-- [sulu/sulu](https://github.com/sulu/sulu) - Core framework that implements the functionality of the Sulu content management system (4 days ago)
 
 #### 🔀 Mes dernières pull requests
 
@@ -22,8 +22,8 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.4](https://github.com/api-platform/core/releases/tag/v5.0.4), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.54](https://github.com/symfony/symfony/releases/tag/v5.4.54), 1 day ago) - The Symfony PHP framework
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v2.3.1](https://github.com/Sylius/Sylius/releases/tag/v2.3.1), 2 days ago) - Headless open-source eCommerce platform on top of PHP/Symfony/API Platform
-- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v5.7.0](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v5.7.0), 2 days ago) - EasyAdmin is a fast, beautiful and modern admin generator for Symfony applications.
 
 <sub>README généré automatiquement par <a href="https://github.com/muesli/readme-scribe">readme-scribe</a>.</sub>
