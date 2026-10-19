@@ -14,11 +14,11 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔀 Mes dernières pull requests
 
+- [fix: Read the check mode of the root factory in the Draft-06, Draft-07 and Draft 2019-09 factories](https://github.com/jsonrainbow/json-schema/pull/988) sur [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (OPEN, today)
+- [feat(serializer): Add a max_breadth option to limit the items serialized from arrays and objects](https://github.com/getsentry/sentry-php/pull/2283) sur [getsentry/sentry-php](https://github.com/getsentry/sentry-php) (OPEN, today)
 - [[ObjectMapper] Document the merge of objects mapped to the same property](https://github.com/symfony/symfony-docs/pull/23393) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (OPEN, today)
 - [[Security] Document the entry_point_path firewall option](https://github.com/symfony/symfony-docs/pull/23392) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (OPEN, today)
 - [[Translation] Document how to refresh the catalogue cache in production](https://github.com/symfony/symfony-docs/pull/23369) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (MERGED, 4 days ago)
-- [[HttpKernel] Document the {name} placeholders in the key of the RateLimit attribute](https://github.com/symfony/symfony-docs/pull/23287) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (MERGED, 1 week ago)
-- [[HttpFoundation][HttpKernel] Document that 308 redirects are cached like 301 ones](https://github.com/symfony/symfony-docs/pull/23270) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (MERGED, 1 week ago)
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
