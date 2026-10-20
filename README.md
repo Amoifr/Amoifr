@@ -8,17 +8,17 @@ et un peu partout ailleurs dans l'écosystème.
 
 - [SymfonyCasts/verify-email-bundle](https://github.com/SymfonyCasts/verify-email-bundle) - Simple, stylish Email Verification for Symfony (1 day ago)
 - [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle) - Delightful Sass Support for Symfony &#43; AssetMapper (1 day ago)
-- [SymfonyCasts/reset-password-bundle](https://github.com/SymfonyCasts/reset-password-bundle) - Need a killer reset password feature for your Symfony? Us too! (4 days ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - JSON Schema for PHP (4 days ago)
+- [SymfonyCasts/reset-password-bundle](https://github.com/SymfonyCasts/reset-password-bundle) - Need a killer reset password feature for your Symfony? Us too! (4 days ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (5 days ago)
 
 #### 🔀 Mes dernières pull requests
 
+- [docs: case-sensitive selector lookups on MySQL / MariaDB](https://github.com/SymfonyCasts/reset-password-bundle/pull/366) sur [SymfonyCasts/reset-password-bundle](https://github.com/SymfonyCasts/reset-password-bundle) (OPEN, today)
 - [fix: Read the check mode of the root factory in the Draft-06, Draft-07 and Draft 2019-09 factories](https://github.com/jsonrainbow/json-schema/pull/988) sur [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (OPEN, 1 day ago)
 - [feat(serializer): Add a max_breadth option to limit the items serialized from arrays and objects](https://github.com/getsentry/sentry-php/pull/2283) sur [getsentry/sentry-php](https://github.com/getsentry/sentry-php) (OPEN, 1 day ago)
 - [[ObjectMapper] Document the merge of objects mapped to the same property](https://github.com/symfony/symfony-docs/pull/23393) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (OPEN, 1 day ago)
 - [[Security] Document the entry_point_path firewall option](https://github.com/symfony/symfony-docs/pull/23392) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (OPEN, 1 day ago)
-- [[Translation] Document how to refresh the catalogue cache in production](https://github.com/symfony/symfony-docs/pull/23369) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (MERGED, 5 days ago)
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
