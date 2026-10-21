@@ -22,8 +22,8 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
+- [sulu/SuluMcpBundle](https://github.com/sulu/SuluMcpBundle) ([1.0.0-RC4](https://github.com/sulu/SuluMcpBundle/releases/tag/1.0.0-RC4), today) - 
 - [jolicode/castor](https://github.com/jolicode/castor) ([v1.9.0](https://github.com/jolicode/castor/releases/tag/v1.9.0), 1 day ago) - 🦫 A lightweight and modern task runner for Automation, CI/CD &amp; DevOps.
 - [api-platform/core](https://github.com/api-platform/core) ([v5.0.4](https://github.com/api-platform/core/releases/tag/v5.0.4), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.54](https://github.com/symfony/symfony/releases/tag/v5.4.54), 6 days ago) - The Symfony PHP framework
 
 <sub>README généré automatiquement par <a href="https://github.com/muesli/readme-scribe">readme-scribe</a>.</sub>
