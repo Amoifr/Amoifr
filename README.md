@@ -6,19 +6,19 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 👷 Ce sur quoi je travaille en ce moment
 
+- [SymfonyCasts/dynamic-forms](https://github.com/SymfonyCasts/dynamic-forms) - Add dynamic/dependent fields to Symfony forms (today)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (today)
 - [SymfonyCasts/reset-password-bundle](https://github.com/SymfonyCasts/reset-password-bundle) - Need a killer reset password feature for your Symfony? Us too! (1 day ago)
 - [getsentry/sentry-php](https://github.com/getsentry/sentry-php) - The official PHP SDK for Sentry (1 day ago)
-- [SymfonyCasts/sass-bundle](https://github.com/SymfonyCasts/sass-bundle) - Delightful Sass Support for Symfony &#43; AssetMapper (2 days ago)
 - [SymfonyCasts/verify-email-bundle](https://github.com/SymfonyCasts/verify-email-bundle) - Simple, stylish Email Verification for Symfony (2 days ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) - JSON Schema for PHP (5 days ago)
 
 #### 🔀 Mes dernières pull requests
 
+- [[Mailer] Throw a TransportException when proc_open() is not available](https://github.com/symfony/symfony/pull/67264) sur [symfony/symfony](https://github.com/symfony/symfony) (MERGED, today)
+- [[DomCrawler] Make ChoiceFormField::disableValidation() part of the public API](https://github.com/symfony/symfony/pull/67263) sur [symfony/symfony](https://github.com/symfony/symfony) (MERGED, today)
+- [[Messenger] Do not reset services between messages when profiling messenger:consume](https://github.com/symfony/symfony/pull/67262) sur [symfony/symfony](https://github.com/symfony/symfony) (OPEN, today)
 - [Drop the microseconds from expiresAt in ResetPasswordHelper](https://github.com/SymfonyCasts/reset-password-bundle/pull/367) sur [SymfonyCasts/reset-password-bundle](https://github.com/SymfonyCasts/reset-password-bundle) (MERGED, 1 day ago)
 - [docs: case-sensitive selector lookups on MySQL / MariaDB](https://github.com/SymfonyCasts/reset-password-bundle/pull/366) sur [SymfonyCasts/reset-password-bundle](https://github.com/SymfonyCasts/reset-password-bundle) (MERGED, 1 day ago)
-- [fix: Read the check mode of the root factory in the Draft-06, Draft-07 and Draft 2019-09 factories](https://github.com/jsonrainbow/json-schema/pull/988) sur [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (OPEN, 2 days ago)
-- [feat(serializer): Add a max_breadth option to limit the items serialized from arrays and objects](https://github.com/getsentry/sentry-php/pull/2283) sur [getsentry/sentry-php](https://github.com/getsentry/sentry-php) (MERGED, 2 days ago)
-- [[ObjectMapper] Document the merge of objects mapped to the same property](https://github.com/symfony/symfony-docs/pull/23393) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (MERGED, 2 days ago)
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
