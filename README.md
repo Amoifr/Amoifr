@@ -14,16 +14,16 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔀 Mes dernières pull requests
 
+- [[DependencyInjection] Stop tracking the classes of excluded definitions for changes](https://github.com/symfony/symfony/pull/67312) sur [symfony/symfony](https://github.com/symfony/symfony) (OPEN, today)
 - [[Mailer] Declare the message size in MAIL FROM when the server supports the SIZE extension](https://github.com/symfony/symfony/pull/67287) sur [symfony/symfony](https://github.com/symfony/symfony) (OPEN, today)
 - [[Mailer] Throw a TransportException when proc_open() is not available](https://github.com/symfony/symfony/pull/67264) sur [symfony/symfony](https://github.com/symfony/symfony) (MERGED, 1 day ago)
 - [[DomCrawler] Make ChoiceFormField::disableValidation() part of the public API](https://github.com/symfony/symfony/pull/67263) sur [symfony/symfony](https://github.com/symfony/symfony) (MERGED, 1 day ago)
 - [[Messenger] Do not reset services between messages when profiling messenger:consume](https://github.com/symfony/symfony/pull/67262) sur [symfony/symfony](https://github.com/symfony/symfony) (OPEN, 1 day ago)
-- [Drop the microseconds from expiresAt in ResetPasswordHelper](https://github.com/SymfonyCasts/reset-password-bundle/pull/367) sur [SymfonyCasts/reset-password-bundle](https://github.com/SymfonyCasts/reset-password-bundle) (MERGED, 2 days ago)
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v2.3.2](https://github.com/Sylius/Sylius/releases/tag/v2.3.2), today) - Headless open-source eCommerce platform on top of PHP/Symfony/API Platform
+- [composer/composer](https://github.com/composer/composer) ([2.11.0-RC1](https://github.com/composer/composer/releases/tag/2.11.0-RC1), today) - Dependency Manager for PHP
 - [sulu/SuluMcpBundle](https://github.com/sulu/SuluMcpBundle) ([1.0.0-RC4](https://github.com/sulu/SuluMcpBundle/releases/tag/1.0.0-RC4), 1 day ago) - 
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.4](https://github.com/api-platform/core/releases/tag/v5.0.4), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.54](https://github.com/symfony/symfony/releases/tag/v5.4.54), 1 week ago) - The Symfony PHP framework
 
 <sub>README généré automatiquement par <a href="https://github.com/muesli/readme-scribe">readme-scribe</a>.</sub>
