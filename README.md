@@ -22,8 +22,8 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
+- [symfony/ai](https://github.com/symfony/ai) ([v0.15.0](https://github.com/symfony/ai/releases/tag/v0.15.0), today) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.5](https://github.com/api-platform/core/releases/tag/v5.0.5), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v5.8.0](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v5.8.0), 1 day ago) - EasyAdmin is a fast, beautiful and modern admin generator for Symfony applications.
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v2.3.2](https://github.com/Sylius/Sylius/releases/tag/v2.3.2), 1 day ago) - Headless open-source eCommerce platform on top of PHP/Symfony/API Platform
-- [composer/composer](https://github.com/composer/composer) ([2.11.0-RC1](https://github.com/composer/composer/releases/tag/2.11.0-RC1), 1 day ago) - Dependency Manager for PHP
 
 <sub>README généré automatiquement par <a href="https://github.com/muesli/readme-scribe">readme-scribe</a>.</sub>
