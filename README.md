@@ -6,19 +6,19 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 👷 Ce sur quoi je travaille en ce moment
 
+- [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle) - Delightful Tailwind Support for Symfony &#43; AssetMapper (today)
 - [SymfonyCasts/dynamic-forms](https://github.com/SymfonyCasts/dynamic-forms) - Add dynamic/dependent fields to Symfony forms (2 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 days ago)
-- [getsentry/sentry-php](https://github.com/getsentry/sentry-php) - The official PHP SDK for Sentry (3 days ago)
 - [SymfonyCasts/reset-password-bundle](https://github.com/SymfonyCasts/reset-password-bundle) - Need a killer reset password feature for your Symfony? Us too! (3 days ago)
-- [SymfonyCasts/verify-email-bundle](https://github.com/SymfonyCasts/verify-email-bundle) - Simple, stylish Email Verification for Symfony (4 days ago)
+- [getsentry/sentry-php](https://github.com/getsentry/sentry-php) - The official PHP SDK for Sentry (3 days ago)
 
 #### 🔀 Mes dernières pull requests
 
+- [fix: Reject a trailing newline in idn-hostname](https://github.com/jsonrainbow/json-schema/pull/990) sur [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (OPEN, today)
+- [Add tests for the I-Regexp mapping of match and search](https://github.com/jsonpath-standard/jsonpath-compliance-test-suite/pull/123) sur [jsonpath-standard/jsonpath-compliance-test-suite](https://github.com/jsonpath-standard/jsonpath-compliance-test-suite) (OPEN, today)
+- [test: Pass file URLs to the Curl retriever tests](https://github.com/jsonrainbow/json-schema/pull/989) sur [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (OPEN, today)
+- [fix(doctrine): document SortFilter parameters as a single value](https://github.com/api-platform/core/pull/8759) sur [api-platform/core](https://github.com/api-platform/core) (OPEN, today)
 - [[Config] Allow defaultValue() on array nodes that have no prototype](https://github.com/symfony/symfony/pull/67325) sur [symfony/symfony](https://github.com/symfony/symfony) (OPEN, 1 day ago)
-- [[Messenger] Make the Amazon SQS transport listable so that the failed messages commands work with it](https://github.com/symfony/symfony/pull/67323) sur [symfony/symfony](https://github.com/symfony/symfony) (OPEN, 1 day ago)
-- [[DependencyInjection] Stop tracking the classes of excluded definitions for changes](https://github.com/symfony/symfony/pull/67312) sur [symfony/symfony](https://github.com/symfony/symfony) (OPEN, 1 day ago)
-- [[Mailer] Declare the message size in MAIL FROM when the server supports the SIZE extension](https://github.com/symfony/symfony/pull/67287) sur [symfony/symfony](https://github.com/symfony/symfony) (OPEN, 1 day ago)
-- [[Mailer] Throw a TransportException when proc_open() is not available](https://github.com/symfony/symfony/pull/67264) sur [symfony/symfony](https://github.com/symfony/symfony) (MERGED, 2 days ago)
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
