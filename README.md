@@ -14,11 +14,11 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔀 Mes dernières pull requests
 
+- [Pin the PHP 8.3 docs to a revision from after the 8.3 release](https://github.com/thecodingmachine/safe/pull/766) sur [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (OPEN, today)
 - [fix: Reject a trailing newline in idn-hostname](https://github.com/jsonrainbow/json-schema/pull/990) sur [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (MERGED, 1 day ago)
 - [Add tests for the I-Regexp mapping of match and search](https://github.com/jsonpath-standard/jsonpath-compliance-test-suite/pull/123) sur [jsonpath-standard/jsonpath-compliance-test-suite](https://github.com/jsonpath-standard/jsonpath-compliance-test-suite) (OPEN, 1 day ago)
 - [test: Pass file URLs to the Curl retriever tests](https://github.com/jsonrainbow/json-schema/pull/989) sur [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (MERGED, 1 day ago)
 - [fix(doctrine): document SortFilter parameters as a single value](https://github.com/api-platform/core/pull/8759) sur [api-platform/core](https://github.com/api-platform/core) (OPEN, 1 day ago)
-- [[Config] Allow defaultValue() on array nodes that have no prototype](https://github.com/symfony/symfony/pull/67325) sur [symfony/symfony](https://github.com/symfony/symfony) (OPEN, 2 days ago)
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
