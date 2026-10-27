@@ -14,11 +14,11 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔀 Mes dernières pull requests
 
+- [feat: introduce `PhpUnitDoesNotPerformAssertionsAnnotationFixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9907) sur [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (OPEN, today)
+- [Remove the export action from the article and snippet lists](https://github.com/sulu/sulu/pull/9215) sur [sulu/sulu](https://github.com/sulu/sulu) (OPEN, today)
+- [Add an image check widget to the form themes](https://github.com/kevinpapst/TablerBundle/pull/271) sur [kevinpapst/TablerBundle](https://github.com/kevinpapst/TablerBundle) (OPEN, today)
 - [[AI Bundle][Store] Accept a DSN in the PDO-based stores](https://github.com/symfony/ai/pull/2835) sur [symfony/ai](https://github.com/symfony/ai) (OPEN, today)
 - [Submit forms that post no data under their name](https://github.com/EasyCorp/EasyAdminBundle/pull/7883) sur [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) (OPEN, today)
-- [Check smallint columns against their signed or unsigned range](https://github.com/phpstan/phpstan-doctrine/pull/800) sur [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (MERGED, 1 day ago)
-- [Add createBuilder() and createNamedBuilder() to the FormFactoryInterface stub](https://github.com/phpstan/phpstan-symfony/pull/516) sur [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (MERGED, 2 days ago)
-- [Add regression test for #12820](https://github.com/phpstan/phpstan-src/pull/6836) sur [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (MERGED, 2 days ago)
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
