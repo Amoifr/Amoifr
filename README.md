@@ -8,14 +8,14 @@ et un peu partout ailleurs dans l'écosystème.
 
 - [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (today)
 - [Amoifr/PR_Dashboard](https://github.com/Amoifr/PR_Dashboard) - Personal PR Dashboard to track your GitHub contributions (today)
-- [symfony-tools/fabbot](https://github.com/symfony-tools/fabbot) - Opinionated CS checks, Symfony style (1 day ago)
+- [sulu/sulu](https://github.com/sulu/sulu) - Core framework that implements the functionality of the Sulu content management system (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - Doctrine extensions for PHPStan (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (2 days ago)
+- [symfony-tools/fabbot](https://github.com/symfony-tools/fabbot) - Opinionated CS checks, Symfony style (1 day ago)
 
 #### 🔀 Mes dernières pull requests
 
 - [feat: introduce `PhpUnitDoesNotPerformAssertionsAnnotationFixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9907) sur [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (OPEN, today)
-- [Remove the export action from the article and snippet lists](https://github.com/sulu/sulu/pull/9215) sur [sulu/sulu](https://github.com/sulu/sulu) (OPEN, today)
+- [Remove the export action from the article and snippet lists](https://github.com/sulu/sulu/pull/9215) sur [sulu/sulu](https://github.com/sulu/sulu) (MERGED, today)
 - [Add an image check widget to the form themes](https://github.com/kevinpapst/TablerBundle/pull/271) sur [kevinpapst/TablerBundle](https://github.com/kevinpapst/TablerBundle) (OPEN, today)
 - [[AI Bundle][Store] Accept a DSN in the PDO-based stores](https://github.com/symfony/ai/pull/2835) sur [symfony/ai](https://github.com/symfony/ai) (OPEN, today)
 - [Submit forms that post no data under their name](https://github.com/EasyCorp/EasyAdminBundle/pull/7883) sur [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) (OPEN, today)
