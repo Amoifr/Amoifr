@@ -7,10 +7,10 @@ et un peu partout ailleurs dans l'écosystème.
 #### 👷 Ce sur quoi je travaille en ce moment
 
 - [sulu/SuluProductBundle](https://github.com/sulu/SuluProductBundle) - Sulu product bundle (today)
+- [symfony-tools/code-block-checker](https://github.com/symfony-tools/code-block-checker) - Check the Symfony docs code blocks (today)
+- [sulu/sulu](https://github.com/sulu/sulu) - Core framework that implements the functionality of the Sulu content management system (1 day ago)
 - [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (1 day ago)
 - [Amoifr/PR_Dashboard](https://github.com/Amoifr/PR_Dashboard) - Personal PR Dashboard to track your GitHub contributions (1 day ago)
-- [sulu/sulu](https://github.com/sulu/sulu) - Core framework that implements the functionality of the Sulu content management system (1 day ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - Doctrine extensions for PHPStan (2 days ago)
 
 #### 🔀 Mes dernières pull requests
 
@@ -22,8 +22,8 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.10](https://github.com/symfony/symfony/releases/tag/v8.1.10), today) - The Symfony PHP framework
 - [tempestphp/highlight](https://github.com/tempestphp/highlight) ([2.30.0](https://github.com/tempestphp/highlight/releases/tag/2.30.0), 1 day ago) - Fast, extensible, server-side code highlighting for web and terminal
 - [zenstruck/foundry](https://github.com/zenstruck/foundry) ([v2.15.0](https://github.com/zenstruck/foundry/releases/tag/v2.15.0), 2 days ago) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine.
-- [symfony/ai](https://github.com/symfony/ai) ([v1.0.0-BETA1](https://github.com/symfony/ai/releases/tag/v1.0.0-BETA1), 2 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 
 <sub>README généré automatiquement par <a href="https://github.com/muesli/readme-scribe">readme-scribe</a>.</sub>
