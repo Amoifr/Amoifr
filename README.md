@@ -6,11 +6,11 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 👷 Ce sur quoi je travaille en ce moment
 
+- [sulu/SuluProductBundle](https://github.com/sulu/SuluProductBundle) - Sulu product bundle (today)
 - [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (1 day ago)
 - [Amoifr/PR_Dashboard](https://github.com/Amoifr/PR_Dashboard) - Personal PR Dashboard to track your GitHub contributions (1 day ago)
 - [sulu/sulu](https://github.com/sulu/sulu) - Core framework that implements the functionality of the Sulu content management system (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - Doctrine extensions for PHPStan (2 days ago)
-- [symfony-tools/fabbot](https://github.com/symfony-tools/fabbot) - Opinionated CS checks, Symfony style (2 days ago)
 
 #### 🔀 Mes dernières pull requests
 
