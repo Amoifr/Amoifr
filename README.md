@@ -9,8 +9,8 @@ et un peu partout ailleurs dans l'écosystème.
 - [sulu/SuluProductBundle](https://github.com/sulu/SuluProductBundle) - Sulu product bundle (1 day ago)
 - [symfony-tools/code-block-checker](https://github.com/symfony-tools/code-block-checker) - Check the Symfony docs code blocks (1 day ago)
 - [sulu/sulu](https://github.com/sulu/sulu) - Core framework that implements the functionality of the Sulu content management system (2 days ago)
-- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (2 days ago)
 - [Amoifr/PR_Dashboard](https://github.com/Amoifr/PR_Dashboard) - Personal PR Dashboard to track your GitHub contributions (2 days ago)
+- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (2 days ago)
 
 #### 🔀 Mes dernières pull requests
 
@@ -22,8 +22,8 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
-- [jolicode/castor](https://github.com/jolicode/castor) ([v1.9.1](https://github.com/jolicode/castor/releases/tag/v1.9.1), today) - 🦫 A lightweight and modern task runner for Automation, CI/CD &amp; DevOps.
-- [composer/composer](https://github.com/composer/composer) ([2.2.31](https://github.com/composer/composer/releases/tag/2.2.31), today) - Dependency Manager for PHP
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.10](https://github.com/symfony/symfony/releases/tag/v8.1.10), 1 day ago) - The Symfony PHP framework
+- [symfony/flex](https://github.com/symfony/flex) ([v2.12.0](https://github.com/symfony/flex/releases/tag/v2.12.0), today) - Composer plugin for Symfony
+- [sulu/sulu](https://github.com/sulu/sulu) ([3.1.0-alpha1](https://github.com/sulu/sulu/releases/tag/3.1.0-alpha1), today) - Core framework that implements the functionality of the Sulu content management system
+- [getsentry/sentry-php](https://github.com/getsentry/sentry-php) ([4.35.0](https://github.com/getsentry/sentry-php/releases/tag/4.35.0), today) - The official PHP SDK for Sentry
 
 <sub>README généré automatiquement par <a href="https://github.com/muesli/readme-scribe">readme-scribe</a>.</sub>
