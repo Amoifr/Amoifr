@@ -22,8 +22,8 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
+- [jolicode/castor](https://github.com/jolicode/castor) ([v1.9.1](https://github.com/jolicode/castor/releases/tag/v1.9.1), today) - 🦫 A lightweight and modern task runner for Automation, CI/CD &amp; DevOps.
+- [composer/composer](https://github.com/composer/composer) ([2.2.31](https://github.com/composer/composer/releases/tag/2.2.31), today) - Dependency Manager for PHP
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.10](https://github.com/symfony/symfony/releases/tag/v8.1.10), 1 day ago) - The Symfony PHP framework
-- [tempestphp/highlight](https://github.com/tempestphp/highlight) ([2.30.0](https://github.com/tempestphp/highlight/releases/tag/2.30.0), 2 days ago) - Fast, extensible, server-side code highlighting for web and terminal
-- [zenstruck/foundry](https://github.com/zenstruck/foundry) ([v2.15.0](https://github.com/zenstruck/foundry/releases/tag/v2.15.0), 3 days ago) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine.
 
 <sub>README généré automatiquement par <a href="https://github.com/muesli/readme-scribe">readme-scribe</a>.</sub>
