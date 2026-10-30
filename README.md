@@ -22,8 +22,8 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
-- [symfony-tools/docs-builder](https://github.com/symfony-tools/docs-builder) ([v1.0.2](https://github.com/symfony-tools/docs-builder/releases/tag/v1.0.2), today) - 
-- [symfony/flex](https://github.com/symfony/flex) ([v2.12.0](https://github.com/symfony/flex/releases/tag/v2.12.0), 1 day ago) - Composer plugin for Symfony
-- [sulu/sulu](https://github.com/sulu/sulu) ([3.1.0-alpha1](https://github.com/sulu/sulu/releases/tag/3.1.0-alpha1), 1 day ago) - Core framework that implements the functionality of the Sulu content management system
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([2.1.0](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.1.0), today) - Doctrine extensions for PHPStan
+- [composer/composer](https://github.com/composer/composer) ([2.11.1](https://github.com/composer/composer/releases/tag/2.11.1), today) - Dependency Manager for PHP
+- [sulu/SuluMcpBundle](https://github.com/sulu/SuluMcpBundle) ([1.0.0](https://github.com/sulu/SuluMcpBundle/releases/tag/1.0.0), today) - 
 
 <sub>README généré automatiquement par <a href="https://github.com/muesli/readme-scribe">readme-scribe</a>.</sub>
