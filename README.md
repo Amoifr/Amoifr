@@ -22,8 +22,8 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
+- [symfony-tools/docs-builder](https://github.com/symfony-tools/docs-builder) ([v1.0.2](https://github.com/symfony-tools/docs-builder/releases/tag/v1.0.2), today) - 
 - [symfony/flex](https://github.com/symfony/flex) ([v2.12.0](https://github.com/symfony/flex/releases/tag/v2.12.0), 1 day ago) - Composer plugin for Symfony
 - [sulu/sulu](https://github.com/sulu/sulu) ([3.1.0-alpha1](https://github.com/sulu/sulu/releases/tag/3.1.0-alpha1), 1 day ago) - Core framework that implements the functionality of the Sulu content management system
-- [getsentry/sentry-php](https://github.com/getsentry/sentry-php) ([4.35.0](https://github.com/getsentry/sentry-php/releases/tag/4.35.0), 1 day ago) - The official PHP SDK for Sentry
 
 <sub>README généré automatiquement par <a href="https://github.com/muesli/readme-scribe">readme-scribe</a>.</sub>
