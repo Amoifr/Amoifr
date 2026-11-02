@@ -14,11 +14,11 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔀 Mes dernières pull requests
 
+- [[3.x] [Doc] Warn about values marked as safe in quoted HTML attributes](https://github.com/twigphp/Twig/pull/5022) sur [twigphp/Twig](https://github.com/twigphp/Twig) (OPEN, today)
+- [[KeyManagement] Document KMIP 2.1 and the ChaCha20-Poly1305 and AES-GCM-SIV ciphers](https://github.com/symfony/symfony-docs/pull/23462) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (MERGED, today)
+- [[image-check] Add image check fields to the form demo](https://github.com/kevinpapst/TablerBundle-Demo/pull/38) sur [kevinpapst/TablerBundle-Demo](https://github.com/kevinpapst/TablerBundle-Demo) (OPEN, today)
+- [Add setFilter() and unsetFilter() to AdminUrlGenerator](https://github.com/EasyCorp/EasyAdminBundle/pull/7896) sur [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) (OPEN, today)
 - [feat: introduce `PhpUnitDoesNotPerformAssertionsAnnotationFixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9907) sur [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (OPEN, 6 days ago)
-- [Remove the export action from the article and snippet lists](https://github.com/sulu/sulu/pull/9215) sur [sulu/sulu](https://github.com/sulu/sulu) (MERGED, 6 days ago)
-- [Add an image check widget to the form themes](https://github.com/kevinpapst/TablerBundle/pull/271) sur [kevinpapst/TablerBundle](https://github.com/kevinpapst/TablerBundle) (OPEN, 6 days ago)
-- [[AI Bundle][Store] Accept a DSN in the PDO-based stores](https://github.com/symfony/ai/pull/2835) sur [symfony/ai](https://github.com/symfony/ai) (OPEN, 6 days ago)
-- [Submit forms that post no data under their name](https://github.com/EasyCorp/EasyAdminBundle/pull/7883) sur [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) (OPEN, 6 days ago)
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
