@@ -6,11 +6,11 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 👷 Ce sur quoi je travaille en ce moment
 
-- [sulu/SuluProductBundle](https://github.com/sulu/SuluProductBundle) - Sulu product bundle (6 days ago)
+- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a JavaScript ecosystem for Symfony (today)
 - [symfony-tools/code-block-checker](https://github.com/symfony-tools/code-block-checker) - Check the Symfony docs code blocks (6 days ago)
-- [sulu/sulu](https://github.com/sulu/sulu) - Core framework that implements the functionality of the Sulu content management system (1 week ago)
-- [Amoifr/PR_Dashboard](https://github.com/Amoifr/PR_Dashboard) - Personal PR Dashboard to track your GitHub contributions (1 week ago)
+- [sulu/SuluProductBundle](https://github.com/sulu/SuluProductBundle) - Sulu product bundle (6 days ago)
 - [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (1 week ago)
+- [sulu/sulu](https://github.com/sulu/sulu) - Core framework that implements the functionality of the Sulu content management system (1 week ago)
 
 #### 🔀 Mes dernières pull requests
 
