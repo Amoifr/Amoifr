@@ -22,8 +22,8 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.7.0](https://github.com/symfony/mercure-bundle/releases/tag/v0.7.0), today) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
 - [kevinpapst/TablerBundle](https://github.com/kevinpapst/TablerBundle) ([2.4.2](https://github.com/kevinpapst/TablerBundle/releases/tag/2.4.2), 2 days ago) - Tabler.io bundle for Symfony 6 - admin theme for easy integration, coming with Bootstrap 5.3, Webpack-Encore integration and many more features...
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([2.1.0](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.1.0), 4 days ago) - Doctrine extensions for PHPStan
-- [composer/composer](https://github.com/composer/composer) ([2.11.1](https://github.com/composer/composer/releases/tag/2.11.1), 4 days ago) - Dependency Manager for PHP
 
 <sub>README généré automatiquement par <a href="https://github.com/muesli/readme-scribe">readme-scribe</a>.</sub>
