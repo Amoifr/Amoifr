@@ -22,8 +22,8 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.7.0](https://github.com/symfony/mercure-bundle/releases/tag/v0.7.0), 1 day ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
-- [kevinpapst/TablerBundle](https://github.com/kevinpapst/TablerBundle) ([2.4.2](https://github.com/kevinpapst/TablerBundle/releases/tag/2.4.2), 3 days ago) - Tabler.io bundle for Symfony 6 - admin theme for easy integration, coming with Bootstrap 5.3, Webpack-Encore integration and many more features...
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([2.1.0](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.1.0), 5 days ago) - Doctrine extensions for PHPStan
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.95.28](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.28), today) - A tool to automatically fix PHP Coding Standards issues
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA1), today) - The Symfony PHP framework
+- [symfony/ux](https://github.com/symfony/ux) ([v3.7.0](https://github.com/symfony/ux/releases/tag/v3.7.0), today) - Symfony UX initiative: a JavaScript ecosystem for Symfony
 
 <sub>README généré automatiquement par <a href="https://github.com/muesli/readme-scribe">readme-scribe</a>.</sub>
