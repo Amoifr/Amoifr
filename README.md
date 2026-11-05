@@ -22,8 +22,8 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
-- [sulu/SuluMcpBundle](https://github.com/sulu/SuluMcpBundle) ([1.0.1](https://github.com/sulu/SuluMcpBundle/releases/tag/1.0.1), today) - 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.95.28](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.28), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA1), 1 day ago) - The Symfony PHP framework
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([2.1.1](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.1.1), today) - Doctrine extensions for PHPStan
+- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v5.9.0](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v5.9.0), today) - EasyAdmin is a fast, beautiful and modern admin generator for Symfony applications.
+- [getsentry/sentry-php](https://github.com/getsentry/sentry-php) ([4.36.0](https://github.com/getsentry/sentry-php/releases/tag/4.36.0), today) - The official PHP SDK for Sentry
 
 <sub>README généré automatiquement par <a href="https://github.com/muesli/readme-scribe">readme-scribe</a>.</sub>
