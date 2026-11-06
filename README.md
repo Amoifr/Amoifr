@@ -22,8 +22,8 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.6](https://github.com/api-platform/core/releases/tag/v5.0.6), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([2.1.1](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.1.1), 1 day ago) - Doctrine extensions for PHPStan
-- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v5.9.0](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v5.9.0), 1 day ago) - EasyAdmin is a fast, beautiful and modern admin generator for Symfony applications.
+- [symfony/ux](https://github.com/symfony/ux) ([v3.7.1](https://github.com/symfony/ux/releases/tag/v3.7.1), today) - Symfony UX initiative: a JavaScript ecosystem for Symfony
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([2.1.2](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.1.2), today) - Doctrine extensions for PHPStan
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.95.29](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.29), today) - A tool to automatically fix PHP Coding Standards issues
 
 <sub>README généré automatiquement par <a href="https://github.com/muesli/readme-scribe">readme-scribe</a>.</sub>
