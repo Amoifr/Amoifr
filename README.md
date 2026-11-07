@@ -6,11 +6,11 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 👷 Ce sur quoi je travaille en ce moment
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (4 days ago)
+- [zenstruck/messenger-monitor-bundle](https://github.com/zenstruck/messenger-monitor-bundle) - Batteries included UI to monitor your Messenger workers, transports, schedules, and messages. (today)
 - [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a JavaScript ecosystem for Symfony (4 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (4 days ago)
 - [symfony-tools/code-block-checker](https://github.com/symfony-tools/code-block-checker) - Check the Symfony docs code blocks (1 week ago)
 - [sulu/SuluProductBundle](https://github.com/sulu/SuluProductBundle) - Sulu product bundle (1 week ago)
-- [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (1 week ago)
 
 #### 🔀 Mes dernières pull requests
 
