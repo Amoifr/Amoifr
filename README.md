@@ -9,21 +9,21 @@ et un peu partout ailleurs dans l'écosystème.
 - [zenstruck/messenger-monitor-bundle](https://github.com/zenstruck/messenger-monitor-bundle) - Batteries included UI to monitor your Messenger workers, transports, schedules, and messages. (1 day ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (5 days ago)
 - [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a JavaScript ecosystem for Symfony (5 days ago)
-- [symfony-tools/code-block-checker](https://github.com/symfony-tools/code-block-checker) - Check the Symfony docs code blocks (1 week ago)
 - [sulu/SuluProductBundle](https://github.com/sulu/SuluProductBundle) - Sulu product bundle (1 week ago)
+- [symfony-tools/code-block-checker](https://github.com/symfony-tools/code-block-checker) - Check the Symfony docs code blocks (1 week ago)
 
 #### 🔀 Mes dernières pull requests
 
+- [Add a format_extension resolver configuration](https://github.com/liip/LiipImagineBundle/pull/1675) sur [liip/LiipImagineBundle](https://github.com/liip/LiipImagineBundle) (OPEN, today)
+- [Fix the 2.x merge on 2-to-3](https://github.com/liip/LiipImagineBundle/pull/1674) sur [liip/LiipImagineBundle](https://github.com/liip/LiipImagineBundle) (OPEN, today)
 - [Pass the route generation url to the page_tree_route field type](https://github.com/sulu/sulu/pull/9235) sur [sulu/sulu](https://github.com/sulu/sulu) (OPEN, 2 days ago)
 - [Warn about mixed collations before migrating](https://github.com/sulu/SuluPHPCRMigrationBundle/pull/86) sur [sulu/SuluPHPCRMigrationBundle](https://github.com/sulu/SuluPHPCRMigrationBundle) (OPEN, 2 days ago)
 - [feat: Deprecate YamlFileLoader and ArrayLoader](https://github.com/Behat/Gherkin/pull/443) sur [Behat/Gherkin](https://github.com/Behat/Gherkin) (OPEN, 3 days ago)
-- [[Mercure][WCM] Document MercureAssertionsTrait and the record_updates_in_test option](https://github.com/symfony/symfony-docs/pull/23471) sur [symfony/symfony-docs](https://github.com/symfony/symfony-docs) (OPEN, 3 days ago)
-- [Record the updates in the test environment and add MercureAssertionsTrait](https://github.com/symfony/mercure-bundle/pull/140) sur [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) (OPEN, 3 days ago)
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
-- [zenstruck/browser](https://github.com/zenstruck/browser) ([v1.14.0](https://github.com/zenstruck/browser/releases/tag/v1.14.0), 2 days ago) - A fluent interface for your Symfony functional tests.
-- [symfony/ux](https://github.com/symfony/ux) ([v3.7.1](https://github.com/symfony/ux/releases/tag/v3.7.1), 2 days ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) ([2.1.2](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.1.2), 2 days ago) - Doctrine extensions for PHPStan
+- [liip/LiipImagineBundle](https://github.com/liip/LiipImagineBundle) ([2.18.2](https://github.com/liip/LiipImagineBundle/releases/tag/2.18.2), today) - Symfony Bundle to assist in image manipulation using the imagine library
+- [symfony/webpack-encore](https://github.com/symfony/webpack-encore) ([v7.2.1](https://github.com/symfony/webpack-encore/releases/tag/v7.2.1), today) - A simple but powerful API for processing &amp; compiling assets built around Webpack
+- [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) ([v2.4.3](https://github.com/symfony/webpack-encore-bundle/releases/tag/v2.4.3), today) - Symfony integration with Webpack Encore!
 
 <sub>README généré automatiquement par <a href="https://github.com/muesli/readme-scribe">readme-scribe</a>.</sub>
