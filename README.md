@@ -14,16 +14,16 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔀 Mes dernières pull requests
 
+- [Visit embedded templates and component bodies with node rules](https://github.com/VincentLanglet/Twig-CS-Fixer/pull/470) sur [VincentLanglet/Twig-CS-Fixer](https://github.com/VincentLanglet/Twig-CS-Fixer) (OPEN, today)
+- [Select the published date in the page list](https://github.com/sulu/sulu/pull/9236) sur [sulu/sulu](https://github.com/sulu/sulu) (OPEN, today)
 - [[TwigBridge] Render the choice groups of expanded choice fields as fieldsets](https://github.com/symfony/symfony/pull/67990) sur [symfony/symfony](https://github.com/symfony/symfony) (OPEN, 1 day ago)
 - [Add the normalize_filter_set_names option and deprecate the normalization of filter set names](https://github.com/liip/LiipImagineBundle/pull/1676) sur [liip/LiipImagineBundle](https://github.com/liip/LiipImagineBundle) (OPEN, 1 day ago)
 - [Add a format_extension resolver configuration](https://github.com/liip/LiipImagineBundle/pull/1675) sur [liip/LiipImagineBundle](https://github.com/liip/LiipImagineBundle) (OPEN, 1 day ago)
-- [Fix the 2.x merge on 2-to-3](https://github.com/liip/LiipImagineBundle/pull/1674) sur [liip/LiipImagineBundle](https://github.com/liip/LiipImagineBundle) (OPEN, 1 day ago)
-- [Pass the route generation url to the page_tree_route field type](https://github.com/sulu/sulu/pull/9235) sur [sulu/sulu](https://github.com/sulu/sulu) (OPEN, 3 days ago)
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.95.30](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.30), today) - A tool to automatically fix PHP Coding Standards issues
+- [zenstruck/foundry](https://github.com/zenstruck/foundry) ([v2.16.0](https://github.com/zenstruck/foundry/releases/tag/v2.16.0), today) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine.
 - [liip/LiipImagineBundle](https://github.com/liip/LiipImagineBundle) ([2.18.2](https://github.com/liip/LiipImagineBundle/releases/tag/2.18.2), 1 day ago) - Symfony Bundle to assist in image manipulation using the imagine library
-- [symfony/webpack-encore](https://github.com/symfony/webpack-encore) ([v7.2.1](https://github.com/symfony/webpack-encore/releases/tag/v7.2.1), 1 day ago) - A simple but powerful API for processing &amp; compiling assets built around Webpack
-- [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) ([v2.4.3](https://github.com/symfony/webpack-encore-bundle/releases/tag/v2.4.3), 1 day ago) - Symfony integration with Webpack Encore!
 
 <sub>README généré automatiquement par <a href="https://github.com/muesli/readme-scribe">readme-scribe</a>.</sub>
