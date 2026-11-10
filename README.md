@@ -22,8 +22,8 @@ et un peu partout ailleurs dans l'écosystème.
 
 #### 🔭 Dernières releases auxquelles j'ai contribué
 
+- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v5.10.0](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v5.10.0), today) - EasyAdmin is a fast, beautiful and modern admin generator for Symfony applications.
 - [composer/composer](https://github.com/composer/composer) ([2.11.2](https://github.com/composer/composer/releases/tag/2.11.2), today) - Dependency Manager for PHP
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.95.30](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.30), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
-- [zenstruck/foundry](https://github.com/zenstruck/foundry) ([v2.16.0](https://github.com/zenstruck/foundry/releases/tag/v2.16.0), 1 day ago) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine.
 
 <sub>README généré automatiquement par <a href="https://github.com/muesli/readme-scribe">readme-scribe</a>.</sub>
