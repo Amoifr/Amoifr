@@ -15,6 +15,8 @@ TOP_ORGS = 8
 OTHER_ORGS = 16
 RECENT_PRS = 6
 RECENT_RELEASES = 8
+HIGHLIGHTED = ['symfony/symfony', 'sulu/sulu']
+HIGHLIGHTED_RELEASES = 5
 
 QUERY = '''
 query($q: String!, $after: String) {
@@ -22,7 +24,7 @@ query($q: String!, $after: String) {
     pageInfo { hasNextPage endCursor }
     nodes {
       ... on PullRequest {
-        title url state merged createdAt
+        title url number state merged createdAt mergedAt baseRefName
         repository {
           nameWithOwner url description isPrivate
           owner { login avatarUrl url ... on Organization { name } ... on User { name } }
@@ -34,18 +36,30 @@ query($q: String!, $after: String) {
 }
 '''
 
+RELEASES_QUERY = '''
+query($owner: String!, $name: String!) {
+  repository(owner: $owner, name: $name) {
+    nameWithOwner url
+    owner { login avatarUrl url ... on Organization { name } }
+    releases(first: 100, orderBy: {field: CREATED_AT, direction: DESC}) {
+      nodes { tagName url publishedAt }
+    }
+  }
+}
+'''
 
-def graphql(token, variables):
+
+def graphql(token, variables, query=QUERY):
     request = urllib.request.Request(
         'https://api.github.com/graphql',
-        data=json.dumps({'query': QUERY, 'variables': variables}).encode(),
+        data=json.dumps({'query': query, 'variables': variables}).encode(),
         headers={'Authorization': 'bearer ' + token, 'Content-Type': 'application/json'},
     )
     with urllib.request.urlopen(request) as response:
         payload = json.load(response)
     if 'errors' in payload:
         sys.exit(json.dumps(payload['errors']))
-    return payload['data']['search']
+    return payload['data']['search'] if query == QUERY else payload['data']
 
 
 def fetch_pull_requests(token):
@@ -65,6 +79,24 @@ def fetch_pull_requests(token):
     return [pr for pr in pull_requests if not pr['repository']['isPrivate']]
 
 
+def fetch_repositories(token):
+    repositories = []
+    for name_with_owner in HIGHLIGHTED:
+        owner, name = name_with_owner.split('/')
+        repositories.append(graphql(token, {'owner': owner, 'name': name}, RELEASES_QUERY)['repository'])
+    return repositories
+
+
+def shipped_in(pr, releases):
+    """Return the first release of the base branch of the pull request published after its merge."""
+    prefix = pr['baseRefName'] + '.'
+    candidates = [
+        release for release in releases
+        if release['tagName'].lstrip('v').startswith(prefix) and release['publishedAt'] > pr['mergedAt']
+    ]
+    return min(candidates, key=lambda release: release['publishedAt']) if candidates else None
+
+
 def ago(date):
     days = (datetime.now(timezone.utc) - datetime.fromisoformat(date.replace('Z', '+00:00'))).days
     if days == 0:
@@ -82,7 +114,7 @@ def avatar(owner, size):
     return owner['avatarUrl'] + ('&' if '?' in owner['avatarUrl'] else '?') + f's={size * 2}'
 
 
-def render(pull_requests):
+def render(pull_requests, repositories):
     contributions = [pr for pr in pull_requests if pr['repository']['owner']['login'] not in EXCLUDED_OWNERS]
     merged = [pr for pr in contributions if pr['merged']]
 
@@ -165,7 +197,38 @@ def render(pull_requests):
         if repository['latestRelease']:
             releases[repository['nameWithOwner']] = repository
     latest = sorted(releases.values(), key=lambda repo: repo['latestRelease']['publishedAt'], reverse=True)
-    lines += ['### 🔭 Dernières releases auxquelles j\'ai contribué', '', '<table>']
+    lines += ['### 🔭 Dernières releases auxquelles j\'ai contribué', '', '<div align="center">', '<table>', '  <tr>']
+    for repository in repositories:
+        prs = [pr for pr in merged if pr['repository']['nameWithOwner'] == repository['nameWithOwner']]
+        shipped = defaultdict(list)
+        pending = []
+        for pr in prs:
+            release = shipped_in(pr, repository['releases']['nodes'])
+            if release:
+                shipped[release['tagName']].append(pr)
+            else:
+                pending.append(pr)
+        by_tag = {release['tagName']: release for release in repository['releases']['nodes']}
+        owner = repository['owner']
+        lines += [
+            '    <td align="center" width="50%" valign="top">',
+            f'      <a href="{repository["url"]}"><img src="{avatar(owner, 96)}" width="96" height="96" alt="{owner["login"]}"></a><br>',
+            f'      <h3>{html.escape(owner.get("name") or owner["login"])}</h3>',
+        ]
+        for tag in sorted(shipped, key=lambda tag: by_tag[tag]['publishedAt'], reverse=True)[:HIGHLIGHTED_RELEASES]:
+            release = by_tag[tag]
+            prs_of_tag = sorted(shipped[tag], key=lambda pr: pr['number'])
+            if len(prs_of_tag) > 3:
+                search = f'is:pr is:merged author:{LOGIN} base:{prs_of_tag[0]["baseRefName"]} ' \
+                    f'merged:{min(pr["mergedAt"] for pr in prs_of_tag)[:10]}..{max(pr["mergedAt"] for pr in prs_of_tag)[:10]}'.replace(' ', '+').replace(':', '%3A')
+                links = f'<a href="{repository["url"]}/pulls?q={search}">{len(prs_of_tag)} PR</a>'
+            else:
+                links = ' '.join(f'<a href="{pr["url"]}">#{pr["number"]}</a>' for pr in prs_of_tag)
+            lines.append(f'      🏷️ <a href="{release["url"]}"><code>{html.escape(tag)}</code></a> <sub>{ago(release["publishedAt"])} · {links}</sub><br>')
+        if pending:
+            lines.append(f'      ⏳ <sub>{len(pending)} PR mergée{"s" if len(pending) > 1 else ""} dans la prochaine release</sub><br>')
+        lines.append('    </td>')
+    lines += ['  </tr>', '</table>', '</div>', '', '<table>']
     latest = latest[:RECENT_RELEASES]
     for row in range(0, len(latest), 4):
         lines.append('  <tr>')
@@ -192,7 +255,7 @@ def main():
         sys.exit('GITHUB_TOKEN is required')
     target = sys.argv[1] if len(sys.argv) > 1 else 'README.md'
     with open(target, 'w') as file:
-        file.write(render(fetch_pull_requests(token)))
+        file.write(render(fetch_pull_requests(token), fetch_repositories(token)))
 
 
 if __name__ == '__main__':
