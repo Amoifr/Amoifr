@@ -14,7 +14,7 @@ EXCLUDED_OWNERS = {LOGIN, 'PrestaShop'}
 TOP_ORGS = 8
 OTHER_ORGS = 16
 RECENT_PRS = 6
-RECENT_RELEASES = 3
+RECENT_RELEASES = 8
 
 QUERY = '''
 query($q: String!, $after: String) {
@@ -158,20 +158,30 @@ def render(pull_requests):
     lines += ['</table>', '']
 
     releases = {}
+    merged_by_repository = defaultdict(int)
     for pr in merged:
         repository = pr['repository']
+        merged_by_repository[repository['nameWithOwner']] += 1
         if repository['latestRelease']:
             releases[repository['nameWithOwner']] = repository
     latest = sorted(releases.values(), key=lambda repo: repo['latestRelease']['publishedAt'], reverse=True)
-    lines += ['### 🔭 Dernières releases auxquelles j\'ai contribué', '']
-    for repository in latest[:RECENT_RELEASES]:
-        release = repository['latestRelease']
-        lines.append(
-            f'- <img src="{avatar(repository["owner"], 16)}" width="16" height="16" alt=""> '
-            f'[{repository["nameWithOwner"]}]({repository["url"]}) '
-            f'([{release["tagName"]}]({release["url"]}), {ago(release["publishedAt"])})'
-            + (f' - {repository["description"]}' if repository['description'] else '')
-        )
+    lines += ['### 🔭 Dernières releases auxquelles j\'ai contribué', '', '<table>']
+    latest = latest[:RECENT_RELEASES]
+    for row in range(0, len(latest), 4):
+        lines.append('  <tr>')
+        for repository in latest[row:row + 4]:
+            release = repository['latestRelease']
+            count = merged_by_repository[repository['nameWithOwner']]
+            lines += [
+                '    <td align="center" width="25%">',
+                f'      <a href="{repository["url"]}"><img src="{avatar(repository["owner"], 48)}" width="48" height="48" alt="{repository["owner"]["login"]}"></a><br>',
+                f'      <b><a href="{repository["url"]}">{repository["nameWithOwner"]}</a></b><br>',
+                f'      🏷️ <a href="{release["url"]}"><code>{html.escape(release["tagName"])}</code></a><br>',
+                f'      <sub>{ago(release["publishedAt"])} · {count} PR mergée{"s" if count > 1 else ""}</sub>',
+                '    </td>',
+            ]
+        lines.append('  </tr>')
+    lines.append('</table>')
 
     return '\n'.join(lines) + '\n'
 

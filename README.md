@@ -122,6 +122,57 @@ un correctif à la fois, sur mon temps libre.</p>
 
 ### 🔭 Dernières releases auxquelles j'ai contribué
 
-- <img src="https://avatars.githubusercontent.com/u/1396951?v=4&s=32" width="16" height="16" alt=""> [getsentry/sentry-php](https://github.com/getsentry/sentry-php) ([4.37.0](https://github.com/getsentry/sentry-php/releases/tag/4.37.0), aujourd'hui) - The official PHP SDK for Sentry
-- <img src="https://avatars.githubusercontent.com/u/14944619?v=4&s=32" width="16" height="16" alt=""> [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v5.10.0](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v5.10.0), hier) - EasyAdmin is a fast, beautiful and modern admin generator for Symfony applications.
-- <img src="https://avatars.githubusercontent.com/u/837015?v=4&s=32" width="16" height="16" alt=""> [composer/composer](https://github.com/composer/composer) ([2.11.2](https://github.com/composer/composer/releases/tag/2.11.2), il y a 2 jours) - Dependency Manager for PHP
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://github.com/getsentry/sentry-php"><img src="https://avatars.githubusercontent.com/u/1396951?v=4&s=96" width="48" height="48" alt="getsentry"></a><br>
+      <b><a href="https://github.com/getsentry/sentry-php">getsentry/sentry-php</a></b><br>
+      🏷️ <a href="https://github.com/getsentry/sentry-php/releases/tag/4.37.0"><code>4.37.0</code></a><br>
+      <sub>aujourd'hui · 1 PR mergée</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/EasyCorp/EasyAdminBundle"><img src="https://avatars.githubusercontent.com/u/14944619?v=4&s=96" width="48" height="48" alt="EasyCorp"></a><br>
+      <b><a href="https://github.com/EasyCorp/EasyAdminBundle">EasyCorp/EasyAdminBundle</a></b><br>
+      🏷️ <a href="https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v5.10.0"><code>v5.10.0</code></a><br>
+      <sub>hier · 4 PR mergées</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/composer/composer"><img src="https://avatars.githubusercontent.com/u/837015?v=4&s=96" width="48" height="48" alt="composer"></a><br>
+      <b><a href="https://github.com/composer/composer">composer/composer</a></b><br>
+      🏷️ <a href="https://github.com/composer/composer/releases/tag/2.11.2"><code>2.11.2</code></a><br>
+      <sub>il y a 2 jours · 3 PR mergées</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/PHP-CS-Fixer/PHP-CS-Fixer"><img src="https://avatars.githubusercontent.com/u/24399959?v=4&s=96" width="48" height="48" alt="PHP-CS-Fixer"></a><br>
+      <b><a href="https://github.com/PHP-CS-Fixer/PHP-CS-Fixer">PHP-CS-Fixer/PHP-CS-Fixer</a></b><br>
+      🏷️ <a href="https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.30"><code>v3.95.30</code></a><br>
+      <sub>il y a 2 jours · 2 PR mergées</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://github.com/zenstruck/foundry"><img src="https://avatars.githubusercontent.com/u/475780?v=4&s=96" width="48" height="48" alt="zenstruck"></a><br>
+      <b><a href="https://github.com/zenstruck/foundry">zenstruck/foundry</a></b><br>
+      🏷️ <a href="https://github.com/zenstruck/foundry/releases/tag/v2.16.0"><code>v2.16.0</code></a><br>
+      <sub>il y a 3 jours · 6 PR mergées</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/liip/LiipImagineBundle"><img src="https://avatars.githubusercontent.com/u/166102?v=4&s=96" width="48" height="48" alt="liip"></a><br>
+      <b><a href="https://github.com/liip/LiipImagineBundle">liip/LiipImagineBundle</a></b><br>
+      🏷️ <a href="https://github.com/liip/LiipImagineBundle/releases/tag/2.18.2"><code>2.18.2</code></a><br>
+      <sub>il y a 4 jours · 4 PR mergées</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/symfony/webpack-encore"><img src="https://avatars.githubusercontent.com/u/143937?v=4&s=96" width="48" height="48" alt="symfony"></a><br>
+      <b><a href="https://github.com/symfony/webpack-encore">symfony/webpack-encore</a></b><br>
+      🏷️ <a href="https://github.com/symfony/webpack-encore/releases/tag/v7.2.1"><code>v7.2.1</code></a><br>
+      <sub>il y a 4 jours · 2 PR mergées</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/symfony/webpack-encore-bundle"><img src="https://avatars.githubusercontent.com/u/143937?v=4&s=96" width="48" height="48" alt="symfony"></a><br>
+      <b><a href="https://github.com/symfony/webpack-encore-bundle">symfony/webpack-encore-bundle</a></b><br>
+      🏷️ <a href="https://github.com/symfony/webpack-encore-bundle/releases/tag/v2.4.3"><code>v2.4.3</code></a><br>
+      <sub>il y a 4 jours · 1 PR mergée</sub>
+    </td>
+  </tr>
+</table>
