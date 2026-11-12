@@ -1,29 +1,127 @@
-### Salut 👋
+<h2 align="center">Salut, moi c'est Pascal 👋</h2>
 
-Développeur PHP. Je contribue surtout à [Symfony](https://github.com/symfony/symfony),
-[Sulu](https://github.com/sulu/sulu) et [API Platform](https://github.com/api-platform/core),
-et un peu partout ailleurs dans l'écosystème.
+<p align="center">Développeur PHP. Je contribue surtout à l'écosystème Symfony et à Sulu,<br>
+un correctif à la fois, sur mon temps libre.</p>
 
-#### 👷 Ce sur quoi je travaille en ce moment
+<p align="center">
+  <img src="https://img.shields.io/badge/PR_mergées-400-8957e5?style=for-the-badge" alt="400 PR mergées">
+  <img src="https://img.shields.io/badge/projets-71-1f6feb?style=for-the-badge" alt="projets">
+  <img src="https://img.shields.io/badge/organisations-29-238636?style=for-the-badge" alt="organisations">
+</p>
 
-- [zenstruck/messenger-monitor-bundle](https://github.com/zenstruck/messenger-monitor-bundle) - Batteries included UI to monitor your Messenger workers, transports, schedules, and messages. (5 days ago)
-- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a JavaScript ecosystem for Symfony (1 week ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
-- [symfony-tools/code-block-checker](https://github.com/symfony-tools/code-block-checker) - Check the Symfony docs code blocks (2 weeks ago)
-- [sulu/SuluProductBundle](https://github.com/sulu/SuluProductBundle) - Sulu product bundle (2 weeks ago)
+### 🏆 Là où je contribue le plus
 
-#### 🔀 Mes dernières pull requests
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://github.com/symfony"><img src="https://avatars.githubusercontent.com/u/143937?v=4&s=128" width="64" height="64" alt="symfony"></a><br>
+      <b>Symfony</b><br>
+      <sub><b>231</b> PR mergées</sub><br>
+      <sub><a href="https://github.com/symfony/symfony-docs">symfony-docs</a> · <a href="https://github.com/symfony/symfony">symfony</a> · <a href="https://github.com/symfony/ux">ux</a></sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/sulu"><img src="https://avatars.githubusercontent.com/u/5717006?v=4&s=128" width="64" height="64" alt="sulu"></a><br>
+      <b>Sulu CMS</b><br>
+      <sub><b>45</b> PR mergées</sub><br>
+      <sub><a href="https://github.com/sulu/sulu">sulu</a> · <a href="https://github.com/sulu/SuluMcpBundle">SuluMcpBundle</a> · <a href="https://github.com/sulu/SuluHeadlessBundle">SuluHeadlessBundle</a></sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/zenstruck"><img src="https://avatars.githubusercontent.com/u/475780?v=4&s=128" width="64" height="64" alt="zenstruck"></a><br>
+      <b>zenstruck (Kevin Bond)</b><br>
+      <sub><b>14</b> PR mergées</sub><br>
+      <sub><a href="https://github.com/zenstruck/foundry">foundry</a> · <a href="https://github.com/zenstruck/messenger-monitor-bundle">messenger-monitor-bundle</a> · <a href="https://github.com/zenstruck/browser">browser</a></sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/SymfonyCasts"><img src="https://avatars.githubusercontent.com/u/39772454?v=4&s=128" width="64" height="64" alt="SymfonyCasts"></a><br>
+      <b>SymfonyCasts</b><br>
+      <sub><b>11</b> PR mergées</sub><br>
+      <sub><a href="https://github.com/SymfonyCasts/sass-bundle">sass-bundle</a> · <a href="https://github.com/SymfonyCasts/reset-password-bundle">reset-password-bundle</a> · <a href="https://github.com/SymfonyCasts/tailwind-bundle">tailwind-bundle</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://github.com/symfony-tools"><img src="https://avatars.githubusercontent.com/u/82757555?v=4&s=128" width="64" height="64" alt="symfony-tools"></a><br>
+      <b>Symfony tools</b><br>
+      <sub><b>10</b> PR mergées</sub><br>
+      <sub><a href="https://github.com/symfony-tools/docs-builder">docs-builder</a> · <a href="https://github.com/symfony-tools/symfony-application">symfony-application</a> · <a href="https://github.com/symfony-tools/code-block-checker">code-block-checker</a></sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/Behat"><img src="https://avatars.githubusercontent.com/u/547869?v=4&s=128" width="64" height="64" alt="Behat"></a><br>
+      <b>Behat</b><br>
+      <sub><b>10</b> PR mergées</sub><br>
+      <sub><a href="https://github.com/Behat/Behat">Behat</a> · <a href="https://github.com/Behat/Gherkin">Gherkin</a> · <a href="https://github.com/Behat/docs">docs</a></sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/jsonrainbow"><img src="https://avatars.githubusercontent.com/u/170307068?v=4&s=128" width="64" height="64" alt="jsonrainbow"></a><br>
+      <b>jsonrainbow</b><br>
+      <sub><b>8</b> PR mergées</sub><br>
+      <sub><a href="https://github.com/jsonrainbow/json-schema">json-schema</a></sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/OskarStark"><img src="https://avatars.githubusercontent.com/u/995707?u=dd5209da4ffbbcbb8416314344a372311bd6982e&v=4&s=128" width="64" height="64" alt="OskarStark"></a><br>
+      <b>Oskar Stark</b><br>
+      <sub><b>8</b> PR mergées</sub><br>
+      <sub><a href="https://github.com/OskarStark/doctor-rst">doctor-rst</a></sub>
+    </td>
+  </tr>
+</table>
 
-- [[Mailer] Deprecate SentMessage::getMessageId() in favor of getTransportMessageId() and getMessageIdHeader()](https://github.com/symfony/symfony/pull/68079) sur [symfony/symfony](https://github.com/symfony/symfony) (OPEN, 2 days ago)
-- [[AssetMapper] Compare pre-releases in importmap:outdated](https://github.com/symfony/symfony/pull/68076) sur [symfony/symfony](https://github.com/symfony/symfony) (MERGED, 2 days ago)
-- [[SecurityBundle] Put the listeners of a lazy firewall context back after tracing them](https://github.com/symfony/symfony/pull/68075) sur [symfony/symfony](https://github.com/symfony/symfony) (MERGED, 2 days ago)
-- [[Process] Add Process::disableInput() to give the null device as standard input](https://github.com/symfony/symfony/pull/68064) sur [symfony/symfony](https://github.com/symfony/symfony) (OPEN, 2 days ago)
-- [docs: say that default http options do not apply to visit()](https://github.com/zenstruck/browser/pull/230) sur [zenstruck/browser](https://github.com/zenstruck/browser) (OPEN, 2 days ago)
+<p>Et aussi :
+  <a href="https://github.com/api-platform"><img src="https://avatars.githubusercontent.com/u/13420081?v=4&s=56" width="28" height="28" alt="api-platform" title="api-platform : 7 PR mergées"></a>
+  <a href="https://github.com/jolicode"><img src="https://avatars.githubusercontent.com/u/1436371?v=4&s=56" width="28" height="28" alt="jolicode" title="jolicode : 7 PR mergées"></a>
+  <a href="https://github.com/phpstan"><img src="https://avatars.githubusercontent.com/u/16435710?v=4&s=56" width="28" height="28" alt="phpstan" title="phpstan : 6 PR mergées"></a>
+  <a href="https://github.com/KnpLabs"><img src="https://avatars.githubusercontent.com/u/202732?v=4&s=56" width="28" height="28" alt="KnpLabs" title="KnpLabs : 5 PR mergées"></a>
+  <a href="https://github.com/EasyCorp"><img src="https://avatars.githubusercontent.com/u/14944619?v=4&s=56" width="28" height="28" alt="EasyCorp" title="EasyCorp : 4 PR mergées"></a>
+  <a href="https://github.com/liip"><img src="https://avatars.githubusercontent.com/u/166102?v=4&s=56" width="28" height="28" alt="liip" title="liip : 4 PR mergées"></a>
+  <a href="https://github.com/kevinpapst"><img src="https://avatars.githubusercontent.com/u/533162?u=95107e7217747082aebd03e7ed44b54b01a811e3&v=4&s=56" width="28" height="28" alt="kevinpapst" title="kevinpapst : 3 PR mergées"></a>
+  <a href="https://github.com/matomo-org"><img src="https://avatars.githubusercontent.com/u/698038?v=4&s=56" width="28" height="28" alt="matomo-org" title="matomo-org : 3 PR mergées"></a>
+  <a href="https://github.com/composer"><img src="https://avatars.githubusercontent.com/u/837015?v=4&s=56" width="28" height="28" alt="composer" title="composer : 3 PR mergées"></a>
+  <a href="https://github.com/twigphp"><img src="https://avatars.githubusercontent.com/u/5296178?v=4&s=56" width="28" height="28" alt="twigphp" title="twigphp : 3 PR mergées"></a>
+  <a href="https://github.com/webmozarts"><img src="https://avatars.githubusercontent.com/u/46774769?v=4&s=56" width="28" height="28" alt="webmozarts" title="webmozarts : 2 PR mergées"></a>
+  <a href="https://github.com/Masterminds"><img src="https://avatars.githubusercontent.com/u/689082?v=4&s=56" width="28" height="28" alt="Masterminds" title="Masterminds : 2 PR mergées"></a>
+  <a href="https://github.com/dustin10"><img src="https://avatars.githubusercontent.com/u/546381?u=d0dbe577bff378437b2971ef1d4bc941d3bdce14&v=4&s=56" width="28" height="28" alt="dustin10" title="dustin10 : 2 PR mergées"></a>
+  <a href="https://github.com/async-aws"><img src="https://avatars.githubusercontent.com/u/60474870?v=4&s=56" width="28" height="28" alt="async-aws" title="async-aws : 2 PR mergées"></a>
+  <a href="https://github.com/Seldaek"><img src="https://avatars.githubusercontent.com/u/183678?v=4&s=56" width="28" height="28" alt="Seldaek" title="Seldaek : 2 PR mergées"></a>
+  <a href="https://github.com/minkphp"><img src="https://avatars.githubusercontent.com/u/10380339?v=4&s=56" width="28" height="28" alt="minkphp" title="minkphp : 2 PR mergées"></a>
+</p>
 
-#### 🔭 Dernières releases auxquelles j'ai contribué
+### 🔀 Mes dernières pull requests
 
-- [getsentry/sentry-php](https://github.com/getsentry/sentry-php) ([4.37.0](https://github.com/getsentry/sentry-php/releases/tag/4.37.0), 1 day ago) - The official PHP SDK for Sentry
-- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v5.10.0](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v5.10.0), 2 days ago) - EasyAdmin is a fast, beautiful and modern admin generator for Symfony applications.
-- [composer/composer](https://github.com/composer/composer) ([2.11.2](https://github.com/composer/composer/releases/tag/2.11.2), 2 days ago) - Dependency Manager for PHP
+<table>
+  <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/5717006?v=4&s=64" width="32" height="32" alt="sulu"></td>
+    <td><a href="https://github.com/sulu/sulu/pull/9242">Let the teaser edit form shrink to the width of the selection</a><br><sub><a href="https://github.com/sulu/sulu">sulu/sulu</a> · aujourd'hui</sub></td>
+    <td>🟢&nbsp;ouverte</td>
+  </tr>
+  <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/5717006?v=4&s=64" width="32" height="32" alt="sulu"></td>
+    <td><a href="https://github.com/sulu/sulu/pull/9241">Reserve the scrollbar space in the select menu</a><br><sub><a href="https://github.com/sulu/sulu">sulu/sulu</a> · aujourd'hui</sub></td>
+    <td>🟢&nbsp;ouverte</td>
+  </tr>
+  <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/143937?v=4&s=64" width="32" height="32" alt="symfony"></td>
+    <td><a href="https://github.com/symfony/symfony/pull/68079">[Mailer] Deprecate SentMessage::getMessageId() in favor of getTransportMessageId() and getMessageIdHeader()</a><br><sub><a href="https://github.com/symfony/symfony">symfony/symfony</a> · il y a 2 jours</sub></td>
+    <td>🟢&nbsp;ouverte</td>
+  </tr>
+  <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/143937?v=4&s=64" width="32" height="32" alt="symfony"></td>
+    <td><a href="https://github.com/symfony/symfony/pull/68076">[AssetMapper] Compare pre-releases in importmap:outdated</a><br><sub><a href="https://github.com/symfony/symfony">symfony/symfony</a> · il y a 2 jours</sub></td>
+    <td>🟣&nbsp;mergée</td>
+  </tr>
+  <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/143937?v=4&s=64" width="32" height="32" alt="symfony"></td>
+    <td><a href="https://github.com/symfony/symfony/pull/68075">[SecurityBundle] Put the listeners of a lazy firewall context back after tracing them</a><br><sub><a href="https://github.com/symfony/symfony">symfony/symfony</a> · il y a 2 jours</sub></td>
+    <td>🟣&nbsp;mergée</td>
+  </tr>
+  <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/143937?v=4&s=64" width="32" height="32" alt="symfony"></td>
+    <td><a href="https://github.com/symfony/symfony/pull/68064">[Process] Add Process::disableInput() to give the null device as standard input</a><br><sub><a href="https://github.com/symfony/symfony">symfony/symfony</a> · il y a 2 jours</sub></td>
+    <td>🟢&nbsp;ouverte</td>
+  </tr>
+</table>
 
-<sub>README généré automatiquement par <a href="https://github.com/muesli/readme-scribe">readme-scribe</a>.</sub>
+### 🔭 Dernières releases auxquelles j'ai contribué
+
+- <img src="https://avatars.githubusercontent.com/u/1396951?v=4&s=32" width="16" height="16" alt=""> [getsentry/sentry-php](https://github.com/getsentry/sentry-php) ([4.37.0](https://github.com/getsentry/sentry-php/releases/tag/4.37.0), aujourd'hui) - The official PHP SDK for Sentry
+- <img src="https://avatars.githubusercontent.com/u/14944619?v=4&s=32" width="16" height="16" alt=""> [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v5.10.0](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v5.10.0), hier) - EasyAdmin is a fast, beautiful and modern admin generator for Symfony applications.
+- <img src="https://avatars.githubusercontent.com/u/837015?v=4&s=32" width="16" height="16" alt=""> [composer/composer](https://github.com/composer/composer) ([2.11.2](https://github.com/composer/composer/releases/tag/2.11.2), il y a 2 jours) - Dependency Manager for PHP

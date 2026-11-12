@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  readme-scribe:
+  update-readme:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -14,12 +14,9 @@ jobs:
     steps:
       - uses: actions/checkout@v7
 
-      - uses: muesli/readme-scribe@master
+      - run: python3 scripts/generate.py README.md
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
-        with:
-          template: "templates/README.md.tpl"
-          writeTo: "README.md"
 
       - uses: stefanzweifel/git-auto-commit-action@v7
         with:
