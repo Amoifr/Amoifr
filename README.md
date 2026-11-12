@@ -172,7 +172,7 @@ un correctif à la fois, sur mon temps libre.</p>
       <a href="https://github.com/PHP-CS-Fixer/PHP-CS-Fixer"><img src="https://avatars.githubusercontent.com/u/24399959?v=4&s=96" width="48" height="48" alt="PHP-CS-Fixer"></a><br>
       <b><a href="https://github.com/PHP-CS-Fixer/PHP-CS-Fixer">PHP-CS-Fixer/PHP-CS-Fixer</a></b><br>
       🏷️ <a href="https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.30"><code>v3.95.30</code></a><br>
-      <sub>il y a 2 jours · 2 PR mergées</sub>
+      <sub>il y a 3 jours · 2 PR mergées</sub>
     </td>
   </tr>
   <tr>
