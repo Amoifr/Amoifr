@@ -90,32 +90,32 @@ un correctif à la fois, sur mon temps libre.</p>
 <table>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/5717006?v=4&s=64" width="32" height="32" alt="sulu"></td>
-    <td><a href="https://github.com/sulu/sulu/pull/9242">Let the teaser edit form shrink to the width of the selection</a><br><sub><a href="https://github.com/sulu/sulu">sulu/sulu</a> · aujourd'hui</sub></td>
+    <td><a href="https://github.com/sulu/sulu/pull/9242">Let the teaser edit form fit narrow selections and wrap its buttons</a><br><sub><a href="https://github.com/sulu/sulu">sulu/sulu</a> · hier</sub></td>
     <td>🟢&nbsp;ouverte</td>
   </tr>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/5717006?v=4&s=64" width="32" height="32" alt="sulu"></td>
-    <td><a href="https://github.com/sulu/sulu/pull/9241">Reserve the scrollbar space in the select menu</a><br><sub><a href="https://github.com/sulu/sulu">sulu/sulu</a> · aujourd'hui</sub></td>
+    <td><a href="https://github.com/sulu/sulu/pull/9241">Reserve the scrollbar space in the select menu</a><br><sub><a href="https://github.com/sulu/sulu">sulu/sulu</a> · hier</sub></td>
     <td>🟢&nbsp;ouverte</td>
   </tr>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/143937?v=4&s=64" width="32" height="32" alt="symfony"></td>
-    <td><a href="https://github.com/symfony/symfony/pull/68079">[Mailer] Deprecate SentMessage::getMessageId() in favor of getTransportMessageId() and getMessageIdHeader()</a><br><sub><a href="https://github.com/symfony/symfony">symfony/symfony</a> · il y a 2 jours</sub></td>
+    <td><a href="https://github.com/symfony/symfony/pull/68079">[Mailer] Deprecate SentMessage::getMessageId() in favor of getTransportMessageId() and getMessageIdHeader()</a><br><sub><a href="https://github.com/symfony/symfony">symfony/symfony</a> · il y a 3 jours</sub></td>
     <td>🟢&nbsp;ouverte</td>
   </tr>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/143937?v=4&s=64" width="32" height="32" alt="symfony"></td>
-    <td><a href="https://github.com/symfony/symfony/pull/68076">[AssetMapper] Compare pre-releases in importmap:outdated</a><br><sub><a href="https://github.com/symfony/symfony">symfony/symfony</a> · il y a 2 jours</sub></td>
+    <td><a href="https://github.com/symfony/symfony/pull/68076">[AssetMapper] Compare pre-releases in importmap:outdated</a><br><sub><a href="https://github.com/symfony/symfony">symfony/symfony</a> · il y a 3 jours</sub></td>
     <td>🟣&nbsp;mergée</td>
   </tr>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/143937?v=4&s=64" width="32" height="32" alt="symfony"></td>
-    <td><a href="https://github.com/symfony/symfony/pull/68075">[SecurityBundle] Put the listeners of a lazy firewall context back after tracing them</a><br><sub><a href="https://github.com/symfony/symfony">symfony/symfony</a> · il y a 2 jours</sub></td>
+    <td><a href="https://github.com/symfony/symfony/pull/68075">[SecurityBundle] Put the listeners of a lazy firewall context back after tracing them</a><br><sub><a href="https://github.com/symfony/symfony">symfony/symfony</a> · il y a 3 jours</sub></td>
     <td>🟣&nbsp;mergée</td>
   </tr>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/143937?v=4&s=64" width="32" height="32" alt="symfony"></td>
-    <td><a href="https://github.com/symfony/symfony/pull/68064">[Process] Add Process::disableInput() to give the null device as standard input</a><br><sub><a href="https://github.com/symfony/symfony">symfony/symfony</a> · il y a 2 jours</sub></td>
+    <td><a href="https://github.com/symfony/symfony/pull/68064">[Process] Add Process::disableInput() to give the null device as standard input</a><br><sub><a href="https://github.com/symfony/symfony">symfony/symfony</a> · il y a 3 jours</sub></td>
     <td>🟢&nbsp;ouverte</td>
   </tr>
 </table>
@@ -128,7 +128,7 @@ un correctif à la fois, sur mon temps libre.</p>
     <td align="center" width="50%" valign="top">
       <a href="https://github.com/symfony/symfony"><img src="https://avatars.githubusercontent.com/u/143937?v=4&s=192" width="96" height="96" alt="symfony"></a><br>
       <h3>Symfony</h3>
-      🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA1"><code>v8.2.0-BETA1</code></a> <sub>il y a 8 jours · <a href="https://github.com/symfony/symfony/pulls?q=is%3Apr+is%3Amerged+author%3AAmoifr+base%3A8.2+merged%3A2026-06-23..2026-10-21">27 PR</a></sub><br>
+      🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA1"><code>v8.2.0-BETA1</code></a> <sub>il y a 9 jours · <a href="https://github.com/symfony/symfony/pulls?q=is%3Apr+is%3Amerged+author%3AAmoifr+base%3A8.2+merged%3A2026-06-23..2026-10-21">27 PR</a></sub><br>
       🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v6.4.49"><code>v6.4.49</code></a> <sub>il y a 15 jours · <a href="https://github.com/symfony/symfony/pull/67264">#67264</a></sub><br>
       🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v6.4.47"><code>v6.4.47</code></a> <sub>il y a 1 mois · <a href="https://github.com/symfony/symfony/pull/66359">#66359</a></sub><br>
       🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v6.4.46"><code>v6.4.46</code></a> <sub>il y a 1 mois · <a href="https://github.com/symfony/symfony/pull/65995">#65995</a> <a href="https://github.com/symfony/symfony/pull/66027">#66027</a></sub><br>
@@ -151,6 +151,12 @@ un correctif à la fois, sur mon temps libre.</p>
 <table>
   <tr>
     <td align="center" width="25%">
+      <a href="https://github.com/api-platform/core"><img src="https://avatars.githubusercontent.com/u/13420081?v=4&s=96" width="48" height="48" alt="api-platform"></a><br>
+      <b><a href="https://github.com/api-platform/core">api-platform/core</a></b><br>
+      🏷️ <a href="https://github.com/api-platform/core/releases/tag/v5.0.7"><code>v5.0.7</code></a><br>
+      <sub>aujourd'hui · 6 PR mergées</sub>
+    </td>
+    <td align="center" width="25%">
       <a href="https://github.com/getsentry/sentry-php"><img src="https://avatars.githubusercontent.com/u/1396951?v=4&s=96" width="48" height="48" alt="getsentry"></a><br>
       <b><a href="https://github.com/getsentry/sentry-php">getsentry/sentry-php</a></b><br>
       🏷️ <a href="https://github.com/getsentry/sentry-php/releases/tag/4.37.0"><code>4.37.0</code></a><br>
@@ -166,39 +172,33 @@ un correctif à la fois, sur mon temps libre.</p>
       <a href="https://github.com/composer/composer"><img src="https://avatars.githubusercontent.com/u/837015?v=4&s=96" width="48" height="48" alt="composer"></a><br>
       <b><a href="https://github.com/composer/composer">composer/composer</a></b><br>
       🏷️ <a href="https://github.com/composer/composer/releases/tag/2.11.2"><code>2.11.2</code></a><br>
-      <sub>il y a 2 jours · 3 PR mergées</sub>
+      <sub>il y a 3 jours · 3 PR mergées</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="25%">
       <a href="https://github.com/PHP-CS-Fixer/PHP-CS-Fixer"><img src="https://avatars.githubusercontent.com/u/24399959?v=4&s=96" width="48" height="48" alt="PHP-CS-Fixer"></a><br>
       <b><a href="https://github.com/PHP-CS-Fixer/PHP-CS-Fixer">PHP-CS-Fixer/PHP-CS-Fixer</a></b><br>
       🏷️ <a href="https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.30"><code>v3.95.30</code></a><br>
       <sub>il y a 3 jours · 2 PR mergées</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="25%">
       <a href="https://github.com/zenstruck/foundry"><img src="https://avatars.githubusercontent.com/u/475780?v=4&s=96" width="48" height="48" alt="zenstruck"></a><br>
       <b><a href="https://github.com/zenstruck/foundry">zenstruck/foundry</a></b><br>
       🏷️ <a href="https://github.com/zenstruck/foundry/releases/tag/v2.16.0"><code>v2.16.0</code></a><br>
-      <sub>il y a 3 jours · 6 PR mergées</sub>
+      <sub>il y a 4 jours · 6 PR mergées</sub>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/liip/LiipImagineBundle"><img src="https://avatars.githubusercontent.com/u/166102?v=4&s=96" width="48" height="48" alt="liip"></a><br>
       <b><a href="https://github.com/liip/LiipImagineBundle">liip/LiipImagineBundle</a></b><br>
       🏷️ <a href="https://github.com/liip/LiipImagineBundle/releases/tag/2.18.2"><code>2.18.2</code></a><br>
-      <sub>il y a 4 jours · 4 PR mergées</sub>
+      <sub>il y a 5 jours · 4 PR mergées</sub>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/symfony/webpack-encore"><img src="https://avatars.githubusercontent.com/u/143937?v=4&s=96" width="48" height="48" alt="symfony"></a><br>
       <b><a href="https://github.com/symfony/webpack-encore">symfony/webpack-encore</a></b><br>
       🏷️ <a href="https://github.com/symfony/webpack-encore/releases/tag/v7.2.1"><code>v7.2.1</code></a><br>
-      <sub>il y a 4 jours · 2 PR mergées</sub>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/symfony/webpack-encore-bundle"><img src="https://avatars.githubusercontent.com/u/143937?v=4&s=96" width="48" height="48" alt="symfony"></a><br>
-      <b><a href="https://github.com/symfony/webpack-encore-bundle">symfony/webpack-encore-bundle</a></b><br>
-      🏷️ <a href="https://github.com/symfony/webpack-encore-bundle/releases/tag/v2.4.3"><code>v2.4.3</code></a><br>
-      <sub>il y a 4 jours · 1 PR mergée</sub>
+      <sub>il y a 5 jours · 2 PR mergées</sub>
     </td>
   </tr>
 </table>
