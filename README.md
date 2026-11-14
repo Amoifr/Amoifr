@@ -4,7 +4,7 @@
 un correctif à la fois, sur mon temps libre.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PR_mergées-402-8957e5?style=for-the-badge" alt="402 PR mergées">
+  <img src="https://img.shields.io/badge/PR_mergées-403-8957e5?style=for-the-badge" alt="403 PR mergées">
   <img src="https://img.shields.io/badge/projets-72-1f6feb?style=for-the-badge" alt="projets">
   <img src="https://img.shields.io/badge/organisations-29-238636?style=for-the-badge" alt="organisations">
 </p>
@@ -70,10 +70,10 @@ un correctif à la fois, sur mon temps libre.</p>
   <a href="https://github.com/api-platform"><img src="https://avatars.githubusercontent.com/u/13420081?v=4&s=56" width="28" height="28" alt="api-platform" title="api-platform : 7 PR mergées"></a>
   <a href="https://github.com/jolicode"><img src="https://avatars.githubusercontent.com/u/1436371?v=4&s=56" width="28" height="28" alt="jolicode" title="jolicode : 7 PR mergées"></a>
   <a href="https://github.com/phpstan"><img src="https://avatars.githubusercontent.com/u/16435710?v=4&s=56" width="28" height="28" alt="phpstan" title="phpstan : 6 PR mergées"></a>
+  <a href="https://github.com/liip"><img src="https://avatars.githubusercontent.com/u/166102?v=4&s=56" width="28" height="28" alt="liip" title="liip : 5 PR mergées"></a>
   <a href="https://github.com/KnpLabs"><img src="https://avatars.githubusercontent.com/u/202732?v=4&s=56" width="28" height="28" alt="KnpLabs" title="KnpLabs : 5 PR mergées"></a>
   <a href="https://github.com/EasyCorp"><img src="https://avatars.githubusercontent.com/u/14944619?v=4&s=56" width="28" height="28" alt="EasyCorp" title="EasyCorp : 4 PR mergées"></a>
   <a href="https://github.com/composer"><img src="https://avatars.githubusercontent.com/u/837015?v=4&s=56" width="28" height="28" alt="composer" title="composer : 4 PR mergées"></a>
-  <a href="https://github.com/liip"><img src="https://avatars.githubusercontent.com/u/166102?v=4&s=56" width="28" height="28" alt="liip" title="liip : 4 PR mergées"></a>
   <a href="https://github.com/kevinpapst"><img src="https://avatars.githubusercontent.com/u/533162?u=95107e7217747082aebd03e7ed44b54b01a811e3&v=4&s=56" width="28" height="28" alt="kevinpapst" title="kevinpapst : 3 PR mergées"></a>
   <a href="https://github.com/matomo-org"><img src="https://avatars.githubusercontent.com/u/698038?v=4&s=56" width="28" height="28" alt="matomo-org" title="matomo-org : 3 PR mergées"></a>
   <a href="https://github.com/twigphp"><img src="https://avatars.githubusercontent.com/u/5296178?v=4&s=56" width="28" height="28" alt="twigphp" title="twigphp : 3 PR mergées"></a>
@@ -105,17 +105,17 @@ un correctif à la fois, sur mon temps libre.</p>
   </tr>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/143937?v=4&s=64" width="32" height="32" alt="symfony"></td>
-    <td><a href="https://github.com/symfony/symfony/pull/68076">[AssetMapper] Compare pre-releases in importmap:outdated</a><br><sub><a href="https://github.com/symfony/symfony">symfony/symfony</a> · il y a 3 jours</sub></td>
+    <td><a href="https://github.com/symfony/symfony/pull/68076">[AssetMapper] Compare pre-releases in importmap:outdated</a><br><sub><a href="https://github.com/symfony/symfony">symfony/symfony</a> · il y a 4 jours</sub></td>
     <td>🟣&nbsp;mergée</td>
   </tr>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/143937?v=4&s=64" width="32" height="32" alt="symfony"></td>
-    <td><a href="https://github.com/symfony/symfony/pull/68075">[SecurityBundle] Put the listeners of a lazy firewall context back after tracing them</a><br><sub><a href="https://github.com/symfony/symfony">symfony/symfony</a> · il y a 3 jours</sub></td>
+    <td><a href="https://github.com/symfony/symfony/pull/68075">[SecurityBundle] Put the listeners of a lazy firewall context back after tracing them</a><br><sub><a href="https://github.com/symfony/symfony">symfony/symfony</a> · il y a 4 jours</sub></td>
     <td>🟣&nbsp;mergée</td>
   </tr>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/143937?v=4&s=64" width="32" height="32" alt="symfony"></td>
-    <td><a href="https://github.com/symfony/symfony/pull/68064">[Process] Add Process::disableInput() to give the null device as standard input</a><br><sub><a href="https://github.com/symfony/symfony">symfony/symfony</a> · il y a 3 jours</sub></td>
+    <td><a href="https://github.com/symfony/symfony/pull/68064">[Process] Add Process::disableInput() to give the null device as standard input</a><br><sub><a href="https://github.com/symfony/symfony">symfony/symfony</a> · il y a 4 jours</sub></td>
     <td>🟢&nbsp;ouverte</td>
   </tr>
 </table>
@@ -128,10 +128,10 @@ un correctif à la fois, sur mon temps libre.</p>
     <td align="center" width="50%" valign="top">
       <a href="https://github.com/symfony/symfony"><img src="https://avatars.githubusercontent.com/u/143937?v=4&s=192" width="96" height="96" alt="symfony"></a><br>
       <h3>Symfony</h3>
-      🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA1"><code>v8.2.0-BETA1</code></a> <sub>il y a 9 jours · <a href="https://github.com/symfony/symfony/pulls?q=is%3Apr+is%3Amerged+author%3AAmoifr+base%3A8.2+merged%3A2026-06-23..2026-10-21">27 PR</a></sub><br>
+      🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA1"><code>v8.2.0-BETA1</code></a> <sub>il y a 10 jours · <a href="https://github.com/symfony/symfony/pulls?q=is%3Apr+is%3Amerged+author%3AAmoifr+base%3A8.2+merged%3A2026-06-23..2026-10-21">27 PR</a></sub><br>
       🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v6.4.49"><code>v6.4.49</code></a> <sub>il y a 16 jours · <a href="https://github.com/symfony/symfony/pull/67264">#67264</a></sub><br>
       🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v6.4.47"><code>v6.4.47</code></a> <sub>il y a 1 mois · <a href="https://github.com/symfony/symfony/pull/66359">#66359</a></sub><br>
-      🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v6.4.46"><code>v6.4.46</code></a> <sub>il y a 1 mois · <a href="https://github.com/symfony/symfony/pull/65995">#65995</a> <a href="https://github.com/symfony/symfony/pull/66027">#66027</a></sub><br>
+      🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v6.4.46"><code>v6.4.46</code></a> <sub>il y a 2 mois · <a href="https://github.com/symfony/symfony/pull/65995">#65995</a> <a href="https://github.com/symfony/symfony/pull/66027">#66027</a></sub><br>
       🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v6.4.44"><code>v6.4.44</code></a> <sub>il y a 2 mois · <a href="https://github.com/symfony/symfony/pull/65572">#65572</a></sub><br>
       ⏳ <sub>2 PR mergées dans la prochaine release</sub><br>
     </td>
@@ -151,6 +151,12 @@ un correctif à la fois, sur mon temps libre.</p>
 <table>
   <tr>
     <td align="center" width="25%">
+      <a href="https://github.com/EasyCorp/EasyAdminBundle"><img src="https://avatars.githubusercontent.com/u/14944619?v=4&s=96" width="48" height="48" alt="EasyCorp"></a><br>
+      <b><a href="https://github.com/EasyCorp/EasyAdminBundle">EasyCorp/EasyAdminBundle</a></b><br>
+      🏷️ <a href="https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v5.10.1"><code>v5.10.1</code></a><br>
+      <sub>aujourd'hui · 4 PR mergées</sub>
+    </td>
+    <td align="center" width="25%">
       <a href="https://github.com/symfony/symfony"><img src="https://avatars.githubusercontent.com/u/143937?v=4&s=96" width="48" height="48" alt="symfony"></a><br>
       <b><a href="https://github.com/symfony/symfony">symfony/symfony</a></b><br>
       🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA2"><code>v8.2.0-BETA2</code></a><br>
@@ -168,19 +174,13 @@ un correctif à la fois, sur mon temps libre.</p>
       🏷️ <a href="https://github.com/getsentry/sentry-php/releases/tag/4.37.0"><code>4.37.0</code></a><br>
       <sub>il y a 2 jours · 1 PR mergée</sub>
     </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/EasyCorp/EasyAdminBundle"><img src="https://avatars.githubusercontent.com/u/14944619?v=4&s=96" width="48" height="48" alt="EasyCorp"></a><br>
-      <b><a href="https://github.com/EasyCorp/EasyAdminBundle">EasyCorp/EasyAdminBundle</a></b><br>
-      🏷️ <a href="https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v5.10.0"><code>v5.10.0</code></a><br>
-      <sub>il y a 3 jours · 4 PR mergées</sub>
-    </td>
   </tr>
   <tr>
     <td align="center" width="25%">
       <a href="https://github.com/composer/composer"><img src="https://avatars.githubusercontent.com/u/837015?v=4&s=96" width="48" height="48" alt="composer"></a><br>
       <b><a href="https://github.com/composer/composer">composer/composer</a></b><br>
       🏷️ <a href="https://github.com/composer/composer/releases/tag/2.11.2"><code>2.11.2</code></a><br>
-      <sub>il y a 3 jours · 3 PR mergées</sub>
+      <sub>il y a 4 jours · 3 PR mergées</sub>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/PHP-CS-Fixer/PHP-CS-Fixer"><img src="https://avatars.githubusercontent.com/u/24399959?v=4&s=96" width="48" height="48" alt="PHP-CS-Fixer"></a><br>
@@ -192,13 +192,13 @@ un correctif à la fois, sur mon temps libre.</p>
       <a href="https://github.com/zenstruck/foundry"><img src="https://avatars.githubusercontent.com/u/475780?v=4&s=96" width="48" height="48" alt="zenstruck"></a><br>
       <b><a href="https://github.com/zenstruck/foundry">zenstruck/foundry</a></b><br>
       🏷️ <a href="https://github.com/zenstruck/foundry/releases/tag/v2.16.0"><code>v2.16.0</code></a><br>
-      <sub>il y a 4 jours · 6 PR mergées</sub>
+      <sub>il y a 5 jours · 6 PR mergées</sub>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/liip/LiipImagineBundle"><img src="https://avatars.githubusercontent.com/u/166102?v=4&s=96" width="48" height="48" alt="liip"></a><br>
       <b><a href="https://github.com/liip/LiipImagineBundle">liip/LiipImagineBundle</a></b><br>
       🏷️ <a href="https://github.com/liip/LiipImagineBundle/releases/tag/2.18.2"><code>2.18.2</code></a><br>
-      <sub>il y a 5 jours · 4 PR mergées</sub>
+      <sub>il y a 6 jours · 5 PR mergées</sub>
     </td>
   </tr>
 </table>
