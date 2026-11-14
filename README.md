@@ -4,7 +4,7 @@
 un correctif à la fois, sur mon temps libre.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PR_mergées-401-8957e5?style=for-the-badge" alt="401 PR mergées">
+  <img src="https://img.shields.io/badge/PR_mergées-402-8957e5?style=for-the-badge" alt="402 PR mergées">
   <img src="https://img.shields.io/badge/projets-72-1f6feb?style=for-the-badge" alt="projets">
   <img src="https://img.shields.io/badge/organisations-29-238636?style=for-the-badge" alt="organisations">
 </p>
@@ -16,7 +16,7 @@ un correctif à la fois, sur mon temps libre.</p>
     <td align="center" width="25%">
       <a href="https://github.com/symfony"><img src="https://avatars.githubusercontent.com/u/143937?v=4&s=128" width="64" height="64" alt="symfony"></a><br>
       <b>Symfony</b><br>
-      <sub><b>231</b> PR mergées</sub><br>
+      <sub><b>232</b> PR mergées</sub><br>
       <sub><a href="https://github.com/symfony/symfony-docs">symfony-docs</a> · <a href="https://github.com/symfony/symfony">symfony</a> · <a href="https://github.com/symfony/ux">ux</a></sub>
     </td>
     <td align="center" width="25%">
