@@ -95,12 +95,12 @@ un correctif à la fois, sur mon temps libre.</p>
   </tr>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/202732?v=4&s=64" width="32" height="32" alt="KnpLabs"></td>
-    <td><a href="https://github.com/KnpLabs/knp-components/pull/360">Throw an InvalidValueException when sorting by a field of a result alias</a><br><sub><a href="https://github.com/KnpLabs/knp-components">KnpLabs/knp-components</a> · hier</sub></td>
+    <td><a href="https://github.com/KnpLabs/knp-components/pull/360">Throw an InvalidValueException when sorting by a field of a result alias</a><br><sub><a href="https://github.com/KnpLabs/knp-components">KnpLabs/knp-components</a> · il y a 2 jours</sub></td>
     <td>🟢&nbsp;ouverte</td>
   </tr>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/202732?v=4&s=64" width="32" height="32" alt="KnpLabs"></td>
-    <td><a href="https://github.com/KnpLabs/knp-components/pull/359">Return the default type registry from the mocked ORM configuration</a><br><sub><a href="https://github.com/KnpLabs/knp-components">KnpLabs/knp-components</a> · hier</sub></td>
+    <td><a href="https://github.com/KnpLabs/knp-components/pull/359">Return the default type registry from the mocked ORM configuration</a><br><sub><a href="https://github.com/KnpLabs/knp-components">KnpLabs/knp-components</a> · il y a 2 jours</sub></td>
     <td>🟢&nbsp;ouverte</td>
   </tr>
   <tr>
@@ -129,7 +129,7 @@ un correctif à la fois, sur mon temps libre.</p>
       <a href="https://github.com/symfony/symfony"><img src="https://avatars.githubusercontent.com/u/143937?v=4&s=192" width="96" height="96" alt="symfony"></a><br>
       <h3>Symfony</h3>
       🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA1"><code>v8.2.0-BETA1</code></a> <sub>il y a 14 jours · <a href="https://github.com/symfony/symfony/pulls?q=is%3Apr+is%3Amerged+author%3AAmoifr+base%3A8.2+merged%3A2026-06-23..2026-10-21">27 PR</a></sub><br>
-      🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v6.4.49"><code>v6.4.49</code></a> <sub>il y a 20 jours · <a href="https://github.com/symfony/symfony/pull/67264">#67264</a></sub><br>
+      🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v6.4.49"><code>v6.4.49</code></a> <sub>il y a 21 jours · <a href="https://github.com/symfony/symfony/pull/67264">#67264</a></sub><br>
       🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v6.4.47"><code>v6.4.47</code></a> <sub>il y a 1 mois · <a href="https://github.com/symfony/symfony/pull/66359">#66359</a></sub><br>
       🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v6.4.46"><code>v6.4.46</code></a> <sub>il y a 2 mois · <a href="https://github.com/symfony/symfony/pull/65995">#65995</a> <a href="https://github.com/symfony/symfony/pull/66027">#66027</a></sub><br>
       🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v6.4.44"><code>v6.4.44</code></a> <sub>il y a 2 mois · <a href="https://github.com/symfony/symfony/pull/65572">#65572</a></sub><br>
@@ -138,9 +138,9 @@ un correctif à la fois, sur mon temps libre.</p>
     <td align="center" width="50%" valign="top">
       <a href="https://github.com/sulu/sulu"><img src="https://avatars.githubusercontent.com/u/5717006?v=4&s=192" width="96" height="96" alt="sulu"></a><br>
       <h3>Sulu CMS</h3>
-      🏷️ <a href="https://github.com/sulu/sulu/releases/tag/3.1.0-alpha1"><code>3.1.0-alpha1</code></a> <sub>il y a 19 jours · <a href="https://github.com/sulu/sulu/pulls?q=is%3Apr+is%3Amerged+author%3AAmoifr+base%3A3.1+merged%3A2026-06-01..2026-10-28">4 PR</a></sub><br>
-      🏷️ <a href="https://github.com/sulu/sulu/releases/tag/3.0.11"><code>3.0.11</code></a> <sub>il y a 19 jours · <a href="https://github.com/sulu/sulu/pull/9215">#9215</a></sub><br>
-      🏷️ <a href="https://github.com/sulu/sulu/releases/tag/2.6.28"><code>2.6.28</code></a> <sub>il y a 19 jours · <a href="https://github.com/sulu/sulu/pull/9077">#9077</a></sub><br>
+      🏷️ <a href="https://github.com/sulu/sulu/releases/tag/3.1.0-alpha1"><code>3.1.0-alpha1</code></a> <sub>il y a 20 jours · <a href="https://github.com/sulu/sulu/pulls?q=is%3Apr+is%3Amerged+author%3AAmoifr+base%3A3.1+merged%3A2026-06-01..2026-10-28">4 PR</a></sub><br>
+      🏷️ <a href="https://github.com/sulu/sulu/releases/tag/3.0.11"><code>3.0.11</code></a> <sub>il y a 20 jours · <a href="https://github.com/sulu/sulu/pull/9215">#9215</a></sub><br>
+      🏷️ <a href="https://github.com/sulu/sulu/releases/tag/2.6.28"><code>2.6.28</code></a> <sub>il y a 20 jours · <a href="https://github.com/sulu/sulu/pull/9077">#9077</a></sub><br>
       🏷️ <a href="https://github.com/sulu/sulu/releases/tag/3.0.10"><code>3.0.10</code></a> <sub>il y a 1 mois · <a href="https://github.com/sulu/sulu/pull/8930">#8930</a> <a href="https://github.com/sulu/sulu/pull/9048">#9048</a></sub><br>
       🏷️ <a href="https://github.com/sulu/sulu/releases/tag/2.6.27"><code>2.6.27</code></a> <sub>il y a 1 mois · <a href="https://github.com/sulu/sulu/pulls?q=is%3Apr+is%3Amerged+author%3AAmoifr+base%3A2.6+merged%3A2026-08-26..2026-09-30">7 PR</a></sub><br>
     </td>
@@ -150,6 +150,12 @@ un correctif à la fois, sur mon temps libre.</p>
 
 <table>
   <tr>
+    <td align="center" width="25%">
+      <a href="https://github.com/liip/LiipImagineBundle"><img src="https://avatars.githubusercontent.com/u/166102?v=4&s=96" width="48" height="48" alt="liip"></a><br>
+      <b><a href="https://github.com/liip/LiipImagineBundle">liip/LiipImagineBundle</a></b><br>
+      🏷️ <a href="https://github.com/liip/LiipImagineBundle/releases/tag/2.19.0"><code>2.19.0</code></a><br>
+      <sub>aujourd'hui · 6 PR mergées</sub>
+    </td>
     <td align="center" width="25%">
       <a href="https://github.com/sulu/SuluPHPCRMigrationBundle"><img src="https://avatars.githubusercontent.com/u/5717006?v=4&s=96" width="48" height="48" alt="sulu"></a><br>
       <b><a href="https://github.com/sulu/SuluPHPCRMigrationBundle">sulu/SuluPHPCRMigrationBundle</a></b><br>
@@ -166,16 +172,16 @@ un correctif à la fois, sur mon temps libre.</p>
       <a href="https://github.com/PHP-CS-Fixer/PHP-CS-Fixer"><img src="https://avatars.githubusercontent.com/u/24399959?v=4&s=96" width="48" height="48" alt="PHP-CS-Fixer"></a><br>
       <b><a href="https://github.com/PHP-CS-Fixer/PHP-CS-Fixer">PHP-CS-Fixer/PHP-CS-Fixer</a></b><br>
       🏷️ <a href="https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.32"><code>v3.95.32</code></a><br>
-      <sub>aujourd'hui · 2 PR mergées</sub>
+      <sub>hier · 2 PR mergées</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="25%">
       <a href="https://github.com/getsentry/sentry-php"><img src="https://avatars.githubusercontent.com/u/1396951?v=4&s=96" width="48" height="48" alt="getsentry"></a><br>
       <b><a href="https://github.com/getsentry/sentry-php">getsentry/sentry-php</a></b><br>
       🏷️ <a href="https://github.com/getsentry/sentry-php/releases/tag/4.37.1"><code>4.37.1</code></a><br>
-      <sub>aujourd'hui · 1 PR mergée</sub>
+      <sub>hier · 1 PR mergée</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="25%">
       <a href="https://github.com/EasyCorp/EasyAdminBundle"><img src="https://avatars.githubusercontent.com/u/14944619?v=4&s=96" width="48" height="48" alt="EasyCorp"></a><br>
       <b><a href="https://github.com/EasyCorp/EasyAdminBundle">EasyCorp/EasyAdminBundle</a></b><br>
@@ -193,12 +199,6 @@ un correctif à la fois, sur mon temps libre.</p>
       <b><a href="https://github.com/api-platform/core">api-platform/core</a></b><br>
       🏷️ <a href="https://github.com/api-platform/core/releases/tag/v5.0.8"><code>v5.0.8</code></a><br>
       <sub>il y a 2 jours · 6 PR mergées</sub>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/webmozarts/assert"><img src="https://avatars.githubusercontent.com/u/46774769?v=4&s=96" width="48" height="48" alt="webmozarts"></a><br>
-      <b><a href="https://github.com/webmozarts/assert">webmozarts/assert</a></b><br>
-      🏷️ <a href="https://github.com/webmozarts/assert/releases/tag/2.5.1"><code>2.5.1</code></a><br>
-      <sub>il y a 3 jours · 2 PR mergées</sub>
     </td>
   </tr>
 </table>
