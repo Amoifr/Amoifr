@@ -4,9 +4,9 @@
 un correctif à la fois, sur mon temps libre.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PR_mergées-412-8957e5?style=for-the-badge" alt="412 PR mergées">
-  <img src="https://img.shields.io/badge/projets-73-1f6feb?style=for-the-badge" alt="projets">
-  <img src="https://img.shields.io/badge/organisations-30-238636?style=for-the-badge" alt="organisations">
+  <img src="https://img.shields.io/badge/PR_mergées-413-8957e5?style=for-the-badge" alt="413 PR mergées">
+  <img src="https://img.shields.io/badge/projets-74-1f6feb?style=for-the-badge" alt="projets">
+  <img src="https://img.shields.io/badge/organisations-31-238636?style=for-the-badge" alt="organisations">
 </p>
 
 ### 🏆 Là où je contribue le plus
@@ -95,12 +95,12 @@ un correctif à la fois, sur mon temps libre.</p>
   </tr>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/202732?v=4&s=64" width="32" height="32" alt="KnpLabs"></td>
-    <td><a href="https://github.com/KnpLabs/knp-components/pull/360">Throw an InvalidValueException when sorting by a field of a result alias</a><br><sub><a href="https://github.com/KnpLabs/knp-components">KnpLabs/knp-components</a> · il y a 2 jours</sub></td>
+    <td><a href="https://github.com/KnpLabs/knp-components/pull/360">Throw an InvalidValueException when sorting by a field of a result alias</a><br><sub><a href="https://github.com/KnpLabs/knp-components">KnpLabs/knp-components</a> · il y a 3 jours</sub></td>
     <td>🟣&nbsp;mergée</td>
   </tr>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/202732?v=4&s=64" width="32" height="32" alt="KnpLabs"></td>
-    <td><a href="https://github.com/KnpLabs/knp-components/pull/359">Return the default type registry from the mocked ORM configuration</a><br><sub><a href="https://github.com/KnpLabs/knp-components">KnpLabs/knp-components</a> · il y a 2 jours</sub></td>
+    <td><a href="https://github.com/KnpLabs/knp-components/pull/359">Return the default type registry from the mocked ORM configuration</a><br><sub><a href="https://github.com/KnpLabs/knp-components">KnpLabs/knp-components</a> · il y a 3 jours</sub></td>
     <td>🟣&nbsp;mergée</td>
   </tr>
   <tr>
@@ -129,7 +129,7 @@ un correctif à la fois, sur mon temps libre.</p>
       <a href="https://github.com/symfony/symfony"><img src="https://avatars.githubusercontent.com/u/143937?v=4&s=192" width="96" height="96" alt="symfony"></a><br>
       <h3>Symfony</h3>
       🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA1"><code>v8.2.0-BETA1</code></a> <sub>il y a 15 jours · <a href="https://github.com/symfony/symfony/pulls?q=is%3Apr+is%3Amerged+author%3AAmoifr+base%3A8.2+merged%3A2026-06-23..2026-10-21">27 PR</a></sub><br>
-      🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v6.4.49"><code>v6.4.49</code></a> <sub>il y a 21 jours · <a href="https://github.com/symfony/symfony/pull/67264">#67264</a></sub><br>
+      🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v6.4.49"><code>v6.4.49</code></a> <sub>il y a 22 jours · <a href="https://github.com/symfony/symfony/pull/67264">#67264</a></sub><br>
       🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v6.4.47"><code>v6.4.47</code></a> <sub>il y a 1 mois · <a href="https://github.com/symfony/symfony/pull/66359">#66359</a></sub><br>
       🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v6.4.46"><code>v6.4.46</code></a> <sub>il y a 2 mois · <a href="https://github.com/symfony/symfony/pull/65995">#65995</a> <a href="https://github.com/symfony/symfony/pull/66027">#66027</a></sub><br>
       🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v6.4.44"><code>v6.4.44</code></a> <sub>il y a 2 mois · <a href="https://github.com/symfony/symfony/pull/65572">#65572</a></sub><br>
@@ -138,9 +138,9 @@ un correctif à la fois, sur mon temps libre.</p>
     <td align="center" width="50%" valign="top">
       <a href="https://github.com/sulu/sulu"><img src="https://avatars.githubusercontent.com/u/5717006?v=4&s=192" width="96" height="96" alt="sulu"></a><br>
       <h3>Sulu CMS</h3>
-      🏷️ <a href="https://github.com/sulu/sulu/releases/tag/3.1.0-alpha1"><code>3.1.0-alpha1</code></a> <sub>il y a 20 jours · <a href="https://github.com/sulu/sulu/pulls?q=is%3Apr+is%3Amerged+author%3AAmoifr+base%3A3.1+merged%3A2026-06-01..2026-10-28">4 PR</a></sub><br>
-      🏷️ <a href="https://github.com/sulu/sulu/releases/tag/3.0.11"><code>3.0.11</code></a> <sub>il y a 20 jours · <a href="https://github.com/sulu/sulu/pull/9215">#9215</a></sub><br>
-      🏷️ <a href="https://github.com/sulu/sulu/releases/tag/2.6.28"><code>2.6.28</code></a> <sub>il y a 20 jours · <a href="https://github.com/sulu/sulu/pull/9077">#9077</a></sub><br>
+      🏷️ <a href="https://github.com/sulu/sulu/releases/tag/3.1.0-alpha1"><code>3.1.0-alpha1</code></a> <sub>il y a 21 jours · <a href="https://github.com/sulu/sulu/pulls?q=is%3Apr+is%3Amerged+author%3AAmoifr+base%3A3.1+merged%3A2026-06-01..2026-10-28">4 PR</a></sub><br>
+      🏷️ <a href="https://github.com/sulu/sulu/releases/tag/3.0.11"><code>3.0.11</code></a> <sub>il y a 21 jours · <a href="https://github.com/sulu/sulu/pull/9215">#9215</a></sub><br>
+      🏷️ <a href="https://github.com/sulu/sulu/releases/tag/2.6.28"><code>2.6.28</code></a> <sub>il y a 21 jours · <a href="https://github.com/sulu/sulu/pull/9077">#9077</a></sub><br>
       🏷️ <a href="https://github.com/sulu/sulu/releases/tag/3.0.10"><code>3.0.10</code></a> <sub>il y a 1 mois · <a href="https://github.com/sulu/sulu/pull/8930">#8930</a> <a href="https://github.com/sulu/sulu/pull/9048">#9048</a></sub><br>
       🏷️ <a href="https://github.com/sulu/sulu/releases/tag/2.6.27"><code>2.6.27</code></a> <sub>il y a 1 mois · <a href="https://github.com/sulu/sulu/pulls?q=is%3Apr+is%3Amerged+author%3AAmoifr+base%3A2.6+merged%3A2026-08-26..2026-09-30">7 PR</a></sub><br>
     </td>
@@ -160,7 +160,7 @@ un correctif à la fois, sur mon temps libre.</p>
       <a href="https://github.com/liip/LiipImagineBundle"><img src="https://avatars.githubusercontent.com/u/166102?v=4&s=96" width="48" height="48" alt="liip"></a><br>
       <b><a href="https://github.com/liip/LiipImagineBundle">liip/LiipImagineBundle</a></b><br>
       🏷️ <a href="https://github.com/liip/LiipImagineBundle/releases/tag/2.19.0"><code>2.19.0</code></a><br>
-      <sub>aujourd'hui · 6 PR mergées</sub>
+      <sub>hier · 6 PR mergées</sub>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/sulu/SuluPHPCRMigrationBundle"><img src="https://avatars.githubusercontent.com/u/5717006?v=4&s=96" width="48" height="48" alt="sulu"></a><br>
@@ -180,7 +180,7 @@ un correctif à la fois, sur mon temps libre.</p>
       <a href="https://github.com/PHP-CS-Fixer/PHP-CS-Fixer"><img src="https://avatars.githubusercontent.com/u/24399959?v=4&s=96" width="48" height="48" alt="PHP-CS-Fixer"></a><br>
       <b><a href="https://github.com/PHP-CS-Fixer/PHP-CS-Fixer">PHP-CS-Fixer/PHP-CS-Fixer</a></b><br>
       🏷️ <a href="https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.32"><code>v3.95.32</code></a><br>
-      <sub>hier · 2 PR mergées</sub>
+      <sub>il y a 2 jours · 2 PR mergées</sub>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/EasyCorp/EasyAdminBundle"><img src="https://avatars.githubusercontent.com/u/14944619?v=4&s=96" width="48" height="48" alt="EasyCorp"></a><br>
