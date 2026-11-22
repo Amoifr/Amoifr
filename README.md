@@ -154,7 +154,7 @@ un correctif à la fois, sur mon temps libre.</p>
       <a href="https://github.com/Behat/Behat"><img src="https://avatars.githubusercontent.com/u/547869?v=4&s=96" width="48" height="48" alt="Behat"></a><br>
       <b><a href="https://github.com/Behat/Behat">Behat/Behat</a></b><br>
       🏷️ <a href="https://github.com/Behat/Behat/releases/tag/v4.1.1"><code>v4.1.1</code></a><br>
-      <sub>aujourd'hui · 7 PR mergées</sub>
+      <sub>hier · 7 PR mergées</sub>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/api-platform/core"><img src="https://avatars.githubusercontent.com/u/13420081?v=4&s=96" width="48" height="48" alt="api-platform"></a><br>
@@ -180,7 +180,7 @@ un correctif à la fois, sur mon temps libre.</p>
       <a href="https://github.com/liip/LiipImagineBundle"><img src="https://avatars.githubusercontent.com/u/166102?v=4&s=96" width="48" height="48" alt="liip"></a><br>
       <b><a href="https://github.com/liip/LiipImagineBundle">liip/LiipImagineBundle</a></b><br>
       🏷️ <a href="https://github.com/liip/LiipImagineBundle/releases/tag/2.19.0"><code>2.19.0</code></a><br>
-      <sub>il y a 2 jours · 7 PR mergées</sub>
+      <sub>il y a 3 jours · 7 PR mergées</sub>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/sulu/SuluPHPCRMigrationBundle"><img src="https://avatars.githubusercontent.com/u/5717006?v=4&s=96" width="48" height="48" alt="sulu"></a><br>
