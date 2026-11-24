@@ -100,7 +100,7 @@ un correctif à la fois, sur mon temps libre.</p>
   </tr>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/166102?v=4&s=64" width="32" height="32" alt="liip"></td>
-    <td><a href="https://github.com/liip/LiipImagineBundle/pull/1682">Remove the normalize_filter_set_names option and the normalization of filter set names</a><br><sub><a href="https://github.com/liip/LiipImagineBundle">liip/LiipImagineBundle</a> · il y a 3 jours</sub></td>
+    <td><a href="https://github.com/liip/LiipImagineBundle/pull/1682">Remove the normalize_filter_set_names option and the normalization of filter set names</a><br><sub><a href="https://github.com/liip/LiipImagineBundle">liip/LiipImagineBundle</a> · il y a 4 jours</sub></td>
     <td>🟣&nbsp;mergée</td>
   </tr>
   <tr>
@@ -151,6 +151,12 @@ un correctif à la fois, sur mon temps libre.</p>
 <table>
   <tr>
     <td align="center" width="25%">
+      <a href="https://github.com/symfony/ux"><img src="https://avatars.githubusercontent.com/u/143937?v=4&s=96" width="48" height="48" alt="symfony"></a><br>
+      <b><a href="https://github.com/symfony/ux">symfony/ux</a></b><br>
+      🏷️ <a href="https://github.com/symfony/ux/releases/tag/v3.8.1"><code>v3.8.1</code></a><br>
+      <sub>aujourd'hui · 30 PR mergées</sub>
+    </td>
+    <td align="center" width="25%">
       <a href="https://github.com/EasyCorp/EasyAdminBundle"><img src="https://avatars.githubusercontent.com/u/14944619?v=4&s=96" width="48" height="48" alt="EasyCorp"></a><br>
       <b><a href="https://github.com/EasyCorp/EasyAdminBundle">EasyCorp/EasyAdminBundle</a></b><br>
       🏷️ <a href="https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v5.10.3"><code>v5.10.3</code></a><br>
@@ -167,12 +173,6 @@ un correctif à la fois, sur mon temps libre.</p>
       <b><a href="https://github.com/twigphp/Twig">twigphp/Twig</a></b><br>
       🏷️ <a href="https://github.com/twigphp/Twig/releases/tag/v3.31.0"><code>v3.31.0</code></a><br>
       <sub>aujourd'hui · 4 PR mergées</sub>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/symfony/ux"><img src="https://avatars.githubusercontent.com/u/143937?v=4&s=96" width="48" height="48" alt="symfony"></a><br>
-      <b><a href="https://github.com/symfony/ux">symfony/ux</a></b><br>
-      🏷️ <a href="https://github.com/symfony/ux/releases/tag/v3.8.0"><code>v3.8.0</code></a><br>
-      <sub>hier · 30 PR mergées</sub>
     </td>
   </tr>
   <tr>
