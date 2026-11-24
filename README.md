@@ -4,7 +4,7 @@
 un correctif à la fois, sur mon temps libre.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PR_mergées-416-8957e5?style=for-the-badge" alt="416 PR mergées">
+  <img src="https://img.shields.io/badge/PR_mergées-417-8957e5?style=for-the-badge" alt="417 PR mergées">
   <img src="https://img.shields.io/badge/projets-74-1f6feb?style=for-the-badge" alt="projets">
   <img src="https://img.shields.io/badge/organisations-31-238636?style=for-the-badge" alt="organisations">
 </p>
@@ -28,8 +28,8 @@ un correctif à la fois, sur mon temps libre.</p>
     <td align="center" width="25%">
       <a href="https://github.com/zenstruck"><img src="https://avatars.githubusercontent.com/u/475780?v=4&s=128" width="64" height="64" alt="zenstruck"></a><br>
       <b>zenstruck (Kevin Bond)</b><br>
-      <sub><b>14</b> PR mergées</sub><br>
-      <sub><a href="https://github.com/zenstruck/foundry">foundry</a> · <a href="https://github.com/zenstruck/messenger-monitor-bundle">messenger-monitor-bundle</a> · <a href="https://github.com/zenstruck/browser">browser</a></sub>
+      <sub><b>15</b> PR mergées</sub><br>
+      <sub><a href="https://github.com/zenstruck/foundry">foundry</a> · <a href="https://github.com/zenstruck/browser">browser</a> · <a href="https://github.com/zenstruck/messenger-monitor-bundle">messenger-monitor-bundle</a></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/Behat"><img src="https://avatars.githubusercontent.com/u/547869?v=4&s=128" width="64" height="64" alt="Behat"></a><br>
@@ -89,13 +89,18 @@ un correctif à la fois, sur mon temps libre.</p>
 
 <table>
   <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/16435710?v=4&s=64" width="32" height="32" alt="phpstan"></td>
+    <td><a href="https://github.com/phpstan/phpstan-src/pull/7139">Add a dynamic return type extension for getenv()</a><br><sub><a href="https://github.com/phpstan/phpstan-src">phpstan/phpstan-src</a> · aujourd'hui</sub></td>
+    <td>🟢&nbsp;ouverte</td>
+  </tr>
+  <tr>
     <td><img src="https://avatars.githubusercontent.com/u/547869?v=4&s=64" width="32" height="32" alt="Behat"></td>
-    <td><a href="https://github.com/Behat/Behat/pull/1914">[3.x] ci: Fail on deprecations through to the inner Behat runs in one job</a><br><sub><a href="https://github.com/Behat/Behat">Behat/Behat</a> · hier</sub></td>
+    <td><a href="https://github.com/Behat/Behat/pull/1914">[3.x] ci: Fail on deprecations through to the inner Behat runs in one job</a><br><sub><a href="https://github.com/Behat/Behat">Behat/Behat</a> · il y a 2 jours</sub></td>
     <td>🟢&nbsp;ouverte</td>
   </tr>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/201963?u=595f6338ca5577892a397b84dcdfd7662c192eb6&v=4&s=64" width="32" height="32" alt="lcobucci"></td>
-    <td><a href="https://github.com/lcobucci/jwt-rsassa-pss/pull/28">Sign and verify with ext-openssl on PHP 8.5 and OpenSSL 3.1+</a><br><sub><a href="https://github.com/lcobucci/jwt-rsassa-pss">lcobucci/jwt-rsassa-pss</a> · il y a 2 jours</sub></td>
+    <td><a href="https://github.com/lcobucci/jwt-rsassa-pss/pull/28">Sign and verify with ext-openssl on PHP 8.5 and OpenSSL 3.1+</a><br><sub><a href="https://github.com/lcobucci/jwt-rsassa-pss">lcobucci/jwt-rsassa-pss</a> · il y a 3 jours</sub></td>
     <td>🟢&nbsp;ouverte</td>
   </tr>
   <tr>
@@ -105,17 +110,12 @@ un correctif à la fois, sur mon temps libre.</p>
   </tr>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/546381?u=d0dbe577bff378437b2971ef1d4bc941d3bdce14&v=4&s=64" width="32" height="32" alt="dustin10"></td>
-    <td><a href="https://github.com/dustin10/VichUploaderBundle/pull/1620">Document lost uploads on doctrine/orm 3.8 when updatedAt changes within the same second</a><br><sub><a href="https://github.com/dustin10/VichUploaderBundle">dustin10/VichUploaderBundle</a> · il y a 5 jours</sub></td>
+    <td><a href="https://github.com/dustin10/VichUploaderBundle/pull/1620">Document lost uploads on doctrine/orm 3.8 when updatedAt changes within the same second</a><br><sub><a href="https://github.com/dustin10/VichUploaderBundle">dustin10/VichUploaderBundle</a> · il y a 6 jours</sub></td>
     <td>🟣&nbsp;mergée</td>
   </tr>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/202732?v=4&s=64" width="32" height="32" alt="KnpLabs"></td>
-    <td><a href="https://github.com/KnpLabs/knp-components/pull/360">Throw an InvalidValueException when sorting by a field of a result alias</a><br><sub><a href="https://github.com/KnpLabs/knp-components">KnpLabs/knp-components</a> · il y a 7 jours</sub></td>
-    <td>🟣&nbsp;mergée</td>
-  </tr>
-  <tr>
-    <td><img src="https://avatars.githubusercontent.com/u/202732?v=4&s=64" width="32" height="32" alt="KnpLabs"></td>
-    <td><a href="https://github.com/KnpLabs/knp-components/pull/359">Return the default type registry from the mocked ORM configuration</a><br><sub><a href="https://github.com/KnpLabs/knp-components">KnpLabs/knp-components</a> · il y a 7 jours</sub></td>
+    <td><a href="https://github.com/KnpLabs/knp-components/pull/360">Throw an InvalidValueException when sorting by a field of a result alias</a><br><sub><a href="https://github.com/KnpLabs/knp-components">KnpLabs/knp-components</a> · il y a 8 jours</sub></td>
     <td>🟣&nbsp;mergée</td>
   </tr>
 </table>
@@ -128,8 +128,8 @@ un correctif à la fois, sur mon temps libre.</p>
     <td align="center" width="50%" valign="top">
       <a href="https://github.com/symfony/symfony"><img src="https://avatars.githubusercontent.com/u/143937?v=4&s=192" width="96" height="96" alt="symfony"></a><br>
       <h3>Symfony</h3>
-      🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA1"><code>v8.2.0-BETA1</code></a> <sub>il y a 19 jours · <a href="https://github.com/symfony/symfony/pulls?q=is%3Apr+is%3Amerged+author%3AAmoifr+base%3A8.2+merged%3A2026-06-23..2026-10-21">27 PR</a></sub><br>
-      🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v6.4.49"><code>v6.4.49</code></a> <sub>il y a 26 jours · <a href="https://github.com/symfony/symfony/pull/67264">#67264</a></sub><br>
+      🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA1"><code>v8.2.0-BETA1</code></a> <sub>il y a 20 jours · <a href="https://github.com/symfony/symfony/pulls?q=is%3Apr+is%3Amerged+author%3AAmoifr+base%3A8.2+merged%3A2026-06-23..2026-10-21">27 PR</a></sub><br>
+      🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v6.4.49"><code>v6.4.49</code></a> <sub>il y a 27 jours · <a href="https://github.com/symfony/symfony/pull/67264">#67264</a></sub><br>
       🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v6.4.47"><code>v6.4.47</code></a> <sub>il y a 1 mois · <a href="https://github.com/symfony/symfony/pull/66359">#66359</a></sub><br>
       🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v6.4.46"><code>v6.4.46</code></a> <sub>il y a 2 mois · <a href="https://github.com/symfony/symfony/pull/65995">#65995</a> <a href="https://github.com/symfony/symfony/pull/66027">#66027</a></sub><br>
       🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v6.4.44"><code>v6.4.44</code></a> <sub>il y a 3 mois · <a href="https://github.com/symfony/symfony/pull/65572">#65572</a></sub><br>
@@ -138,9 +138,9 @@ un correctif à la fois, sur mon temps libre.</p>
     <td align="center" width="50%" valign="top">
       <a href="https://github.com/sulu/sulu"><img src="https://avatars.githubusercontent.com/u/5717006?v=4&s=192" width="96" height="96" alt="sulu"></a><br>
       <h3>Sulu CMS</h3>
-      🏷️ <a href="https://github.com/sulu/sulu/releases/tag/3.1.0-alpha1"><code>3.1.0-alpha1</code></a> <sub>il y a 25 jours · <a href="https://github.com/sulu/sulu/pulls?q=is%3Apr+is%3Amerged+author%3AAmoifr+base%3A3.1+merged%3A2026-06-01..2026-10-28">4 PR</a></sub><br>
-      🏷️ <a href="https://github.com/sulu/sulu/releases/tag/3.0.11"><code>3.0.11</code></a> <sub>il y a 25 jours · <a href="https://github.com/sulu/sulu/pull/9215">#9215</a></sub><br>
-      🏷️ <a href="https://github.com/sulu/sulu/releases/tag/2.6.28"><code>2.6.28</code></a> <sub>il y a 25 jours · <a href="https://github.com/sulu/sulu/pull/9077">#9077</a></sub><br>
+      🏷️ <a href="https://github.com/sulu/sulu/releases/tag/3.1.0-alpha1"><code>3.1.0-alpha1</code></a> <sub>il y a 26 jours · <a href="https://github.com/sulu/sulu/pulls?q=is%3Apr+is%3Amerged+author%3AAmoifr+base%3A3.1+merged%3A2026-06-01..2026-10-28">4 PR</a></sub><br>
+      🏷️ <a href="https://github.com/sulu/sulu/releases/tag/3.0.11"><code>3.0.11</code></a> <sub>il y a 26 jours · <a href="https://github.com/sulu/sulu/pull/9215">#9215</a></sub><br>
+      🏷️ <a href="https://github.com/sulu/sulu/releases/tag/2.6.28"><code>2.6.28</code></a> <sub>il y a 26 jours · <a href="https://github.com/sulu/sulu/pull/9077">#9077</a></sub><br>
       🏷️ <a href="https://github.com/sulu/sulu/releases/tag/3.0.10"><code>3.0.10</code></a> <sub>il y a 1 mois · <a href="https://github.com/sulu/sulu/pull/8930">#8930</a> <a href="https://github.com/sulu/sulu/pull/9048">#9048</a></sub><br>
       🏷️ <a href="https://github.com/sulu/sulu/releases/tag/2.6.27"><code>2.6.27</code></a> <sub>il y a 1 mois · <a href="https://github.com/sulu/sulu/pulls?q=is%3Apr+is%3Amerged+author%3AAmoifr+base%3A2.6+merged%3A2026-08-26..2026-09-30">7 PR</a></sub><br>
     </td>
@@ -151,54 +151,54 @@ un correctif à la fois, sur mon temps libre.</p>
 <table>
   <tr>
     <td align="center" width="25%">
+      <a href="https://github.com/jsonrainbow/json-schema"><img src="https://avatars.githubusercontent.com/u/170307068?v=4&s=96" width="48" height="48" alt="jsonrainbow"></a><br>
+      <b><a href="https://github.com/jsonrainbow/json-schema">jsonrainbow/json-schema</a></b><br>
+      🏷️ <a href="https://github.com/jsonrainbow/json-schema/releases/tag/6.15.1"><code>6.15.1</code></a><br>
+      <sub>aujourd'hui · 10 PR mergées</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/twigphp/Twig"><img src="https://avatars.githubusercontent.com/u/5296178?v=4&s=96" width="48" height="48" alt="twigphp"></a><br>
+      <b><a href="https://github.com/twigphp/Twig">twigphp/Twig</a></b><br>
+      🏷️ <a href="https://github.com/twigphp/Twig/releases/tag/v4.0.0-beta1"><code>v4.0.0-beta1</code></a><br>
+      <sub>aujourd'hui · 4 PR mergées</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/composer/composer"><img src="https://avatars.githubusercontent.com/u/837015?v=4&s=96" width="48" height="48" alt="composer"></a><br>
+      <b><a href="https://github.com/composer/composer">composer/composer</a></b><br>
+      🏷️ <a href="https://github.com/composer/composer/releases/tag/2.11.3"><code>2.11.3</code></a><br>
+      <sub>aujourd'hui · 3 PR mergées</sub>
+    </td>
+    <td align="center" width="25%">
       <a href="https://github.com/symfony/ux"><img src="https://avatars.githubusercontent.com/u/143937?v=4&s=96" width="48" height="48" alt="symfony"></a><br>
       <b><a href="https://github.com/symfony/ux">symfony/ux</a></b><br>
       🏷️ <a href="https://github.com/symfony/ux/releases/tag/v3.8.1"><code>v3.8.1</code></a><br>
       <sub>aujourd'hui · 30 PR mergées</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="25%">
       <a href="https://github.com/EasyCorp/EasyAdminBundle"><img src="https://avatars.githubusercontent.com/u/14944619?v=4&s=96" width="48" height="48" alt="EasyCorp"></a><br>
       <b><a href="https://github.com/EasyCorp/EasyAdminBundle">EasyCorp/EasyAdminBundle</a></b><br>
       🏷️ <a href="https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v5.10.3"><code>v5.10.3</code></a><br>
-      <sub>aujourd'hui · 4 PR mergées</sub>
+      <sub>hier · 4 PR mergées</sub>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/predis/predis"><img src="https://avatars.githubusercontent.com/u/69525311?v=4&s=96" width="48" height="48" alt="predis"></a><br>
       <b><a href="https://github.com/predis/predis">predis/predis</a></b><br>
       🏷️ <a href="https://github.com/predis/predis/releases/tag/v3.8.0"><code>v3.8.0</code></a><br>
-      <sub>aujourd'hui · 1 PR mergée</sub>
+      <sub>hier · 1 PR mergée</sub>
     </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/twigphp/Twig"><img src="https://avatars.githubusercontent.com/u/5296178?v=4&s=96" width="48" height="48" alt="twigphp"></a><br>
-      <b><a href="https://github.com/twigphp/Twig">twigphp/Twig</a></b><br>
-      🏷️ <a href="https://github.com/twigphp/Twig/releases/tag/v3.31.0"><code>v3.31.0</code></a><br>
-      <sub>aujourd'hui · 4 PR mergées</sub>
-    </td>
-  </tr>
-  <tr>
     <td align="center" width="25%">
       <a href="https://github.com/Behat/Behat"><img src="https://avatars.githubusercontent.com/u/547869?v=4&s=96" width="48" height="48" alt="Behat"></a><br>
       <b><a href="https://github.com/Behat/Behat">Behat/Behat</a></b><br>
       🏷️ <a href="https://github.com/Behat/Behat/releases/tag/v4.1.1"><code>v4.1.1</code></a><br>
-      <sub>il y a 3 jours · 7 PR mergées</sub>
+      <sub>il y a 4 jours · 7 PR mergées</sub>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/api-platform/core"><img src="https://avatars.githubusercontent.com/u/13420081?v=4&s=96" width="48" height="48" alt="api-platform"></a><br>
       <b><a href="https://github.com/api-platform/core">api-platform/core</a></b><br>
       🏷️ <a href="https://github.com/api-platform/core/releases/tag/v5.0.9"><code>v5.0.9</code></a><br>
-      <sub>il y a 3 jours · 6 PR mergées</sub>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/Behat/Gherkin"><img src="https://avatars.githubusercontent.com/u/547869?v=4&s=96" width="48" height="48" alt="Behat"></a><br>
-      <b><a href="https://github.com/Behat/Gherkin">Behat/Gherkin</a></b><br>
-      🏷️ <a href="https://github.com/Behat/Gherkin/releases/tag/v4.19.0"><code>v4.19.0</code></a><br>
-      <sub>il y a 3 jours · 3 PR mergées</sub>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/getsentry/sentry-php"><img src="https://avatars.githubusercontent.com/u/1396951?v=4&s=96" width="48" height="48" alt="getsentry"></a><br>
-      <b><a href="https://github.com/getsentry/sentry-php">getsentry/sentry-php</a></b><br>
-      🏷️ <a href="https://github.com/getsentry/sentry-php/releases/tag/4.38.0"><code>4.38.0</code></a><br>
-      <sub>il y a 4 jours · 1 PR mergée</sub>
+      <sub>il y a 4 jours · 6 PR mergées</sub>
     </td>
   </tr>
 </table>
