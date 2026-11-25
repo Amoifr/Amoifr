@@ -172,7 +172,7 @@ un correctif à la fois, sur mon temps libre.</p>
       <a href="https://github.com/symfony/ux"><img src="https://avatars.githubusercontent.com/u/143937?v=4&s=96" width="48" height="48" alt="symfony"></a><br>
       <b><a href="https://github.com/symfony/ux">symfony/ux</a></b><br>
       🏷️ <a href="https://github.com/symfony/ux/releases/tag/v3.8.1"><code>v3.8.1</code></a><br>
-      <sub>aujourd'hui · 30 PR mergées</sub>
+      <sub>hier · 30 PR mergées</sub>
     </td>
   </tr>
   <tr>
