@@ -185,7 +185,7 @@ un correctif à la fois, sur mon temps libre.</p>
       <a href="https://github.com/symfony/ux"><img src="https://avatars.githubusercontent.com/u/143937?v=4&s=96" width="48" height="48" alt="symfony"></a><br>
       <b><a href="https://github.com/symfony/ux">symfony/ux</a></b><br>
       🏷️ <a href="https://github.com/symfony/ux/releases/tag/v3.8.1"><code>v3.8.1</code></a><br>
-      <sub>hier · 30 PR mergées</sub>
+      <sub>il y a 2 jours · 30 PR mergées</sub>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/predis/predis"><img src="https://avatars.githubusercontent.com/u/69525311?v=4&s=96" width="48" height="48" alt="predis"></a><br>
@@ -197,7 +197,7 @@ un correctif à la fois, sur mon temps libre.</p>
       <a href="https://github.com/Behat/Behat"><img src="https://avatars.githubusercontent.com/u/547869?v=4&s=96" width="48" height="48" alt="Behat"></a><br>
       <b><a href="https://github.com/Behat/Behat">Behat/Behat</a></b><br>
       🏷️ <a href="https://github.com/Behat/Behat/releases/tag/v4.1.1"><code>v4.1.1</code></a><br>
-      <sub>il y a 4 jours · 8 PR mergées</sub>
+      <sub>il y a 5 jours · 8 PR mergées</sub>
     </td>
   </tr>
 </table>
