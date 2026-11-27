@@ -4,7 +4,7 @@
 un correctif à la fois, sur mon temps libre.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PR_mergées-420-8957e5?style=for-the-badge" alt="420 PR mergées">
+  <img src="https://img.shields.io/badge/PR_mergées-421-8957e5?style=for-the-badge" alt="421 PR mergées">
   <img src="https://img.shields.io/badge/projets-74-1f6feb?style=for-the-badge" alt="projets">
   <img src="https://img.shields.io/badge/organisations-31-238636?style=for-the-badge" alt="organisations">
 </p>
@@ -58,16 +58,16 @@ un correctif à la fois, sur mon temps libre.</p>
       <sub><a href="https://github.com/symfony-tools/docs-builder">docs-builder</a> · <a href="https://github.com/symfony-tools/symfony-application">symfony-application</a> · <a href="https://github.com/symfony-tools/code-block-checker">code-block-checker</a></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://github.com/phpstan"><img src="https://avatars.githubusercontent.com/u/16435710?v=4&s=128" width="64" height="64" alt="phpstan"></a><br>
-      <b>PHPStan</b><br>
-      <sub><b>8</b> PR mergées</sub><br>
-      <sub><a href="https://github.com/phpstan/phpstan-src">phpstan-src</a> · <a href="https://github.com/phpstan/phpstan-doctrine">phpstan-doctrine</a> · <a href="https://github.com/phpstan/phpstan-symfony">phpstan-symfony</a></sub>
+      <a href="https://github.com/api-platform"><img src="https://avatars.githubusercontent.com/u/13420081?v=4&s=128" width="64" height="64" alt="api-platform"></a><br>
+      <b>API Platform</b><br>
+      <sub><b>9</b> PR mergées</sub><br>
+      <sub><a href="https://github.com/api-platform/core">core</a> · <a href="https://github.com/api-platform/docs">docs</a></sub>
     </td>
   </tr>
 </table>
 
 <p>Et aussi :
-  <a href="https://github.com/api-platform"><img src="https://avatars.githubusercontent.com/u/13420081?v=4&s=56" width="28" height="28" alt="api-platform" title="api-platform : 8 PR mergées"></a>
+  <a href="https://github.com/phpstan"><img src="https://avatars.githubusercontent.com/u/16435710?v=4&s=56" width="28" height="28" alt="phpstan" title="phpstan : 8 PR mergées"></a>
   <a href="https://github.com/OskarStark"><img src="https://avatars.githubusercontent.com/u/995707?u=dd5209da4ffbbcbb8416314344a372311bd6982e&v=4&s=56" width="28" height="28" alt="OskarStark" title="OskarStark : 8 PR mergées"></a>
   <a href="https://github.com/liip"><img src="https://avatars.githubusercontent.com/u/166102?v=4&s=56" width="28" height="28" alt="liip" title="liip : 7 PR mergées"></a>
   <a href="https://github.com/KnpLabs"><img src="https://avatars.githubusercontent.com/u/202732?v=4&s=56" width="28" height="28" alt="KnpLabs" title="KnpLabs : 7 PR mergées"></a>
@@ -90,32 +90,32 @@ un correctif à la fois, sur mon temps libre.</p>
 <table>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/5717006?v=4&s=64" width="32" height="32" alt="sulu"></td>
-    <td><a href="https://github.com/sulu/sulu/pull/9284">Add opt-in schema.org JSON-LD structured data to the SEO template</a><br><sub><a href="https://github.com/sulu/sulu">sulu/sulu</a> · aujourd'hui</sub></td>
+    <td><a href="https://github.com/sulu/sulu/pull/9284">Add opt-in schema.org JSON-LD structured data to the SEO template</a><br><sub><a href="https://github.com/sulu/sulu">sulu/sulu</a> · hier</sub></td>
     <td>🟢&nbsp;ouverte</td>
   </tr>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/13420081?v=4&s=64" width="32" height="32" alt="api-platform"></td>
-    <td><a href="https://github.com/api-platform/docs/pull/2376">docs(operations): PUT replaces the whole resource by default</a><br><sub><a href="https://github.com/api-platform/docs">api-platform/docs</a> · hier</sub></td>
-    <td>🟢&nbsp;ouverte</td>
+    <td><a href="https://github.com/api-platform/docs/pull/2376">docs(operations): PUT replaces the whole resource by default</a><br><sub><a href="https://github.com/api-platform/docs">api-platform/docs</a> · il y a 2 jours</sub></td>
+    <td>🟣&nbsp;mergée</td>
   </tr>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/16435710?v=4&s=64" width="32" height="32" alt="phpstan"></td>
-    <td><a href="https://github.com/phpstan/phpstan-src/pull/7139">Add a dynamic return type extension for `getenv()`</a><br><sub><a href="https://github.com/phpstan/phpstan-src">phpstan/phpstan-src</a> · il y a 2 jours</sub></td>
+    <td><a href="https://github.com/phpstan/phpstan-src/pull/7139">Add a dynamic return type extension for `getenv()`</a><br><sub><a href="https://github.com/phpstan/phpstan-src">phpstan/phpstan-src</a> · il y a 3 jours</sub></td>
     <td>🟣&nbsp;mergée</td>
   </tr>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/547869?v=4&s=64" width="32" height="32" alt="Behat"></td>
-    <td><a href="https://github.com/Behat/Behat/pull/1914">[3.x] ci: Fail on deprecations through to the inner Behat runs in one job</a><br><sub><a href="https://github.com/Behat/Behat">Behat/Behat</a> · il y a 4 jours</sub></td>
+    <td><a href="https://github.com/Behat/Behat/pull/1914">[3.x] ci: Fail on deprecations through to the inner Behat runs in one job</a><br><sub><a href="https://github.com/Behat/Behat">Behat/Behat</a> · il y a 5 jours</sub></td>
     <td>🟣&nbsp;mergée</td>
   </tr>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/201963?u=595f6338ca5577892a397b84dcdfd7662c192eb6&v=4&s=64" width="32" height="32" alt="lcobucci"></td>
-    <td><a href="https://github.com/lcobucci/jwt-rsassa-pss/pull/28">Sign and verify with ext-openssl on PHP 8.5 and OpenSSL 3.1+</a><br><sub><a href="https://github.com/lcobucci/jwt-rsassa-pss">lcobucci/jwt-rsassa-pss</a> · il y a 5 jours</sub></td>
+    <td><a href="https://github.com/lcobucci/jwt-rsassa-pss/pull/28">Sign and verify with ext-openssl on PHP 8.5 and OpenSSL 3.1+</a><br><sub><a href="https://github.com/lcobucci/jwt-rsassa-pss">lcobucci/jwt-rsassa-pss</a> · il y a 6 jours</sub></td>
     <td>🟢&nbsp;ouverte</td>
   </tr>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/166102?v=4&s=64" width="32" height="32" alt="liip"></td>
-    <td><a href="https://github.com/liip/LiipImagineBundle/pull/1682">Remove the normalize_filter_set_names option and the normalization of filter set names</a><br><sub><a href="https://github.com/liip/LiipImagineBundle">liip/LiipImagineBundle</a> · il y a 6 jours</sub></td>
+    <td><a href="https://github.com/liip/LiipImagineBundle/pull/1682">Remove the normalize_filter_set_names option and the normalization of filter set names</a><br><sub><a href="https://github.com/liip/LiipImagineBundle">liip/LiipImagineBundle</a> · il y a 7 jours</sub></td>
     <td>🟣&nbsp;mergée</td>
   </tr>
 </table>
@@ -128,18 +128,18 @@ un correctif à la fois, sur mon temps libre.</p>
     <td align="center" width="50%" valign="top">
       <a href="https://github.com/symfony/symfony"><img src="https://avatars.githubusercontent.com/u/143937?v=4&s=192" width="96" height="96" alt="symfony"></a><br>
       <h3>Symfony</h3>
-      🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v6.4.51"><code>v6.4.51</code></a> <sub>hier · <a href="https://github.com/symfony/symfony/pull/68075">#68075</a> <a href="https://github.com/symfony/symfony/pull/68076">#68076</a></sub><br>
-      🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA1"><code>v8.2.0-BETA1</code></a> <sub>il y a 22 jours · <a href="https://github.com/symfony/symfony/pulls?q=is%3Apr+is%3Amerged+author%3AAmoifr+base%3A8.2+merged%3A2026-06-23..2026-10-21">27 PR</a></sub><br>
-      🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v6.4.49"><code>v6.4.49</code></a> <sub>il y a 29 jours · <a href="https://github.com/symfony/symfony/pull/67264">#67264</a></sub><br>
+      🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v6.4.51"><code>v6.4.51</code></a> <sub>il y a 2 jours · <a href="https://github.com/symfony/symfony/pull/68075">#68075</a> <a href="https://github.com/symfony/symfony/pull/68076">#68076</a></sub><br>
+      🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA1"><code>v8.2.0-BETA1</code></a> <sub>il y a 23 jours · <a href="https://github.com/symfony/symfony/pulls?q=is%3Apr+is%3Amerged+author%3AAmoifr+base%3A8.2+merged%3A2026-06-23..2026-10-21">27 PR</a></sub><br>
+      🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v6.4.49"><code>v6.4.49</code></a> <sub>il y a 1 mois · <a href="https://github.com/symfony/symfony/pull/67264">#67264</a></sub><br>
       🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v6.4.47"><code>v6.4.47</code></a> <sub>il y a 1 mois · <a href="https://github.com/symfony/symfony/pull/66359">#66359</a></sub><br>
       🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v6.4.46"><code>v6.4.46</code></a> <sub>il y a 2 mois · <a href="https://github.com/symfony/symfony/pull/65995">#65995</a> <a href="https://github.com/symfony/symfony/pull/66027">#66027</a></sub><br>
     </td>
     <td align="center" width="50%" valign="top">
       <a href="https://github.com/sulu/sulu"><img src="https://avatars.githubusercontent.com/u/5717006?v=4&s=192" width="96" height="96" alt="sulu"></a><br>
       <h3>Sulu CMS</h3>
-      🏷️ <a href="https://github.com/sulu/sulu/releases/tag/3.1.0-alpha1"><code>3.1.0-alpha1</code></a> <sub>il y a 28 jours · <a href="https://github.com/sulu/sulu/pulls?q=is%3Apr+is%3Amerged+author%3AAmoifr+base%3A3.1+merged%3A2026-06-01..2026-10-28">4 PR</a></sub><br>
-      🏷️ <a href="https://github.com/sulu/sulu/releases/tag/3.0.11"><code>3.0.11</code></a> <sub>il y a 28 jours · <a href="https://github.com/sulu/sulu/pull/9215">#9215</a></sub><br>
-      🏷️ <a href="https://github.com/sulu/sulu/releases/tag/2.6.28"><code>2.6.28</code></a> <sub>il y a 28 jours · <a href="https://github.com/sulu/sulu/pull/9077">#9077</a></sub><br>
+      🏷️ <a href="https://github.com/sulu/sulu/releases/tag/3.1.0-alpha1"><code>3.1.0-alpha1</code></a> <sub>il y a 29 jours · <a href="https://github.com/sulu/sulu/pulls?q=is%3Apr+is%3Amerged+author%3AAmoifr+base%3A3.1+merged%3A2026-06-01..2026-10-28">4 PR</a></sub><br>
+      🏷️ <a href="https://github.com/sulu/sulu/releases/tag/3.0.11"><code>3.0.11</code></a> <sub>il y a 29 jours · <a href="https://github.com/sulu/sulu/pull/9215">#9215</a></sub><br>
+      🏷️ <a href="https://github.com/sulu/sulu/releases/tag/2.6.28"><code>2.6.28</code></a> <sub>il y a 29 jours · <a href="https://github.com/sulu/sulu/pull/9077">#9077</a></sub><br>
       🏷️ <a href="https://github.com/sulu/sulu/releases/tag/3.0.10"><code>3.0.10</code></a> <sub>il y a 1 mois · <a href="https://github.com/sulu/sulu/pull/8930">#8930</a> <a href="https://github.com/sulu/sulu/pull/9048">#9048</a></sub><br>
       🏷️ <a href="https://github.com/sulu/sulu/releases/tag/2.6.27"><code>2.6.27</code></a> <sub>il y a 1 mois · <a href="https://github.com/sulu/sulu/pulls?q=is%3Apr+is%3Amerged+author%3AAmoifr+base%3A2.6+merged%3A2026-08-26..2026-09-30">7 PR</a></sub><br>
     </td>
@@ -150,54 +150,54 @@ un correctif à la fois, sur mon temps libre.</p>
 <table>
   <tr>
     <td align="center" width="25%">
+      <a href="https://github.com/jsonrainbow/json-schema"><img src="https://avatars.githubusercontent.com/u/170307068?v=4&s=96" width="48" height="48" alt="jsonrainbow"></a><br>
+      <b><a href="https://github.com/jsonrainbow/json-schema">jsonrainbow/json-schema</a></b><br>
+      🏷️ <a href="https://github.com/jsonrainbow/json-schema/releases/tag/6.16.0"><code>6.16.0</code></a><br>
+      <sub>aujourd'hui · 10 PR mergées</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/symfony/symfony"><img src="https://avatars.githubusercontent.com/u/143937?v=4&s=96" width="48" height="48" alt="symfony"></a><br>
+      <b><a href="https://github.com/symfony/symfony">symfony/symfony</a></b><br>
+      🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v8.1.13"><code>v8.1.13</code></a><br>
+      <sub>aujourd'hui · 73 PR mergées</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/kevinpapst/TablerBundle"><img src="https://avatars.githubusercontent.com/u/533162?u=95107e7217747082aebd03e7ed44b54b01a811e3&v=4&s=96" width="48" height="48" alt="kevinpapst"></a><br>
+      <b><a href="https://github.com/kevinpapst/TablerBundle">kevinpapst/TablerBundle</a></b><br>
+      🏷️ <a href="https://github.com/kevinpapst/TablerBundle/releases/tag/2.5.0"><code>2.5.0</code></a><br>
+      <sub>aujourd'hui · 3 PR mergées</sub>
+    </td>
+    <td align="center" width="25%">
       <a href="https://github.com/zenstruck/browser"><img src="https://avatars.githubusercontent.com/u/475780?v=4&s=96" width="48" height="48" alt="zenstruck"></a><br>
       <b><a href="https://github.com/zenstruck/browser">zenstruck/browser</a></b><br>
       🏷️ <a href="https://github.com/zenstruck/browser/releases/tag/v1.15.0"><code>v1.15.0</code></a><br>
-      <sub>aujourd'hui · 5 PR mergées</sub>
+      <sub>hier · 5 PR mergées</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="25%">
       <a href="https://github.com/jolicode/MediaBundle"><img src="https://avatars.githubusercontent.com/u/1436371?v=4&s=96" width="48" height="48" alt="jolicode"></a><br>
       <b><a href="https://github.com/jolicode/MediaBundle">jolicode/MediaBundle</a></b><br>
       🏷️ <a href="https://github.com/jolicode/MediaBundle/releases/tag/v0.11.0"><code>v0.11.0</code></a><br>
-      <sub>aujourd'hui · 1 PR mergée</sub>
+      <sub>hier · 1 PR mergée</sub>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/VincentLanglet/Twig-CS-Fixer"><img src="https://avatars.githubusercontent.com/u/9052536?u=08359cb8bb095f0c36617cdfebe638faa53528ba&v=4&s=96" width="48" height="48" alt="VincentLanglet"></a><br>
       <b><a href="https://github.com/VincentLanglet/Twig-CS-Fixer">VincentLanglet/Twig-CS-Fixer</a></b><br>
       🏷️ <a href="https://github.com/VincentLanglet/Twig-CS-Fixer/releases/tag/4.2.0"><code>4.2.0</code></a><br>
-      <sub>aujourd'hui · 1 PR mergée</sub>
+      <sub>hier · 1 PR mergée</sub>
     </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/symfony/symfony"><img src="https://avatars.githubusercontent.com/u/143937?v=4&s=96" width="48" height="48" alt="symfony"></a><br>
-      <b><a href="https://github.com/symfony/symfony">symfony/symfony</a></b><br>
-      🏷️ <a href="https://github.com/symfony/symfony/releases/tag/v8.2.0-RC1"><code>v8.2.0-RC1</code></a><br>
-      <sub>hier · 73 PR mergées</sub>
-    </td>
-  </tr>
-  <tr>
     <td align="center" width="25%">
       <a href="https://github.com/EasyCorp/EasyAdminBundle"><img src="https://avatars.githubusercontent.com/u/14944619?v=4&s=96" width="48" height="48" alt="EasyCorp"></a><br>
       <b><a href="https://github.com/EasyCorp/EasyAdminBundle">EasyCorp/EasyAdminBundle</a></b><br>
       🏷️ <a href="https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v5.10.4"><code>v5.10.4</code></a><br>
-      <sub>hier · 4 PR mergées</sub>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/jsonrainbow/json-schema"><img src="https://avatars.githubusercontent.com/u/170307068?v=4&s=96" width="48" height="48" alt="jsonrainbow"></a><br>
-      <b><a href="https://github.com/jsonrainbow/json-schema">jsonrainbow/json-schema</a></b><br>
-      🏷️ <a href="https://github.com/jsonrainbow/json-schema/releases/tag/6.15.1"><code>6.15.1</code></a><br>
-      <sub>il y a 2 jours · 10 PR mergées</sub>
+      <sub>il y a 2 jours · 4 PR mergées</sub>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/twigphp/Twig"><img src="https://avatars.githubusercontent.com/u/5296178?v=4&s=96" width="48" height="48" alt="twigphp"></a><br>
       <b><a href="https://github.com/twigphp/Twig">twigphp/Twig</a></b><br>
       🏷️ <a href="https://github.com/twigphp/Twig/releases/tag/v4.0.0-beta1"><code>v4.0.0-beta1</code></a><br>
-      <sub>il y a 2 jours · 4 PR mergées</sub>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/composer/composer"><img src="https://avatars.githubusercontent.com/u/837015?v=4&s=96" width="48" height="48" alt="composer"></a><br>
-      <b><a href="https://github.com/composer/composer">composer/composer</a></b><br>
-      🏷️ <a href="https://github.com/composer/composer/releases/tag/2.11.3"><code>2.11.3</code></a><br>
-      <sub>il y a 2 jours · 3 PR mergées</sub>
+      <sub>il y a 3 jours · 4 PR mergées</sub>
     </td>
   </tr>
 </table>
